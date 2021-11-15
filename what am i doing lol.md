@@ -10,12 +10,12 @@ Both of these attempts take an area of life that we navigate, and refuse to play
 
 
 
-So what is it about these spaces that I want to say? What are autonmous spaces, should I make lists? Should I describe what are **not** autonomous spaces? Should I critique autonmous spces? should i talk about why they are necessary? about my experience there, especially as a novice, or as a queereinsteiger?
+*So what is it about these spaces that I want to say? What are autonmous spaces, should I make lists? Should I describe what are **not** autonomous spaces? Should I critique autonmous spces? should i talk about why they are necessary? about my experience there, especially as a novice, or as a queereinsteiger?*
 
-What are dependencies in programming?
+*What are dependencies in programming?*
 
-what is autonomy by definition?
+*what is autonomy by definition?*
 
-where do these spaces overlap? for example in email accounts, clouds of squats. Servers in squats. Domain squatting?
+*where do these spaces overlap? for example in email accounts, clouds of squats. Servers in squats. Domain squatting?*
 
-squatting is just a tactic
+*squatting is just a tactic*

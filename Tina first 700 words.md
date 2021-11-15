@@ -16,53 +16,63 @@ This state of uncertainty is maybe why attempts to refuse "the cloud" can often 
 
 As has been discussed many times, a lot of connections can be drawn between the 1960s counter culture movements and the history of computing, starting with the fact that both were simultaneously flourishing at the big Universities in California during that time. In this light we can make a comparison between this newly found desire to leave the cloud and the desire of the hippies to leave the cities and capitalism, to form new communities and spaces in which they could renegotiate the rules, do things differently. The 1960s *Back to the Land* movement often implied attempts to create self sustainable communities away from the big, metropolitan hubs and in collaboration with nature. If we take the cloud as the exit point for this new, contemporary movement away from it, it would be interesting to define what the "land", that we want to (supposedly) return to, could be in this case, and to have a closer look at who the people are that get to do these kind of things.
 
-—
+# Feedback
 
-autonomy/dependencies
+Tal: Open source: who can use my space? Autonomous spaces, who can enter my squat?
 
-who are the people that get to do these things?
+Jan: squatting and domain names. **A domain as the human legible equivalent to an address vs. an IP to coordinates. domain squatting.**
 
-is the land an ocean?
+​	also a bit realted: SEO gaming (rick santorum, a parody website was always ranked higher than the actual guy)
 
-what is this land in my case?
-
-Open source: who can use my space? Autonomous spaces, who can enter my squat?
-
-squatting and domain names. A domain as the human legible equivalent to an address vs. and IP to coordinates. domain squatting.
-
-also a bit realted: SEO gaming (rick santorum, a parody website was always ranked higher than the actual guy)
-
-read the prehistory of the cloud
+**read the prehistory of the cloud**
 
 book from micaela: tubes, a jhournalist who's internet connection got bitten through and then explores the physical internet: https://www.amazon.com/Tubes-Journey-Internet-Andrew-Blum/dp/0061994952
 
 **note from people 1.11.21:**
 
 - alix:
+
   - it's a bit like a logbook, with "in september 2008 this happened" etc, can this be emphasized on?
+
 - tina:
+
   - funny that my refs are in the wayback machine
   - [gerogian woman cut the internet by acident](https://www.theguardian.com/world/2011/apr/06/georgian-woman-cuts-web-access)
+
 - jan:
+
   - can things be publicised? what about a public broadcasting social media?
   - can there be a public cloud?
     - the iphone chart, military tech etc, but all american tech
+
 - tal:
+
   - when is open source a bad thing?
   - the most self organized countries are the ones that have sanctions
     - it's not only wanting to leave the city, but being isolated from the outside
   - what are reasons to look at self sufficiency?
+
 - tina:
+
   - what jan said: lay some ground work, why is the cloud bad, why do i want to refuse it?
   - also: what is happening more recently, after 2008? What is going on now?
+
 - katharina:
+
   - entanglements in general, and also personal stories of setting up the server
   - the wifi dish: the cloud is not everywhere
   - demystify the cloud, show that i did my research, it's physical, but other than that she likes it :)
+
 - there are alternatives for everything: mastodon
+
   - but then katahrina says: not for everything there are alternatives (silvio's text)
+
   - **check that again**
+
+    
+
 - Old man yells at cloud. Having recently turned 30 that's often how I feel in my work.
+
   - a one way conversation
   - the cloud is not a cloud: internet infrastructures, acess and inequality
   - the server is not only an attempt to redefine, but also to understand
@@ -70,81 +80,10 @@ book from micaela: tubes, a jhournalist who's internet connection got bitten thr
   - so superficial also: the stack goes much deeper
   - **creating space, what is space, who defines it, what are the paradigms, how is it organised?**
   - bases/places/spaces?
+
 - In my efforts to redefine the cloud in my practice I have stumbled across many people who have made similar efforts, in trying to break lose from the frameworks that surround them and to redfine the dependencies that define their lives.
+
 - what is autonomy? an autonomous practice? autonmous spaces?
+
   - it's also content, a story, mystified
   - mesh network gotenna thing, even that is now slick
-
-suqatting online:
-
-domain squatting
-
-piggybacking
-
-the guy building a toaster from scratch
-
-your computer doesn't belong to you
-
-counter culture and computers have the same history
-
-**back to the land movement!**
-
-what does that mean digitally, what is 'the land'? it's not the cloud for sure!
-
-it's also certainly not the ocean...
-
-If the internet used to be an ocean that can be surfed etc, what is it now?
-
-**the story of the woman who invented the term surfing the web is very interesting**
-
-why did so many communes fail?
-
-amsterdam city of squats
-
-lets not forget pirate radios though, talking about ocean as a free space etc. it's not only bad.
-
-collapse OS: an operating system that can run on almost anything when society collapses
-
-IPFS: interplanetary file sharing lol
-
-the network is eternal and so is the ocean
-
-the term cloud literally meant the "unknown" part of a network diagram, the internet.
-
-cybernetics comes from captain! sovereignty over spaces.
-
-software is never finished, you always need to maintain it. like a boat, like a squat, like many things
-
-steve jobs was once homeless (thinking about priviledge)
-
-also richard stalman is so private, but also in a position to do that
-
-also all the silicon valley millionaires that don't let their children use tech
-
-who can just miss work for two weeks?
-
-the ultimate dropout is ted kaczynski
-
-Welcome to my Ted-Kaczynski-Talk
-
-anprim, reject modernity embrace tradition
-
-**tech is a race to the brain stem!**
-
-feminist server summit, maintenance care
-
-what is the difference between a server and a boat?
-
-big tech is exploitative, and that is not an accident, that is by design (remember pursuasive technology lab, youtube algorithms, pull to refresh, like button etc)
-
-- we are also talking about government/military technology here
-
-**what would a nomadic server be? and why would this be a good thing?**
-
-boating is not a working class hobby. tech and water don't mix.
-
-VPN scams (internet historian could be a funny reference here)
-
-the desire for privacy, but also being totally misinformed
-
-anarchist yacht club

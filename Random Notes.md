@@ -1,3 +1,77 @@
+suqatting online:
+domain squatting
+piggybacking
+
+the guy building a toaster from scratch
+
+your computer doesn't belong to you
+
+counter culture and computers have the same history
+
+**back to the land movement!**
+
+what does that mean digitally, what is 'the land'? it's not the cloud for sure!
+
+it's also certainly not the ocean...
+
+If the internet used to be an ocean that can be surfed etc, what is it now?
+
+**the story of the woman who invented the term surfing the web is very interesting**
+
+why did so many communes fail?
+
+amsterdam city of squats
+
+lets not forget pirate radios though, talking about ocean as a free space etc. it's not only bad.
+
+collapse OS: an operating system that can run on almost anything when society collapses
+
+IPFS: interplanetary file sharing lol
+
+the network is eternal and so is the ocean
+
+the term cloud literally meant the "unknown" part of a network diagram, the internet.
+
+cybernetics comes from captain! sovereignty over spaces.
+
+software is never finished, you always need to maintain it. like a boat, like a squat, like many things
+
+steve jobs was once homeless (thinking about priviledge)
+
+also richard stalman is so private, but also in a position to do that
+
+also all the silicon valley millionaires that don't let their children use tech
+
+who can just miss work for two weeks?
+
+the ultimate dropout is ted kaczynski
+
+Welcome to my Ted-Kaczynski-Talk
+
+anprim, reject modernity embrace tradition
+
+**tech is a race to the brain stem!**
+
+feminist server summit, maintenance care
+
+what is the difference between a server and a boat?
+
+big tech is exploitative, and that is not an accident, that is by design (remember pursuasive technology lab, youtube algorithms, pull to refresh, like button etc)
+
+- we are also talking about government/military technology here
+
+**what would a nomadic server be? and why would this be a good thing?**
+
+boating is not a working class hobby. tech and water don't mix.
+
+VPN scams (internet historian could be a funny reference here)
+
+the desire for privacy, but also being totally misinformed
+
+anarchist yacht club
+
+
+
 - D I Why?
   - why do people want to get off grid?
   - DIY Perks lol
