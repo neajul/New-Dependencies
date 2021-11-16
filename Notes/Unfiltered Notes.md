@@ -15,6 +15,9 @@
 ## building servers, squatting (online)
 
 - It's not just about alternatives, but also about understanding
+- **For some people, these things are about survival!**
+  - *Same as offline squatting*
+- A level of complexity that makes individual action seem futile
 - domain squatting
   - A domain is like an address (human legible), an IP is like coordinates (machine legible)
 - **piggybacking**
@@ -33,8 +36,6 @@
 - **mesh networks**
 - software is never finished, you always need to maintain it
   - like a boat, like a squat, like life
-- **For some people, these things are about survival!**
-  - *Same as offline squatting*
 - **What are dependencies?**
   - dependencies and addictions.
   - Only tech and drug users quote!
@@ -98,6 +99,7 @@
 - autonomy vs interdependence. Hermitism vs. community.
 - your computer doesn't belong to you
 - How deep does the stack go?
+- Libertarian Leisure Culture
 
 
 
@@ -166,7 +168,7 @@
 
 
 
-## natural tech metaphors
+## Tech and Water
 
 - **where does the ocean metaphor come from?**
   - in which ways does it actually fail in which ways does it hold up, can it be useful? or is it only occluding?
@@ -184,9 +186,12 @@
 - **cybernetics comes from captain! sovereignty over spaces.**
 - inter"net", fishnet
 - I just want to say blog, blogbook, vlog etc again. vlogbook. I wonder if anyone on youtube has mader that joke.
-- I liek this idea of [the waste](https://howlscastle.fandom.com/wiki/The_Waste), the land outside that you cannot enter.
-  - The evil internet of sorts, and your little digital platform, or boat, or moving castle, or luxury van, or spaceship is the thing that alloows you to survive in this otherwise hostile environment
+- I like this idea of [the waste](https://howlscastle.fandom.com/wiki/The_Waste), the land outside that you cannot enter.
+  - The evil internet of sorts, and your little digital platform, or boat, or moving castle, or luxury van, or spaceship (vehicle) is the thing that alloows you to survive in this otherwise hostile environment
   - from trust. might be a good followup to the cloud story?
+- We need to go towards sailboats, other boats are bad for the environment!
+  - Same for servers.
+  - **Often servers are already wind powered (Netherlands)**
 
 
 
