@@ -1,0 +1,7 @@
+- [ ] Thesis Sascha
+- [ ] Thesis why am i so sad if so smooth woman
+- [ ] Thesis Miquel
+- [ ] Thesis Augustina
+- [ ] Squatting Book
+- [ ] James Bridle
+- [ ] Prehistory of the cloud potentially

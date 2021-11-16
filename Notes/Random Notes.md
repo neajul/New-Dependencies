@@ -1,16 +1,64 @@
+## Structure
+
+- I don't hate the idea of quoting former Sandberg students!
+
+
+
 ## building servers, squatting (online)
+
 - domain squatting
 - piggybacking
-- amsterdam, city of squats
 - **feminist server summit, maintenance care**
 - what is the difference between a server and a boat?
 - **what would a nomadic server be? and why would this be a good thing?**
+- websites and opening times: why don't we turn our servers off at night?
+  - redirect them to one central page that logs different opening hours for different services?
+- why should people use my shitty tool/server/whatever?
+  - **DIY Perks lol**
+
+- wind powered, autonomous server/powered with a fan
+- **mesh networks**
+- software is never finished, you always need to maintain it
+  - like a boat, like a squat, like life
+- What could a wifi dish do on a boat?
+
+
+
+## cyber prepping
+
+- IPFS
+- collapse OS: an operating system that can run on almost anything when society collapses
+- Scuttlebutt
+- Cyberdecks
+
+
+
+## Squatting (offline)
+
+- amsterdam, city of squats
+
+
+
+## Online Communities
+
+- Metverse etc
+  - the trust people with their 3d interfaces
+  - **where are they hosted?**
+- how to writing, how are tech tutorials written (with amy's class)
+
+  - anja case stories
+  - **stackoverflow: asking how to do a thing, getting told you shouldn't do it!**
 
 
 
 ## What is autonomy?
 
 - the guy building a toaster from scratch
+- D I Why?
+
+  - why do people want to get off grid?
+- autonomy vs interdependence. Hermitism vs. community.
+- your computer doesn't belong to you
 
 
 
@@ -41,6 +89,25 @@
 - **anarchist yacht club**
   - there are multiple kinds of boats. there is the big yacht, or the refurbished, squatted, **communal** boat. 
   - What does that do with the ocean metaphor?
+- **pirate radios**
+  - talking about ocean as a free space etc. it's not only bad.
+
+
+
+## Back to the land/sea/whatever
+
+- **VPNs are scams for privacy (internet historian could be a funny reference here)**
+
+  - somewhere in my notes
+
+  - the desire for privacy, but also being totally misinformed
+
+- **I say there is a digital back to the land movement, but where is that true??**
+
+  - everybody hates facebook/instagram
+  - fake news, vaccinations
+  - vpns!
+  - *see cyber prepping*
 
 
 
@@ -48,6 +115,7 @@
 
 - **where does the ocean metaphor come from?**
   - in which ways does it actually fail in which ways does it hold up, can it be useful? or is it only occluding?
+    - *see pirate radios*
   - can it be in the essay?
 - water and electricity don't mix
   - **boating is not exactly a working class hobby**
@@ -67,61 +135,3 @@
 
 
 
-
-
-
-
-
-
-your computer doesn't belong to you
-
-
-
-lets not forget pirate radios though, talking about ocean as a free space etc. it's not only bad.
-
-
-
-collapse OS: an operating system that can run on almost anything when society collapses
-
-
-
-IPFS: interplanetary file sharing lol
-
-
-
-software is never finished, you always need to maintain it. like a boat, like a squat, like many things
-
-
-
-VPN scams (internet historian could be a funny reference here)
-
-the desire for privacy, but also being totally misinformed
-
-
-
-- D I Why?
-
-  - why do people want to get off grid?
-  - DIY Perks lol
-
-- the guy who built a toaster from scratch (also something about a car maybe?)
-
-- what exactly was the vpn thing of sascha etc?
-
-- mesh networks
-
-- autonomy vs interdependence. Hermitism vs. community.
-
-- wind powered, autonomous server/powered with a fan
-
-- how to writing, how are tech tutorials written (with amy's class)
-
-  - anja case stories
-
-- 3D images like LOT of the server in nature
-
-- I wonder how the wifi dish would hold up on a sail boat. Since it's made from wire it shouldn't catch too much wind I guess? could it be used to connect to something on the ocean?
-
-- websites and opening times: why don't we turn our servers off at night? redirect them to one central page that logs different opening hours for different services?
-
-  
