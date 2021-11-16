@@ -1,0 +1,6 @@
+- [ ] What is autonomy?
+- [ ] What are dependencies
+- [ ] Sort Feedback in 700 word excerpt.
+  - [ ] I had an idea of how to continue that part, should be in my notes?
+- [ ] Read and re-read everything I wrote, I need to memorize this shit
+- [ ] **go. through. my. content. list.**
