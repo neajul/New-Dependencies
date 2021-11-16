@@ -63,6 +63,8 @@
   - *see: domain squatting*
 - **And: for some it's survival, not political action**
   - *same with digital squatting*
+- squatting around the world
+  - squatted cities in china 
 
 
 
