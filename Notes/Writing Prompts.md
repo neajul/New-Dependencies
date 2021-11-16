@@ -1,3 +1,5 @@
+- [ ] What is autonomy?
+- [ ] What are dependencies
 - [ ] Why am I writing this text in Typora and Git?
   - Why am I writing it in Sweden?
   - What am I Hoping to gain from this?
