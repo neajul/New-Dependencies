@@ -14,6 +14,7 @@
 
 ## building servers, squatting (online)
 
+- It's not just about alternatives, but also about understanding
 - domain squatting
   - A domain is like an address (human legible), an IP is like coordinates (machine legible)
 - **piggybacking**
@@ -26,6 +27,8 @@
   - redirect them to one central page that logs different opening hours for different services?
 - why should people use my shitty tool/server/whatever?
   - **DIY Perks lol**
+  - buggy. dataloss is always imminent.
+  - *see squats*
 - wind powered, autonomous server/powered with a fan
 - **mesh networks**
 - software is never finished, you always need to maintain it
@@ -33,6 +36,8 @@
 - **For some people, these things are about survival!**
   - *Same as offline squatting*
 - **What are dependencies?**
+  - dependencies and addictions.
+  - Only tech and drug users quote!
 
 
 
@@ -48,6 +53,8 @@
 ## Squatting (offline)
 
 - amsterdam, city of squats
+- evicition is always imminent
+  - *see building servers*
 - Deporpriating instead of apropriating, **making available**
   - **available to who?**
   - In a way things that are being discussed in open source community are super obvious in squatting community, no you can NOT come in
@@ -80,13 +87,15 @@
 ## What is autonomy?
 
 - **Literally: What does autonomy mean, where does the word come from, how is it used etc???**
-
+  - what is an autonomous practice?
+  - what are autonmous spaces: what is space, who defines it, what are the paradigms, how is it structured/organised?
 - the guy building a toaster from scratch
 - D I Why?
 
   - why do people want to get off grid?
 - autonomy vs interdependence. Hermitism vs. community.
 - your computer doesn't belong to you
+- How deep does the stack go?
 
 
 
@@ -146,6 +155,15 @@
 
 
 
+## Aussteigen Bitte
+
+- Dropping out as an image
+- the gotenna: mesh networks in slick
+- vpns are mainstream
+- 60s communes, glorification of 60s counter culture!
+
+
+
 ## natural tech metaphors
 
 - **where does the ocean metaphor come from?**
@@ -175,40 +193,3 @@
 - [Tubes](https://www.amazon.com/Tubes-Journey-Internet-Andrew-Blum/dp/0061994952), a journalist who's internet breaks because an animal chewed through a cable, then goes to visit all the actual hubs (Micaela)
 - [gerogian woman cut the internet by acident](https://www.theguardian.com/world/2011/apr/06/georgian-woman-cuts-web-access) (from Tina)
 - **The cloud is NOT everywhere (even in germany it is not)**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- - 
-
-- Old man yells at cloud. Having recently turned 30 that's often how I feel in my work.
-
-  - a one way conversation
-  - the cloud is not a cloud: internet infrastructures, acess and inequality
-  - the server is not only an attempt to redefine, but also to understand
-  - also it's buggy so hard to make available to others
-  - so superficial also: the stack goes much deeper
-  - **creating space, what is space, who defines it, what are the paradigms, how is it organised?**
-  - bases/places/spaces?
-
-- In my efforts to redefine the cloud in my practice I have stumbled across many people who have made similar efforts, in trying to break lose from the frameworks that surround them and to redfine the dependencies that define their lives.
-
-- what is autonomy? an autonomous practice? autonmous spaces?
-
-  - it's also content, a story, mystified
-  - mesh network gotenna thing, even that is now slick
