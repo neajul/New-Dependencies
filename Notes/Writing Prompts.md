@@ -34,5 +34,3 @@
 
 - [ ] **The seasteading cruise ship**
 
-- 
-

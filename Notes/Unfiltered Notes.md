@@ -8,35 +8,55 @@
 - logbook character is also in the dates that I mention.
   - Sort chronological lol
 
-
-
 # Content
 
 ## building servers, squatting (online)
 
 - It's not just about alternatives, but also about understanding
+
 - **For some people, these things are about survival!**
+
   - *Same as offline squatting*
+
 - A level of complexity that makes individual action seem futile
+
 - domain squatting
+
   - A domain is like an address (human legible), an IP is like coordinates (machine legible)
+
 - **piggybacking**
+
 - SEO gaming
+
   - rick santorum: parody website that alsways ranked higher than actual guy (Jan)
+
 - **feminist server summit, maintenance care**
+
 - what is the difference between a server and a boat?
+
 - **what would a nomadic server be? and why would this be a good thing?**
+
+  > As such, tools are the result of thinking form, function, time,  and outcome together. When labour becomes nomadic, tools adapt. When  nomadic tools develop, labour follows. Tools follow function.
+
+  — Fanfare Inc (Miquel's thesis)
+
 - websites and opening times: why don't we turn our servers off at night?
   - redirect them to one central page that logs different opening hours for different services?
+  
 - why should people use my shitty tool/server/whatever?
   - **DIY Perks lol**
   - buggy. dataloss is always imminent.
   - *see squats*
+  
 - wind powered, autonomous server/powered with a fan
+
 - **mesh networks**
+
 - software is never finished, you always need to maintain it
   - like a boat, like a squat, like life
+  
 - **What are dependencies?**
+
   - dependencies and addictions.
   - Only tech and drug users quote!
 
