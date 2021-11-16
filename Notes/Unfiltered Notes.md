@@ -1,6 +1,12 @@
 # Structure
 
-- I don't hate the idea of quoting former Sandberg students!
+- I don't hate the idea of quoting former Sandberg students
+- Why are so many of my things from 2008?
+  - **using references from the wayback machine, what does that mean?**
+  - and what is going on today? it's not 2008 anymore
+- How much personal stories do I want to include?
+- logbook character is also in the dates that I mention.
+  - Sort chronological lol
 
 
 
@@ -24,7 +30,8 @@
 - **mesh networks**
 - software is never finished, you always need to maintain it
   - like a boat, like a squat, like life
-- What could a wifi dish do on a boat?
+- **For some people, these things are about survival!**
+  - *Same as offline squatting*
 - **What are dependencies?**
 
 
@@ -45,6 +52,10 @@
   - **available to who?**
   - In a way things that are being discussed in open source community are super obvious in squatting community, no you can NOT come in
   - *See Online communities*
+- **Squatting is just a tactic,** nazis can squat as well!
+  - *see: domain squatting*
+- **And: for some it's survival, not political action**
+  - *same with digital squatting*
 
 
 
@@ -61,6 +72,8 @@
   - **Licensing: who gets to use my code?**
   - Varia, what licenses are there?
   - *See squatting*
+- Alternatives exist:
+  - mastodon, nextcloud etc. But of course not for everyone, and not for everything. **They are exclusive, too.**
 
 
 
@@ -80,11 +93,10 @@
 ## Nobody likes big tech
 
 - **tech is a race to the brain stem!**
-
 - big tech is exploitative, and that is not an accident, that is by design
   - pursuasive technology lab, youtube algorithms, pull to refresh, like button etc
-
 - we are also talking about government/military technology here
+  - but only american military
 - You can't reinstall Adobe before CS5, they disactivated the servers for activation
   - [even if you bought the phsyical CDs](https://www.youtube.com/watch?v=DEP_7_gx6M8)
 
@@ -116,13 +128,20 @@
   - somewhere in my notes
 
   - the desire for privacy, but also being totally misinformed
-
 - **I say there is a digital back to the land movement, but where is that true??**
 
   - everybody hates facebook/instagram
   - fake news, vaccinations
   - vpns!
   - *see cyber prepping*
+  - It's not all LARPing, in parts of the world it's necessity!
+    - **Beirut!**
+- Where are the overlaps between online and offline squatting? For example: we use cryptpad, signal, matrix server. We steal the internet of the hotel across the street.
+  - How do they inform each other?
+  - **What is this amsterdam squat net??**
+- Jan: what if the cloud were public?
+  - Public broadcast social media
+- Tal: it's not just wanting to leave the city, **it's being excluded from it too!**
 
 
 
@@ -152,5 +171,43 @@
 
 ## Why is everything so Material?
 
-- [Tubes](https://www.amazon.com/Tubes-Journey-Internet-Andrew-Blum/dp/0061994952), a journalist who's internet breaks because an animal chewed through a cable, then goes to visit all the actual hubs
-- 
+- [Tubes](https://www.amazon.com/Tubes-Journey-Internet-Andrew-Blum/dp/0061994952), a journalist who's internet breaks because an animal chewed through a cable, then goes to visit all the actual hubs (Micaela)
+- [gerogian woman cut the internet by acident](https://www.theguardian.com/world/2011/apr/06/georgian-woman-cuts-web-access) (from Tina)
+- **The cloud is NOT everywhere (even in germany it is not)**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- - 
+
+- Old man yells at cloud. Having recently turned 30 that's often how I feel in my work.
+
+  - a one way conversation
+  - the cloud is not a cloud: internet infrastructures, acess and inequality
+  - the server is not only an attempt to redefine, but also to understand
+  - also it's buggy so hard to make available to others
+  - so superficial also: the stack goes much deeper
+  - **creating space, what is space, who defines it, what are the paradigms, how is it organised?**
+  - bases/places/spaces?
+
+- In my efforts to redefine the cloud in my practice I have stumbled across many people who have made similar efforts, in trying to break lose from the frameworks that surround them and to redfine the dependencies that define their lives.
+
+- what is autonomy? an autonomous practice? autonmous spaces?
+
+  - it's also content, a story, mystified
+  - mesh network gotenna thing, even that is now slick

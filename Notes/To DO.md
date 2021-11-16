@@ -4,3 +4,5 @@
   - [ ] I had an idea of how to continue that part, should be in my notes?
 - [ ] Read and re-read everything I wrote, I need to memorize this shit
 - [ ] **go. through. my. content. list.**
+- [ ] also check again classes from this year, for example writing excercises
+- [ ] go through notes, collect writing prompts

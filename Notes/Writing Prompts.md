@@ -1,0 +1,11 @@
+- [ ] Why am I writing this text in Typora and Git?
+  - And where am I writing it?
+  - What am I Hoping to gain from this?
+
+- [ ] Could continue with the cloud thing: what is the cloud for trust? (the waste)
+- [ ] what is there to dislike about the cloud?
+  - [ ] demystify it
+  - [ ] it's not everywhere, think of Germany (funklöcher)
+  - [ ] exclusion, being forced to find your own tools!
+- [ ] Story of wanting to fix something, landing on stackoverflow and have someone tell me not to fix it
+- [ ] Talk about Beirut. It's not all a game, it's survival for some people.
