@@ -1,8 +1,8 @@
 - [ ] What is autonomy?
 - [ ] What are dependencies
-- [ ] Sort Feedback in 700 word excerpt.
-  - [ ] I had an idea of how to continue that part, should be in my notes?
+- [x] Sort Feedback in 700 word excerpt.
 - [ ] Read and re-read everything I wrote, I need to memorize this shit
 - [ ] **go. through. my. content. list.**
 - [ ] also check again classes from this year, for example writing excercises
-- [ ] go through notes, collect writing prompts
+- [x] go through notes, collect writing prompts
+- [ ] do some writing prompts

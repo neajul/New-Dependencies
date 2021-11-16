@@ -16,7 +16,7 @@
 
 - domain squatting
   - A domain is like an address (human legible), an IP is like coordinates (machine legible)
-- piggybacking
+- **piggybacking**
 - SEO gaming
   - rick santorum: parody website that alsways ranked higher than actual guy (Jan)
 - **feminist server summit, maintenance care**
@@ -110,8 +110,9 @@
 - richard stalman can afford to be super extreme in terms of privacy, but can i/you/we? he is in a position to do this!
   - also all the silicon valley millionaires that don't let their children use tech
   - who can just miss work for two weeks?
-  - the ultimate dropout is ted kaczynski
-    - Welcome to my Ted-Kaczynski-Talk
+
+- the ultimate dropout is ted kaczynski
+  - Welcome to my Ted-Kaczynski-Talk
   - anprim, reject modernity embrace tradition
 - **anarchist yacht club**
   - there are multiple kinds of boats. there is the big yacht, or the refurbished, squatted, **communal** boat. 
@@ -123,25 +124,25 @@
 
 ## Back to the land/sea/whatever
 
+- **I say there is a digital back to the land movement, but where is that true?**
+  - everybody hates facebook/instagram
+  - fake news, vaccinations
+  - vpns!
+  - *see cyber prepping*
 - **VPNs are scams for privacy (internet historian could be a funny reference here)**
 
   - somewhere in my notes
 
   - the desire for privacy, but also being totally misinformed
-- **I say there is a digital back to the land movement, but where is that true??**
-
-  - everybody hates facebook/instagram
-  - fake news, vaccinations
-  - vpns!
-  - *see cyber prepping*
-  - It's not all LARPing, in parts of the world it's necessity!
-    - **Beirut!**
 - Where are the overlaps between online and offline squatting? For example: we use cryptpad, signal, matrix server. We steal the internet of the hotel across the street.
   - How do they inform each other?
   - **What is this amsterdam squat net??**
 - Jan: what if the cloud were public?
   - Public broadcast social media
 - Tal: it's not just wanting to leave the city, **it's being excluded from it too!**
+  - **alternative tools are a necessity, not a hobby**
+    - it's not just LARPing/prepping
+    - think of Beirut! Squats here
 
 
 
