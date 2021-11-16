@@ -1,13 +1,18 @@
-## Structure
+# Structure
 
 - I don't hate the idea of quoting former Sandberg students!
 
 
 
+# Content
+
 ## building servers, squatting (online)
 
 - domain squatting
+  - A domain is like an address (human legible), an IP is like coordinates (machine legible)
 - piggybacking
+- SEO gaming
+  - rick santorum: parody website that alsways ranked higher than actual guy (Jan)
 - **feminist server summit, maintenance care**
 - what is the difference between a server and a boat?
 - **what would a nomadic server be? and why would this be a good thing?**
@@ -15,12 +20,12 @@
   - redirect them to one central page that logs different opening hours for different services?
 - why should people use my shitty tool/server/whatever?
   - **DIY Perks lol**
-
 - wind powered, autonomous server/powered with a fan
 - **mesh networks**
 - software is never finished, you always need to maintain it
   - like a boat, like a squat, like life
 - What could a wifi dish do on a boat?
+- **What are dependencies?**
 
 
 
@@ -36,22 +41,32 @@
 ## Squatting (offline)
 
 - amsterdam, city of squats
+- Deporpriating instead of apropriating, **making available**
+  - **available to who?**
+  - In a way things that are being discussed in open source community are super obvious in squatting community, no you can NOT come in
+  - *See Online communities*
 
 
 
 ## Online Communities
 
-- Metverse etc
+- Metaverse etc
   - the trust people with their 3d interfaces
   - **where are they hosted?**
 - how to writing, how are tech tutorials written (with amy's class)
 
   - anja case stories
   - **stackoverflow: asking how to do a thing, getting told you shouldn't do it!**
+- open source has pitfalls as well (Tal)
+  - **Licensing: who gets to use my code?**
+  - Varia, what licenses are there?
+  - *See squatting*
 
 
 
 ## What is autonomy?
+
+- **Literally: What does autonomy mean, where does the word come from, how is it used etc???**
 
 - the guy building a toaster from scratch
 - D I Why?
@@ -135,3 +150,7 @@
 
 
 
+## Why is everything so Material?
+
+- [Tubes](https://www.amazon.com/Tubes-Journey-Internet-Andrew-Blum/dp/0061994952), a journalist who's internet breaks because an animal chewed through a cable, then goes to visit all the actual hubs
+- 

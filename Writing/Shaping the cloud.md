@@ -18,21 +18,7 @@ As has been discussed many times, a lot of connections can be drawn between the 
 
 # Feedback
 
-Tal: Open source: who can use my space? Autonomous spaces, who can enter my squat?
 
-Jan: squatting and domain names. **A domain as the human legible equivalent to an address vs. an IP to coordinates. domain squatting.**
-
-​	also a bit realted: SEO gaming (rick santorum, a parody website was always ranked higher than the actual guy)
-
-**read the prehistory of the cloud**
-
-book from micaela: tubes, a jhournalist who's internet connection got bitten through and then explores the physical internet: https://www.amazon.com/Tubes-Journey-Internet-Andrew-Blum/dp/0061994952
-
-**note from people 1.11.21:**
-
-- alix:
-
-  - it's a bit like a logbook, with "in september 2008 this happened" etc, can this be emphasized on?
 
 - tina:
 
