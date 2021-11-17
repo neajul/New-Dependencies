@@ -162,6 +162,7 @@
   * users do not get to vote!
     * of course participation is voluntary, **but is it really?*
       * if you're not a user, you are a loser lol
+      * instagram is the number one messaging app for children
   * sovereignty: users can only act within the interface, they cannot break out
     * like squatting is a good way to say fuck it, we leave the system
     * what are ways of doing this digitally? replace the tools that oppress you?

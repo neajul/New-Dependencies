@@ -58,15 +58,42 @@ How can we create meaningful change in the virtual sandboxes and their inherent 
 
 
 
+**What are cool points**
+
+- changing a platform from within is really hard
+- the digital and the physical are not seperate
+  - they inform each other but also literally
+- mesh networks are cool
+- squatting and building a server have similarities
+  - space
+  - imminent disaster
+  - who gets to use it?
+  - they are tactics, theoretically neither good nor bad
+  - for some it's survival, not political action
+  - they strive towards autonomy/new dependencies
+- big tech is bad on purpose
+  - summary of everything bad
+  - a race to the brain stem
+  - american military tech
+  - "acting like tobacco companies"
+- there is privilege in dropping out
+  - steve jobs was homeless, richard stalman cares about his privacy
+  - it's marketed even: VPNs, gotenna (even arrested development)
+- counter culture and computing have always been linked
+- geographical metaphors for computers
+  - cerfboy
+    - (information highway)
+  - cybernetics
+  - to the ship that got stuck
+  - the network is eternal
+    - but the cloud is not, everytime i enter germany i don;t have reception
+  - now let's get back to the land, which is where most of the infrastructure is
+    - trust article "the waste", but that's not it
 
 
-it's not just larping
-
-also: tech companies don't comply to government standards and that's a pretty low bar
-
-- beirut
 
 
 
 
 
+something about the blinking lights of the router
