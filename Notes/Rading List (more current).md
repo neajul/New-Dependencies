@@ -1,8 +1,9 @@
 - [ ] Thesis Sascha
-- [ ] Thesis why am i so sad if so smooth woman
+- [x] Thesis why am i so sad if so smooth woman
 - [x] Thesis Miquel
-- [ ] Thesis Augustina
+- [ ] ~~Thesis Augustina~~
 - [ ] Squatting Book
 - [ ] James Bridle
-- [ ] Prehistory of the cloud potentially
+- [ ] Prehistory of the cloud
 - [ ] Tubes Book
+

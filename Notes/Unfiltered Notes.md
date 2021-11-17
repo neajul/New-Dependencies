@@ -12,33 +12,54 @@
 
 ## building servers, squatting (online)
 
+* **Hot take: it's not possible to work against the platform from within the platform.**
+
 * It's not just about alternatives, but also about understanding
+
 * **For some people, these things are about survival!**
   * *Same as offline squatting*
+  
 * A level of complexity that makes individual action seem futile
+
 * domain squatting
   * A domain is like an address (human legible), an IP is like coordinates (machine legible)
   * and actually urls used to be address bars, that is an intentional analogy
+  
 * **piggybacking**
+
+* Sharing accounts?
+
+  * making available, depropriating (incellectuals? activism?)
+  * **might be fun to ask joeri**
+
 * SEO gaming
   * rick santorum: parody website that alsways ranked higher than actual guy (Jan)
+  
 * **feminist server summit, maintenance care**
+
 * what is the difference between a server and a boat?
+
 * **what would a nomadic server be? and why would this be a good thing?**
 
   > As such, tools are the result of thinking form, function, time, and outcome together. When labour becomes nomadic, tools adapt. When nomadic tools develop, labour follows. Tools follow function.
 
   — Fanfare Inc (Miquel's thesis)
+  
 * websites and opening times: why don't we turn our servers off at night?
   * redirect them to one central page that logs different opening hours for different services?
+  
 * why should people use my shitty tool/server/whatever?
   * **DIY Perks lol**
   * buggy. dataloss is always imminent.
   * *see squats*
+  
 * wind powered, autonomous server/powered with a fan
+
 * **mesh networks**
+
 * software is never finished, you always need to maintain it
   * like a boat, like a squat, like life
+  
 * **What are dependencies?**
   * dependencies and addictions.
   * Only tech and drug users quote!
@@ -134,6 +155,18 @@
 * Where are the overlaps between online and offline squatting? For example: we use cryptpad, signal, matrix server. We steal the internet of the hotel across the street.
   * How do they inform each other?
   * **What is this amsterdam squat net??**
+* User-citizen similarities
+* The user—citizen divide
+  * what rights do we have where, and how do they inform each other?
+  * they are not separate! (tubes, smooth/sad woman)
+  * users do not get to vote!
+    * of course participation is voluntary, **but is it really?*
+      * if you're not a user, you are a loser lol
+  * sovereignty: users can only act within the interface, they cannot break out
+    * like squatting is a good way to say fuck it, we leave the system
+    * what are ways of doing this digitally? replace the tools that oppress you?
+  * Funny how it seems like all these issues were solved in the 80s (linux, squatting)
+* Tech doesn't conform to the same standards as governments (which is a pretty low bar)
 * Jan: what if the cloud were public?
   * Public broadcast social media
 * Tal: it's not just wanting to leave the city, **it's being excluded from it too!**
@@ -182,3 +215,5 @@
   * the internet has become the cloud, but actually the internet was the cloud in the first place
 * [gerogian woman cut the internet by acident](https://www.theguardian.com/world/2011/apr/06/georgian-woman-cuts-web-access) (from Tina)
 * **The cloud is NOT everywhere (even in germany it is not)**
+* When talking about network politics, we also like to gloss over the fact how bad it is to build a computer, even an "ethical" one.
+  * This weird divide between virtual and physical is also why I thought the Trust text was so whack, ok you use discord, but where does it run?
