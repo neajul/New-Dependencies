@@ -11,7 +11,7 @@
 - People are led to believe in conspiracy theories and are being radicalized to the point of committing physical violence.
 - The internet, and most devices we carry in our pockets like smart phones are based on American Military technology.
 - It's a race to the brain stem. Some of the best-educated people in the world spend all their energy in selling us ads. Thinking we could resist that is like thinking we could win against a super computer in chess.
-- It's addictive on purpose. At places like the Stanford Persuasive Technology Lab people have been trained to specifically find ways you persuade users to use their products.
+- It's addictive on purpose. At places like the Stanford Persuasive Technology Lab people have been trained to specifically find ways of persuading users to use their products.
 - Big companies that have terms and conditions instead of constitutions can censor users without any form of accountability or oversight.
 - Even though participation is always voluntary, social pressure, especially on children and teenagers, to participate outweighs any serious form of alternative.
 - Depression among young people is on an all time high, and suicide rates are steadily increasing.
