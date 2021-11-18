@@ -63,6 +63,8 @@
 * **What are dependencies?**
   * dependencies and addictions.
   * Only tech and drug users quote!
+  
+* twitter when squatting
 
 ## cyber prepping
 

@@ -26,7 +26,7 @@ Unaware of this, just a year later, librarian Jean Armour Polly published an art
 
 Polly (and probably Mandel) wanted to evoke the fun, but also the skill required to, well, surf the web, and the randomness, chaos, and even danger that the web itself presented [^7]. Computers and the internet are complicated and especially back then, when interfaces were less smooth, and personal computers were just beginning to become a thing, it perfectly captured this new, mysterious and seemingly bottomless place that was the internet (other exhausted geographic metaphors include cyberspace and the information highway).
 
-Today nobody *surfs* anymore (the ocean has evaporated into the cloud, you could say). But, despite the immiscibility of water and technology, the image of the internet as a vast ocean, free from the constraints of the aground, physical world, that just has to navigated by a skilled steersman[^8] with an appropriate vessel[^9], lingers as residue if you know where to look; In the ports and berths that we use to connect our computers to the internet, torrent sites[^10], app icons of browsers[^11] or the names of NFT marketplaces.[^12] The Network is eternal[^13], and so is the ocean.
+Today nobody *surfs* anymore (the ocean has evaporated into the cloud, you could say). But, despite the immiscibility of water and technology, the image of the internet as a vast ocean, free from the constraints of the aground, physical world, an ocean that just has to navigated by a skilled steersman[^8] with an appropriate vessel[^9], lingers as residue if you know where to look; In the ports and berths that we use to connect our computers to the internet, torrent sites[^10], app icons of browsers[^11] or the names of NFT marketplaces.[^12] The Network is eternal[^13], and so is the ocean.
 
 [^6]: https://archive.org/details/CaptainInternetAndCERFBoyNumber1October1991/page/n17/mode/2up
 [^7]: https://www.surfertoday.com/surfing/the-woman-who-coined-the-expression-surfing-the-internet/amp
@@ -39,67 +39,34 @@ Today nobody *surfs* anymore (the ocean has evaporated into the cloud, you could
 
 ------
 
-While some are trying their best to get back to the land, others want to get back to the sea. Where homesteading describes a self-sufficient life on land, *seasteading* takes this idea a step further and out into the open sea (hypothetically, at least). Seasteading is an idea from San Francisco, and advocated for by the Seasteading Institute, which in turn was funded by venture capitalist and strangely obsessive Lord of the Rings fan[^14] Peter Thiel, with the goal of making governments *smart*. Claiming that most of the land in the world is already taken, the seasteaders propose building floating cities in international waters, free from convention, regulation, and taxes.
+While some are trying their best to get back to the land, others want to get back to the sea. Where *homesteading* describes a self-sufficient life on land, *seasteading* takes this idea a step further and out into the open sea (hypothetically, at least). Seasteading is an idea from San Francisco, and advocated for by the Seasteading Institute, which in turn was funded by venture capitalist and strangely obsessive Lord of the Rings fan[^14] Peter Thiel, with the goal of making governments *smart*. Claiming that most of the land in the world is already taken, the seasteaders propose building floating cities in international waters, free from convention, regulation, and taxes.
 
-Up until 2020 most attempts to make these dreams a reality had been of moderate success, with crypto millionaire, anti-taxer[^15] and anti-vaxxer[^16] Chad Elwartowski coming closest when he and his girlfriend lived 12 nautical miles off the coast of Thailand in a small, elevated, floating platform for a total of two months before being discovered by the Thai government and having to flee the country in fear of prosecution for violating the country's independence.[^17]
+Up until 2020 most attempts to make these dreams a reality had been of moderate success, with crypto millionaire, anti-taxer[^15] and anti-vaxxer[^16] Chad Elwartowski coming closest when he and his girlfriend lived 12 nautical miles off the coast of Thailand in a small, elevated, floating platform for a total of two months before being discovered by the Thai government and having to flee the country in fear of prosecution for violating the country's independence.[^17] Elwartowski is one of the founders of Ocean Builders, a company dedicated to the promotion of seasteading, that had been developing so called *SeaPods*, floating luxury homes that look remarkably similar to Apple AirPods in the concept renders[^18], and the platform in Thailand (which looked nothing like those renders) had been the first prototype.
 
-But in 2020, Elwartowski and his co-founders at Ocean Builders, a company dedicated to the promotion of seasteading, decided to give it one more try. Due to the COVID-19 pandemic, the cruise ship industry had almost gone under and they managed to buy an old, 245m cruise ship for a bit less that $10m, around ⅒ of its pre-pandemic price. They named it the MS Satoshi, after the (presumed) author of the Bitcoin white paper. The plan was to lay anchor off the coast of Panama, where it would be incorporated into an artificial, floating island in the shape of the Bitcoin B[^18]. Until then they would auction off the 777 cabins[^19] to a clientele of digital nomads, startup founders and crypto enthusiasts, and finally establish the first truly free, crypto-only (and mostly-male), seasteading society (or *seavilization*).
+But in 2020, Elwartowski and co decided to give it one more try. Due to the COVID-19 pandemic, the cruise ship industry had almost gone under and they managed to buy an old, 245m cruise ship for a bit less that $10m, around ⅒ of its pre-pandemic price. They named it the MS Satoshi, after the (presumed) author of the Bitcoin white paper. The plan was to lay anchor off the coast of Panama, where it would be incorporated into an artificial, floating island in the shape of the Bitcoin B[^19]. Until then they would auction off the 777 cabins[^20] to a clientele of digital nomads, startup founders and crypto enthusiasts, and finally establish the first truly free, crypto-only (and mostly-male), seasteading society (or *seavilization*).
 
-Sophie Elmhirst recounts the following unfolding of unfortunate events in great detail for the Guardian[^19]. The day the ocean builders officially gained ownership of the ship, its certificates of seaworthiness had expired. They had to sail it from Greece to Gibraltar to have it dry-docked and inspected, before finally starting the voyage across the Atlantic to Panama. There they had hoped to be able to de-register the ship to for it to legally become a floating residency in order escape strict maritime law, but the government of Panama insisted that, while they were allowed to anchor, they had to officially remain a ship. This came with a lot of issues regarding the disposal of waste water and especially insurance: The team was unable to find anybody that would agree to insure their stationary crypto-ship, and facing the enormous costs of running a cruise ship, including paying the crew, and the fact that they were not able to sell enough cabins, they had to cancel their plans and sell the ship, before ever making it to Panama, but not before blaming it all on a global corona conspiracy[^20]. Elmhirst fittingly sums up the MS Satoshi's dilemma. "The high seas", she writes, "while appearing borderless and free, are, in fact, some of the most tightly regulated places on Earth".
-
-------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Sophie Elmhirst recounts the following unfolding of unfortunate events in great detail for the Guardian[^21]. The day the ocean builders officially gained ownership of the ship, its certificates of seaworthiness had expired. They had to sail it from Greece to Gibraltar to have it dry-docked and inspected, before finally starting the voyage across the Atlantic to Panama. There they had hoped to be able to de-register the ship to for it to legally become a floating residency in order escape strict maritime law, but the government of Panama insisted that, while they were allowed to anchor, they had to officially remain a ship. This came with a lot of issues regarding the disposal of waste water and especially insurance: The team was unable to find anybody that would agree to insure their stationary crypto-ship, and facing the enormous costs of running a cruise ship, including paying the crew, and the fact that they were not able to sell enough cabins, they had to cancel their plans and sell the ship, before ever making it to Panama, but not before blaming it all on a global corona conspiracy[^22]. Elmhirst fittingly sums up the MS Satoshi's dilemma. "The high seas", she writes, "while appearing borderless and free, are, in fact, some of the most tightly regulated places on Earth".
 
 [^14]: https://www.bbc.com/news/technology-38315682
 [^15]: https://www.reddit.com/r/AskReddit/comments/o5jepd/what_do_you_wish_was_illegal/h2pagzw/
 [^16]: https://www.reddit.com/r/AskReddit/comments/oanhr8/what_invention_has_done_more_harm_than_good/h3kfxdh/
 [^17]: I really recommend watching this vlog to get a feel for the entire situation: https://youtu.be/OovkeOuZsqU?t=340
-[^18]: https://2oxut21weba5oivlniw6igeb-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/2020-12-22-Convert-Cruise-Ships-Into-Sustainable-Seasteads.pdf
-[^19]: https://www.reddit.com/r/Bitcoin/comments/jefmth/so_i_am_buying_a_cruise_ship_and_naming_it_ms/
-[^20]: https://www.theguardian.com/news/2021/sep/07/disastrous-voyage-satoshi-cryptocurrency-cruise-ship-seassteading
-[^20]: https://vivavivas.com/2020/12/19/ms-satoshis-journey-coming-to-an-end/
+[^18]: https://oceanbuilders.com/
+[^19]: https://2oxut21weba5oivlniw6igeb-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/2020-12-22-Convert-Cruise-Ships-Into-Sustainable-Seasteads.pdf
+[^20]: https://www.reddit.com/r/Bitcoin/comments/jefmth/so_i_am_buying_a_cruise_ship_and_naming_it_ms/
+[^21]: https://www.theguardian.com/news/2021/sep/07/disastrous-voyage-satoshi-cryptocurrency-cruise-ship-seassteading
+[^22]: https://vivavivas.com/2020/12/19/ms-satoshis-journey-coming-to-an-end/
 
+------
 
+# Notes
 
+the whole seasteading insta https://www.instagram.com/ocean_builders/
 
-
-
-
-the whole thing about the crypto thing is that building communities is really hard
-
-
-
-maritime law
-
-
-
-
-
-twitter when squatting?
-
-
-
-Next: the ship that got stuck escaping the land
-
-in 2021 a ship got stuck that made a lot of memes, but another one actually got even stucker, the crypto ship
+seasteading as open source!
 
 web3.0 sees the land as the waste that has to be avoided, so let's finally get to the question of what the land is.
 
 the land is the infrastructure of the internet. It's cables (some of them under water, but at least aground), it's rooms, etc. Many have talked about this (tubes, evan roth, the transmediale woman)
 
 maybe the division is a false dichotomy: we need to treat the digital with the same logic as space. Think about actual connections etc?
-
-This is in 
