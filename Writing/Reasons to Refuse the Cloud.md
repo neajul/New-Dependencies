@@ -1,6 +1,6 @@
-# Reasons to Refuse *Big Tech*, in no particular order
+# Reasons to Refuse *The Cloud*, in no particular order
 
-(the cloud being more of a stand in here for everything *big tech*)
+(*the cloud* being more of a stand in here for everything *big tech*)
 
 - Workers in the global south are being exploited and our devices are assembled by modern slaves.
 - Rare earths such as Lithium are extracted from indigenous lands without their consent and unaccounted for consequences for the environment.
@@ -15,4 +15,3 @@
 - Big companies that have terms and conditions instead of constitutions can censor users without any form of accountability or oversight.
 - Even though participation is always voluntary, social pressure, especially on children and teenagers, to participate outweighs any serious form of alternative.
 - Depression among young people is on an all time high, and suicide rates are steadily increasing.
-
