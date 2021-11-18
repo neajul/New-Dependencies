@@ -39,13 +39,50 @@ Today nobody *surfs* anymore (the ocean has evaporated into the cloud, you could
 
 ------
 
-While some are on their way back to the land, others want to get back to the sea.
+While some are trying their best to get back to the land, others want to get back to the sea. Where homesteading describes a self-sufficient life on land, *seasteading* takes this idea a step further and out into the open sea (hypothetically, at least). Seasteading is an idea from San Francisco, and advocated for by the Seasteading Institute, which in turn was funded by venture capitalist and strangely obsessive Lord of the Rings fan[^14] Peter Thiel, with the goal of making governments *smart*. Claiming that most of the land in the world is already taken, the seasteaders propose building floating cities in international waters, free from convention, regulation, and taxes.
+
+Up until 2020 most attempts to make these dreams a reality had been of moderate success, with crypto millionaire, anti-taxer[^15] and anti-vaxxer[^16] Chad Elwartowski coming closest when he and his girlfriend lived 12 nautical miles off the coast of Thailand in a small, elevated, floating platform for a total of two months before being discovered by the Thai government and having to flee the country in fear of prosecution for violating the country's independence.[^17]
+
+But in 2020, Elwartowski and his co-founders at Ocean Builders, a company dedicated to the promotion of seasteading, decided to give it one more try. Due to the COVID-19 pandemic, the cruise ship industry had almost gone under and they managed to buy an old, 245m cruise ship for a bit less that $10m, around ⅒ of its pre-pandemic price. They named it the MS Satoshi, after the (presumed) author of the Bitcoin white paper. The plan was to lay anchor off the coast of Panama, where it would be incorporated into an artificial, floating island in the shape of the Bitcoin B[^18]. Until then they would auction off the 777 cabins[^19] to a clientele of digital nomads, startup founders and crypto enthusiasts, and finally establish the first truly free, crypto-only (and mostly-male), seasteading society (or *seavilization*).
+
+Sophie Elmhirst recounts the following unfolding of unfortunate events in great detail for the Guardian[^19]. The day the ocean builders officially gained ownership of the ship, its certificates of seaworthiness had expired. They had to sail it from Greece to Gibraltar to have it dry-docked and inspected, before finally starting the voyage across the Atlantic to Panama. There they had hoped to be able to de-register the ship to for it to legally become a floating residency in order escape strict maritime law, but the government of Panama insisted that, while they were allowed to anchor, they had to officially remain a ship. This came with a lot of issues regarding the disposal of waste water and especially insurance: The team was unable to find anybody that would agree to insure their stationary crypto-ship, and facing the enormous costs of running a cruise ship, including paying the crew, and the fact that they were not able to sell enough cabins, they had to cancel their plans and sell the ship, before ever making it to Panama, but not before blaming it all on a global corona conspiracy[^20]. Elmhirst fittingly sums up the MS Satoshi's dilemma. "The high seas", she writes, "while appearing borderless and free, are, in fact, some of the most tightly regulated places on Earth".
+
+------
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+[^14]: https://www.bbc.com/news/technology-38315682
+[^15]: https://www.reddit.com/r/AskReddit/comments/o5jepd/what_do_you_wish_was_illegal/h2pagzw/
+[^16]: https://www.reddit.com/r/AskReddit/comments/oanhr8/what_invention_has_done_more_harm_than_good/h3kfxdh/
+[^17]: I really recommend watching this vlog to get a feel for the entire situation: https://youtu.be/OovkeOuZsqU?t=340
+[^18]: https://2oxut21weba5oivlniw6igeb-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/2020-12-22-Convert-Cruise-Ships-Into-Sustainable-Seasteads.pdf
+[^19]: https://www.reddit.com/r/Bitcoin/comments/jefmth/so_i_am_buying_a_cruise_ship_and_naming_it_ms/
+[^20]: https://www.theguardian.com/news/2021/sep/07/disastrous-voyage-satoshi-cryptocurrency-cruise-ship-seassteading
+[^20]: https://vivavivas.com/2020/12/19/ms-satoshis-journey-coming-to-an-end/
+
+
+
+
+
+
+
+the whole thing about the crypto thing is that building communities is really hard
+
+
+
+maritime law
 
 
 
