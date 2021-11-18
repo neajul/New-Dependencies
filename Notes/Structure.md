@@ -2,6 +2,10 @@
 
 How can we create meaningful change in the virtual sandboxes and their inherent inequalities, that we inhabit as online, and from where can we do this?
 
+Maybe I have to admit: the question is what is digital squatting? Does it exist?
+
+Is there a connection or overlap between alternative spatial practices such as squatting, and alternative network practices such as self hosting, and w
+
 
 
 - We cannot change the cloud
@@ -15,7 +19,7 @@ How can we create meaningful change in the virtual sandboxes and their inherent 
   - history of geographical terminology to describe the virtual
   - libertarian leisure culture, tax evasion and self sufficiency
   - who gets to go to the beach, who has boats?
-- Digital and Physical are not seperate: real spaces, servers, cables, routers, rooms, real inequalities
+- Digital and Physical are not separate: real spaces, servers, cables, routers, rooms, real inequalities
   - and they inform each other anyway, we understand space through the digital
   - don't need to treat them separately
   - virtual: simulated on top of existing infrastructure
@@ -89,11 +93,3 @@ How can we create meaningful change in the virtual sandboxes and their inherent 
     - but the cloud is not, everytime i enter germany i don;t have reception
   - now let's get back to the land, which is where most of the infrastructure is
     - trust article "the waste", but that's not it
-
-
-
-
-
-
-
-something about the blinking lights of the router

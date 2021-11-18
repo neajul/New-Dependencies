@@ -1,9 +1,10 @@
 - [ ] Thesis Sascha
+- [ ] Thesis Zgjim
 - [x] Thesis why am i so sad if so smooth woman
 - [x] Thesis Miquel
 - [ ] ~~Thesis Augustina~~
-- [ ] Squatting Book
+- [ ] Architectures of Appropriation
 - [ ] James Bridle
 - [ ] Prehistory of the cloud
-- [ ] Tubes Book
+- [ ] Tubes
 
