@@ -63,7 +63,10 @@ Sophie Elmhirst recounts the following unfolding of unfortunate events in great 
 
 the whole seasteading insta https://www.instagram.com/ocean_builders/
 
-and the designer lol
+and the designer lol https://www.instagram.com/p/BTjyVDSg7Pg/
+	of course she's a burner
+	and a dj
+	and into tarot cards lol
 
 seasteading as open source!
 
