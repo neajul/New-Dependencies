@@ -10,6 +10,10 @@
 
 # Content
 
+## Refusal
+
+Jenny Odell: The Third Space
+
 ## building servers, squatting (online)
 
 * **Hot take: it's not possible to work against the platform from within the platform.**
