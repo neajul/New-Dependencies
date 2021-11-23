@@ -1,6 +1,4 @@
-# Reasons to Refuse *The Cloud*, in no particular order
-
-(*the cloud* being more of a stand in here for everything *big tech*)
+# Reasons to Refuse *the Cloud* (in no particular order)
 
 - Workers in the global south are being exploited and our devices are assembled by modern slaves.
 - Rare earths such as Lithium are extracted from indigenous lands without their consent and unaccounted for consequences for the environment.
