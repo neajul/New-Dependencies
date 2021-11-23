@@ -1,32 +1,37 @@
 ## Missing dependencies—an essay without answers
 
-1. We always want to rebel against the cloud
 
-2. the internet is conceived of as this free space, but it is not
 
-3. short history of squatting
+# This Document needs to be cleaned up!
 
-   - What does this mean in other countries?
-   - What does it mean in the Netherlands?
 
-4. reasons to refuse the cloud
 
-5. the internet follows the same rules as physical space
+**A new kind of structure-ish**
 
-6. short mokum story:
+1. Cloud Gazing
+   1. The cloud is not what it seems, but changing it is really hard
+   2. some people want to escape it
+   3. what does that mean to get out of the cloud?
+2. Surfing the Web
+   1. we used to have all kinds of spatial metaphors for the internet, ocean for example
+   2. used to think it was super free place
+3. **A short history of squatting**
+4. Back to the Sea
+   1. Building a Crypto ship to live in international waters
+   2. international waters are crazy regulated
+5. Reasons to Refuse the Cloud
+6. Back to the Land
+   1. actually the internet is made from cables
+   2. it's not separate
+7. Comparison of self hosting and squatting
+8. **Mokum Story**
+   1. how do we organize?
+   2. who do we make things available to?
+   3. who are our **new dependencies?**
+   4. What are the conflicts?
+   5. dependencies can be addictions
 
-   - how do we organize?
 
-   - who do we make things available to?
-
-   - who are our **new dependencies?**
-
-   - What are the conflicts?
-
-   - dependencies can be addictions
-
-7. comparison between squatting and self hosting
-   - would have to make sure that everything in there appears in the text at least once (could be cross linked)
 
 
 
@@ -45,6 +50,7 @@ missing in this:
   - **there is a difference between pirate radios and seasteading**
   - like the slick mesh network thing
 - do i agree with everything in the community?
+- what about nomadism
 
 
 
