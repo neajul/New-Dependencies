@@ -41,6 +41,7 @@ missing in this:
 
 - for some people it's about literal survival
   - refusal and privilege (steve jobs was homeless once)
+  - **women of surinam?**
 - it's not possible to criticize the platform from within the platform
 - an explanation of the new dependencies part is missing now
   - but the story of the crypto ship already outlines this!

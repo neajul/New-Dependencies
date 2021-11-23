@@ -3,10 +3,11 @@
 - Can be interesting to think about references
   - Internet as a library
   - wayback machine, what does that mean?
+  - references from mokum (rené, women of surinam, the brazilian film?)
+- Where is this thesis written?
+  - space: sweden
+  - software: markdown, git
 
-* Where is this thesis written?
-  * space: sweden
-  * software: markdown, git
 
 
 # Content

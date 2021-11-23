@@ -160,26 +160,7 @@ maybe the division is a false dichotomy: we need to treat the digital with the s
 
 ## 7. Who Would Win?
 
-|                  self hosting                  |                   squatting                    |
-| :--------------------------------------------: | :--------------------------------------------: |
-|   disregard of imposed policies (privacy) ✅    |   disregard of imposed policies (housing) ✅    |
-|             resist cloud control ✅             |             resist crowd control ✅             |
-|             constant maintenance ✅             |             constant maintenance ✅             |
-|               new dependencies ✅               |               new dependencies ✅               |
-|       unconventional design strategies ✅       |       unconventional design strategies ✅       |
-|            improvised structures ✅             |            improvised structures ✅             |
-|  using existing (physical!) infrastructures ✅  |  using existing (physical!) infrastructures ✅  |
-|     disaster always imminent: data loss ✅      |      disaster always imminent: eviction ✅      |
-|       community (who gets to use it?) ✅        |       community (who gets to use it?) ✅        |
-|                   refusal ✅                    |                   refusal ✅                    |
-|      tactic with open source principles ✅      |      tactic with open source principles ✅      |
-|   often old hardware (reuse what is there) ✅   |   mostly old houses (reuse what is there)  ✅   |
-|   seemingly inaccessible to general public ✅   |   seemingly inaccessible to general public ✅   |
-|     designers should probably do it more ✅     |     designers should probably do it more ✅     |
-| *everything was better in the 90s*-mentality ✅ | *everything was better in the 90s*-mentality ✅ |
-| not de-appropriating someone else's property ❌ |   de-appropriating someone else's property ✅   |
-
-
+![image-20211123183718503](image-20211123183718503.png)
 
 ## 8. Hotel Mokum
 
