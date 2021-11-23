@@ -1,12 +1,13 @@
 # Structure
 
-* I don't hate the idea of quoting former Sandberg students
-* Why are so many of my things from 2008?
-  * **using references from the wayback machine, what does that mean?**
-  * and what is going on today? it's not 2008 anymore
-* How much personal stories do I want to include?
-* logbook character is also in the dates that I mention.
-  * Sort chronological lol
+- Can be interesting to think about references
+  - Internet as a library
+  - wayback machine, what does that mean?
+
+* Where is this thesis written?
+  * space: sweden
+  * software: markdown, git
+
 
 # Content
 
@@ -120,6 +121,7 @@ Jenny Odell: The Third Space
 * your computer doesn't belong to you
 * How deep does the stack go?
 * Libertarian Leisure Culture
+* **New dependencies: what actually are these new dependencies in a place like Mokum? That should be a diary entry**
 
 ## Nobody likes big tech
 

@@ -62,6 +62,50 @@ Sophie Elmhirst recounts the following unfolding of unfortunate events in great 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tightly regulated, like the internet
+
+this is not pirate radio of the 60s (started in NL)
+
+decalration of independence, not true
+
+actually it's physical, real rooms (tubes)
+
+​	so physical it can be cut in half (not meant as incitement of political action against the infrastructures the internet runs on)
+
+the text from internet archive guy: today one is augmented on the other, we are not talking about some foreign, utopic, free space anymore, we are talking about a space where the same policies and inequalities take place
+
+​	**the cloud is NOT everywhere**
+
+that is the "land" in back to the land, the cables etc. Back to the land as thinking about infrastructure. Of not considering cyberspace a seperate place, but the same
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Notes
 
 die revolution, das goldene zeitalter, sind ausgeblieben. deshalb ist es interessant sich die bildsprache anzugucken.

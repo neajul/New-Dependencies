@@ -1,5 +1,63 @@
 ## Missing dependencies—an essay without answers
 
+1. We always want to rebel against the cloud
+
+2. the internet is conceived of as this free space, but it is not
+
+3. short history of squatting
+
+   - What does this mean in other countries?
+   - What does it mean in the Netherlands?
+
+4. reasons to refuse the cloud
+
+5. the internet follows the same rules as physical space
+
+6. short mokum story:
+
+   - how do we organize?
+
+   - who do we make things available to?
+
+   - who are our **new dependencies?**
+
+   - What are the conflicts?
+
+   - dependencies can be addictions
+
+7. comparison between squatting and self hosting
+   - would have to make sure that everything in there appears in the text at least once (could be cross linked)
+
+
+
+
+
+missing in this:
+
+- for some people it's about literal survival
+  - refusal and privilege (steve jobs was homeless once)
+- it's not possible to criticize the platform from within the platform
+- an explanation of the new dependencies part is missing now
+  - but the story of the crypto ship already outlines this!
+  - libertarian leisure culture
+  - the toaster guy could be in a side note, "we can't all build our own toasters, instead..."
+- commodification
+  - **there is a difference between pirate radios and seasteading**
+  - like the slick mesh network thing
+- do i agree with everything in the community?
+
+
+
+
+
+
+
+
+
+
+
+
+
 How can we create meaningful change in the virtual sandboxes and their inherent inequalities, that we inhabit as online, and from where can we do this?
 
 Maybe I have to admit: the question is what is digital squatting? Does it exist?
