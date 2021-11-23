@@ -16,3 +16,5 @@
 - Big companies that have terms and conditions instead of constitutions can censor users without any form of accountability or oversight.
 - Even though participation is always voluntary, social pressure, especially on children and teenagers, to participate outweighs any serious form of alternative.
 - Depression among young people is on an all time high, and suicide rates are steadily increasing.
+- **China?**
+

@@ -1,10 +1,10 @@
-**Missing dependencies—an essay without answers**
+## Missing dependencies—an essay without answers
 
 How can we create meaningful change in the virtual sandboxes and their inherent inequalities, that we inhabit as online, and from where can we do this?
 
 Maybe I have to admit: the question is what is digital squatting? Does it exist?
 
-Is there a connection or overlap between alternative spatial practices such as squatting, and alternative network practices such as self hosting, and w
+Is there a connection or overlap between alternative spatial practices such as squatting, and alternative network practices such as self hosting, and what is it?
 
 
 
