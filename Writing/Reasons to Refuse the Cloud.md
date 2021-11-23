@@ -18,3 +18,8 @@
 - Depression among young people is on an all time high, and suicide rates are steadily increasing.
 - In more authoritarian countries it's used as a tool to brutally suppress any form of opposition
 
+
+
+# Notes
+
+- needs foot notes
