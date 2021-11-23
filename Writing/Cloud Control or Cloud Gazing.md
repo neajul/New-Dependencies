@@ -1,4 +1,12 @@
-## Cloud Gazing
+Dear Reader,
+
+asiugdi;audsiugadsgiuadsiguals
+
+# Missing Dependencies
+
+[TOC]
+
+## 1. Cloud Gazing
 
 On September 12th, 2010 the Youtube Channel revelation13net uploaded a video titled *By Psychokinesis a Psychic turns a Cloud into a Square Cloud in Sept. 2010.* In this 02:18 video, a man is filming the sky with a handheld camera. Visible is a single cloud on an otherwise entirely blue sky, lined by some trees on the edge of the frame. We never see the person holding the camera but can hear them speak throughout the video. They introduce themselves as *T. Chase* and explain that they will now attempt to change the shape of the cloud into a square through psychic powers. They keep repeating this statement like a mantra of sorts, altering and distorting their voice as the video progresses. The cloud slowly changes shape, and by the end of the video it does look more like a square than in the beginning of the video, even though it's hard to say whether this might have just been the way it naturally changed shape.
 
@@ -16,7 +24,7 @@ In 2019, web designer Becca Abbe sensed the dawn of what she called *the interne
 [^4]: https://www.amazon.com/Humor-There-cloud-someone-computer/dp/B07KW5MPH2
 [^5]: https://www.are.na/blog/the-internet%27s-back-to-the-land-movement
 
-## Surfing the Web
+## 2. Surfing the Web
 
 Before the cloud was a cloud it was an ocean. In 1986, when the internet wasn't commercially available yet, it was mostly being used by scientists and governments. That year, in the Netherlands, Hans Rosenberg from Utrecht University founded the non-profit *SURF* (Samenwerkende Universitaire Reken Faciliteiten, *Co-operative University Computing Facilities*), which ran *SURFnet*, a computer network linking different academic institutions. *SURFnet* still exists today, and, among other things, founded and operates *eduroam*, an authentication infrastructure letting users in higher education facilities use wifi, which many readers might be familiar with.
 
@@ -40,7 +48,11 @@ Today nobody *surfs* anymore (the ocean has evaporated into the cloud, you could
 [^12]: Opensea.io
 [^13]: https://archive.transmediale.de/content/the-eternal-network-1
 
-## Back to the Sea
+## 3. Architectures of (De-)Appropriation
+
+aosihdasodihadsoihadsoidashio
+
+## 4. Back to the Sea
 
 While some are trying their best to get back to the land, others want to get back to the sea. Where *homesteading* describes self-sufficient life on land, *seasteading* takes this idea a step further and out into the open sea (hypothetically, at least). Seasteading is an idea from San Francisco, and advocated for by the Seasteading Institute, which in turn was funded by venture capitalist and strangely obsessive Lord of the Rings fan[^14] Peter Thiel, with the goal of making governments *smart*. Claiming that most of the land in the world is already taken, the seasteaders propose building floating cities in international waters, free from convention, regulation, and taxes.
 
@@ -60,7 +72,25 @@ Sophie Elmhirst recounts the following unfolding of unfortunate events in great 
 [^21]: https://www.theguardian.com/news/2021/sep/07/disastrous-voyage-satoshi-cryptocurrency-cruise-ship-seassteading
 [^22]: https://vivavivas.com/2020/12/19/ms-satoshis-journey-coming-to-an-end/
 
-## Back to the Land
+## 5. Reasons to Refuse *the Cloud* (in no particular order)
+
+- Workers in the global south are being exploited and our devices are assembled by modern slaves.
+- Rare earths such as Lithium are extracted from indigenous lands without their consent and unaccounted for consequences for the environment.
+- E-Waste is polluting the planet and is being dumped in landfills without regulations in the global south, poisoning both the lands and the people.
+- Tech companies and governments by extension are constantly spying on us. The right to privacy is being eroded and the surveillance state is being facilitated.
+- For almost a decade we have had reliable evidence that tech companies are padding on information to US government agencies such as the NSA, yet nothing has changed.
+- Social media companies profit from a divided political landscape, disconnected filter bubbles are not a by-product but part of the product.
+- The massive proliferation of fake news actively costs lives (see: anti vaccers) and is being facilitated by the big platforms.
+- People are led to believe in conspiracy theories and are being radicalized to the point of committing physical violence and domestic terrorism.
+- The internet, and most devices we carry in our pockets like smart phones developed from US military technology (possibilities for surveillance for example are no accident).
+- *Tech* is a race to the brain stem. Some of the best-educated people in the world spend all their energy in selling us ads. Thinking we could resist the machinery is like thinking we could win against a super computer in chess.
+- It's addictive on purpose. At places like the Stanford Persuasive Technology Lab people have been trained to specifically find ways of persuading users to keep using their products, and metrics like engagement are still the main factors their design.
+- Big companies that have terms and conditions instead of constitutions can censor users without any form of accountability or oversight.
+- Even though participation is always voluntary, social pressure, especially on children and teenagers, to participate outweighs any serious form of alternative.
+- Depression among young people is on an all time high, and suicide rates are steadily increasing.
+- In more authoritarian countries it's used as a tool to brutally suppress any form of opposition
+
+## 6. Back to the Land
 
 
 
@@ -100,18 +130,6 @@ that is the "land" in back to the land, the cables etc. Back to the land as thin
 
 
 
-
-
-
-
-
-
-
-
-
-
-# Notes
-
 die revolution, das goldene zeitalter, sind ausgeblieben. deshalb ist es interessant sich die bildsprache anzugucken.
 
 ​	**need to look over this again after the brewster kahle article**
@@ -141,3 +159,28 @@ web3.0 sees the land as the waste that has to be avoided, so let's finally get t
 the land is the infrastructure of the internet. It's cables (some of them under water, but at least aground), it's rooms, etc. Many have talked about this (tubes, evan roth, the transmediale woman)
 
 maybe the division is a false dichotomy: we need to treat the digital with the same logic as space. Think about actual connections etc?
+
+## 7. Who Would Win?
+
+|                 self hosting                 |                  squatting                   |
+| :------------------------------------------: | :------------------------------------------: |
+|  disregard of imposed policies (privacy) ✅   |  disregard of imposed policies (housing) ✅   |
+|            resist cloud control ✅            |            resist crowd control ✅            |
+|            constant maintenance ✅            |            constant maintenance ✅            |
+|              new dependencies ✅              |              new dependencies ✅              |
+|      unconventional design strategies ✅      |      unconventional design strategies ✅      |
+|           improvised structures ✅            |           improvised structures ✅            |
+| using existing (physical!) infrastructures ✅ | using existing (physical!) infrastructures ✅ |
+|    disaster always imminent: data loss ✅     |     disaster always imminent: eviction ✅     |
+|      community (who gets to use it?) ✅       |      community (who gets to use it?) ✅       |
+|                  refusal ✅                   |                  refusal ✅                   |
+|     tactic with open source principles ✅     |     tactic with open source principles ✅     |
+|  often old hardware (reuse what is there) ✅  |  mostly old houses (reuse what is there)  ✅  |
+|  seemingly inaccessible to general public ✅  |  seemingly inaccessible to general public ✅  |
+|    designers should probably do it more ✅    |    designers should probably do it more ✅    |
+|    "everything was better in the past" ✅     |    "everything was better in the past" ✅     |
+| not de-appropriating someone else's space ❌  |   de-appropriating someone else's space ✅    |
+
+## 8. Hotel Mokum
+
+On the 16th of October we squatted the former Hotel Marnix in Amsterdam.
