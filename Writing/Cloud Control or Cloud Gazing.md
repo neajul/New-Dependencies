@@ -24,6 +24,8 @@ In 2019, web designer Becca Abbe sensed the dawn of what she called *the interne
 [^4]: https://www.amazon.com/Humor-There-cloud-someone-computer/dp/B07KW5MPH2
 [^5]: https://www.are.na/blog/the-internet%27s-back-to-the-land-movement
 
+
+
 ## 2. Surfing the Web
 
 Before the cloud was a cloud it was an ocean. In 1986, when the internet wasn't commercially available yet, it was mostly being used by scientists and governments. That year, in the Netherlands, Hans Rosenberg from Utrecht University founded the non-profit *SURF* (Samenwerkende Universitaire Reken Faciliteiten, *Co-operative University Computing Facilities*), which ran *SURFnet*, a computer network linking different academic institutions. *SURFnet* still exists today, and, among other things, founded and operates *eduroam*, an authentication infrastructure letting users in higher education facilities use wifi, which many readers might be familiar with.
@@ -48,9 +50,13 @@ Today nobody *surfs* anymore (the ocean has evaporated into the cloud, you could
 [^12]: Opensea.io
 [^13]: https://archive.transmediale.de/content/the-eternal-network-1
 
+
+
 ## 3. Architectures of (De-)Appropriation
 
 aosihdasodihadsoihadsoidashio
+
+
 
 ## 4. Back to the Sea
 
@@ -72,6 +78,8 @@ Sophie Elmhirst recounts the following unfolding of unfortunate events in great 
 [^21]: https://www.theguardian.com/news/2021/sep/07/disastrous-voyage-satoshi-cryptocurrency-cruise-ship-seassteading
 [^22]: https://vivavivas.com/2020/12/19/ms-satoshis-journey-coming-to-an-end/
 
+
+
 ## 5. Reasons to Refuse *the Cloud* (in no particular order)
 
 - Workers in the global south are being exploited and our devices are assembled by modern slaves.
@@ -90,21 +98,9 @@ Sophie Elmhirst recounts the following unfolding of unfortunate events in great 
 - Depression among young people is on an all time high, and suicide rates are steadily increasing.
 - In more authoritarian countries it's used as a tool to brutally suppress any form of opposition
 
+
+
 ## 6. Back to the Land
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -160,26 +156,30 @@ the land is the infrastructure of the internet. It's cables (some of them under 
 
 maybe the division is a false dichotomy: we need to treat the digital with the same logic as space. Think about actual connections etc?
 
+
+
 ## 7. Who Would Win?
 
-|                 self hosting                 |                  squatting                   |
-| :------------------------------------------: | :------------------------------------------: |
-|  disregard of imposed policies (privacy) ✅   |  disregard of imposed policies (housing) ✅   |
-|            resist cloud control ✅            |            resist crowd control ✅            |
-|            constant maintenance ✅            |            constant maintenance ✅            |
-|              new dependencies ✅              |              new dependencies ✅              |
-|      unconventional design strategies ✅      |      unconventional design strategies ✅      |
-|           improvised structures ✅            |           improvised structures ✅            |
-| using existing (physical!) infrastructures ✅ | using existing (physical!) infrastructures ✅ |
-|    disaster always imminent: data loss ✅     |     disaster always imminent: eviction ✅     |
-|      community (who gets to use it?) ✅       |      community (who gets to use it?) ✅       |
-|                  refusal ✅                   |                  refusal ✅                   |
-|     tactic with open source principles ✅     |     tactic with open source principles ✅     |
-|  often old hardware (reuse what is there) ✅  |  mostly old houses (reuse what is there)  ✅  |
-|  seemingly inaccessible to general public ✅  |  seemingly inaccessible to general public ✅  |
-|    designers should probably do it more ✅    |    designers should probably do it more ✅    |
-|    "everything was better in the past" ✅     |    "everything was better in the past" ✅     |
-| not de-appropriating someone else's space ❌  |   de-appropriating someone else's space ✅    |
+|                  self hosting                  |                   squatting                    |
+| :--------------------------------------------: | :--------------------------------------------: |
+|   disregard of imposed policies (privacy) ✅    |   disregard of imposed policies (housing) ✅    |
+|             resist cloud control ✅             |             resist crowd control ✅             |
+|             constant maintenance ✅             |             constant maintenance ✅             |
+|               new dependencies ✅               |               new dependencies ✅               |
+|       unconventional design strategies ✅       |       unconventional design strategies ✅       |
+|            improvised structures ✅             |            improvised structures ✅             |
+|  using existing (physical!) infrastructures ✅  |  using existing (physical!) infrastructures ✅  |
+|     disaster always imminent: data loss ✅      |      disaster always imminent: eviction ✅      |
+|       community (who gets to use it?) ✅        |       community (who gets to use it?) ✅        |
+|                   refusal ✅                    |                   refusal ✅                    |
+|      tactic with open source principles ✅      |      tactic with open source principles ✅      |
+|   often old hardware (reuse what is there) ✅   |   mostly old houses (reuse what is there)  ✅   |
+|   seemingly inaccessible to general public ✅   |   seemingly inaccessible to general public ✅   |
+|     designers should probably do it more ✅     |     designers should probably do it more ✅     |
+| *everything was better in the 90s*-mentality ✅ | *everything was better in the 90s*-mentality ✅ |
+| not de-appropriating someone else's property ❌ |   de-appropriating someone else's property ✅   |
+
+
 
 ## 8. Hotel Mokum
 
