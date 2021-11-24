@@ -8,5 +8,6 @@
 - [ ] what about my writing from last year? steward brand and the website? bring those back in
 - [x] formulate Research Question™️
 - [ ] Rewrite the surf part after reading the text of the wayback guy
-- [ ] Put everything into one file!
+- [x] Put everything into one file!
+- [ ] change order: first all the internet parts, end with physical aspects, then jump into squatting.
 

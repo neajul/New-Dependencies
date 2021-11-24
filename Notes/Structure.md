@@ -6,6 +6,16 @@
 
 
 
+I think i need to switch things around. Mokum story before history of squatting, where I talk about squatting being a network!
+
+definitely end with squatting after internet things, not mixed up!
+
+resons to refuse cloud seems good for now, but need to write other ocean part for now to know for sure. Could imagine opening with it, fits with the other diagram in the end
+
+
+
+
+
 **A new kind of structure-ish**
 
 1. Cloud Gazing
@@ -15,21 +25,24 @@
 2. Surfing the Web
    1. we used to have all kinds of spatial metaphors for the internet, ocean for example
    2. used to think it was super free place
-3. **A short history of squatting**
-4. Back to the Sea
+3. Back to the Sea
    1. Building a Crypto ship to live in international waters
    2. international waters are crazy regulated
-5. Reasons to Refuse the Cloud
-6. Back to the Land
+4. Reasons to Refuse the Cloud
+5. Back to the Land
    1. actually the internet is made from cables
    2. it's not separate
-7. Comparison of self hosting and squatting
-8. **Mokum Story**
+6. **Mokum Story**
    1. how do we organize?
    2. who do we make things available to?
    3. who are our **new dependencies?**
    4. What are the conflicts?
    5. dependencies can be addictions
+7. Hostory of squatting
+   1. squatting is a network
+   2. **embedding yourself in a context, naming yourself after an address**
+
+8. Comparison of self hosting and squatting
 
 
 
@@ -38,6 +51,8 @@
 
 
 missing in this:
+
+- something about being nomadic, potentials for being nomadic, ad-hoc
 
 - for some people it's about literal survival
   - refusal and privilege (steve jobs was homeless once)
