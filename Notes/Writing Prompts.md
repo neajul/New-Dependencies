@@ -6,7 +6,7 @@
 
 - [ ] Could continue with the cloud thing: what is the cloud for trust? (the waste)
 
-- [ ] what is there to dislike about the cloud?
+- [x] what is there to dislike about the cloud?
 
   - demystify it (materiality)
 
@@ -26,11 +26,11 @@
 
 - [ ] who gets to use my code?
 
-- [ ] write a shoert text that sums up why big tech is problematic (addictive by design, fake news, privacy, exploitative, environment etc)
+- [x] write a shoert text that sums up why big tech is problematic (addictive by design, fake news, privacy, exploitative, environment etc)
 
-- [ ] **Write about ocean metaphors, with surfing the web etc.**
+- [x] **Write about ocean metaphors, with surfing the web etc.**
 
   - check indie with tina
 
-- [ ] **The seasteading cruise ship**
+- [x] **The seasteading cruise ship**
 
