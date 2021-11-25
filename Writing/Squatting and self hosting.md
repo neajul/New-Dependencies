@@ -16,7 +16,8 @@
 |                    joining a network ✅                     |                    joining a network ✅                     |
 |                    following manuals ✅                     |                    following manuals ✅                     |
 |                  adapting to protocols ✅                   |                  adapting to protocols ✅                   |
-|                       programming ✅                        |                       programming ✅                        |
+|                 programming (computers) ✅                  |                   programming (events) ✅                   |
+|                     hosting (files) ✅                      |                     hosting (people) ✅                     |
 |        not de-appropriating someone else's space ❌         |          de-appropriating someone else's space ✅           |
 
 ### Notes:

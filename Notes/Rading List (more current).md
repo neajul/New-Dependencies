@@ -7,4 +7,5 @@
 - [ ] James Bridle
 - [ ] Prehistory of the cloud
 - [ ] Tubes
+- [ ] vlusser on nomads
 
