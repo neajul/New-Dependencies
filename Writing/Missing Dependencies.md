@@ -168,6 +168,36 @@ One by one we assured each other, complimented each other on *good shares*. It w
 
 ## 7. Architectures of (De-)Appropriation
 
+Squatting is the act of occupying an unoccupied space that without owning it or having permission to use it. It occurs around the world and is mostly connected to poverty and homelessness, where people without alternatives build settlements on unoccupied land, which over time often develop into shanty towns and slums. A 2003 estimate by the United Nations estimates that globally more than 1 billion people were living in squats and slums. For many of these people, squatting is tactic to survive and devoid of any political meaning.
+
+In the so called global north, however, squatting often has a political dimension. In their eponymous book published in 2019 by Het Nieuwe Instituut in Rotterdam, the collective Architectures of Appropriation conceptualizes squatting here, and in the Netherlands specifically, not only as a social movement and historical phenomenon but as a kind of *spatial activism*.
+
+
+
+
+
+
+
+While most people squat out of nece
+
+
+
+
+
+
+
+For most people around the world it's a matter of survival—their alternative being homelessness, they 
+
+
+
+
+
+
+
+
+
+
+
 Squats exist, and have been very influential. They are far from autonomous spaces but form parallel societies and networks with protocols and manuals. 
 
 ### Notes
