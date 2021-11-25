@@ -159,7 +159,7 @@ Whatever time was left, we spent in meetings. We had to organize and decide on e
 
 We are not squatters out of necessity. We are overwhelmingly middle class and white, we have jobs and studies, and almost all of us have an apartment. We have lives outside of Hotel Mokum, which we were starting to neglect—it was consuming us. Recently we came together in an *emo meeting* to discuss the emotional aspects of our involvements. It was important to create this space for us to listen to each other, let each other air grievances and send each other messages of support. Unanimously, we agreed that this first month had been one of the most fulfilling months of our lives, but we had all known that before. That had been the collective experience. At the emo meeting we acknowledged what happened outside of it. For a few hours the collective collapsed into a collection of individuals, each with their own, unique experience, with complaints, insecurities and dirty apartments.
 
-One by one we assured each other, complimented each other on *good shares*. It was all very wholesome. A lot of us hadn't known each other before the action, but in this moment of allowing ourselves to be vulnerable in front of each other, it felt like we had been doing this for years. We had become nodes in a (support) network, but far from autonomous, our network, in turn, was just a node in an even larger network. As someone put it, outside the doors was a city, not just a collection of houses. Utterly dependent on each other, we knew that we *could* depend on each other, and that these new dependencies were by choice.
+One by one we assured each other, complimented each other on *good shares*. It was all very wholesome. A lot of us hadn't known each other before the action, but in this moment of allowing ourselves to be vulnerable in front of each other, it felt like we had been doing this for years. We had become nodes in a (support) network, but far from autonomous, our network, in turn, was just a node in an even larger network. As someone put it, outside the doors was a city, not just a collection of houses. Utterly dependent on each other's solidarity, we knew that we *could* depend on each other, and that these new dependencies were by choice.
 
 [^701]: https://pakmokumterug.nl/
 [^702]: https://radar.squat.net/en/amsterdam/jeffreys-cinemas
@@ -171,6 +171,10 @@ One by one we assured each other, complimented each other on *good shares*. It w
 Squats exist, and have been very influential. They are far from autonomous spaces but form parallel societies and networks with protocols and manuals. 
 
 ### Notes
+
+alarm liste-> network diagram
+
+​	situating yourself in a context/network
 
 - need better title
 - this is where i can formulate the ideas of new dependencies really well—entering a network, not autonomous!
