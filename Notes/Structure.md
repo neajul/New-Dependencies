@@ -52,6 +52,8 @@ resons to refuse cloud seems good for now, but need to write other ocean part fo
 
 missing in this:
 
+- software as a service (rent etc)
+
 - something about being nomadic, potentials for being nomadic, ad-hoc
 
 - for some people it's about literal survival

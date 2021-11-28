@@ -62,13 +62,13 @@ decalration of independence, not true
 
 actually it's physical, real rooms (tubes)
 
-​ so physical it can be cut in half (not meant as incitement of political action against the infrastructures the internet runs on)
+ so physical it can be cut in half (not meant as incitement of political action against the infrastructures the internet runs on)
 
 the text from internet archive guy: today one is augmented on the other, we are not talking about some foreign, utopic, free space anymore, we are talking about a space where the same policies and inequalities take place
 
-​ it is not the fun place that it was in the 90s, it's mobile and augmented
+ it is not the fun place that it was in the 90s, it's mobile and augmented
 
-​ it's certainly not a cloud, and it's also not everywhere
+ it's certainly not a cloud, and it's also not everywhere
 
 that is the "land" in back to the land, the cables etc. Back to the land as thinking about infrastructure. Of not considering cyberspace a seperate place, but the same
 
@@ -76,11 +76,11 @@ the internet is not autonmous!
 
 die revolution, das goldene zeitalter, sind ausgeblieben. deshalb ist es interessant sich die bildsprache anzugucken.
 
-​ **need to look over this again after the brewster kahle article**
+ **need to look over this again after the brewster kahle article**
 
 also the netmom article can be a good reference!
 
-​ https://www.netmom.com/surfing/who-invented-surfing-the-internet
+ https://www.netmom.com/surfing/who-invented-surfing-the-internet
 
 the whole seasteading insta https://www.instagram.com/ocean_builders/ and their blog https://oceanbuilders.com/blog/ quite cool, one of their first sites https://web.archive.org/web/20190603133905/https://ocean.builders/
 
@@ -100,25 +100,36 @@ Many of us struggled with the pressure, the excitement, the exhaustion, the unce
 
 We squatted Hotel Mokum[^701](https://pakmokumterug.nl/) on the October 16th, 2021. None of us had really expected to succeed—in the secretive meetings with the *real* squatters in which we planned the action (out of a general distrust in technology we always had to leave our phones in another room) the best case scenario was nothing more than a rhetorical bridge into the infinitely more likely crisis scenarios of varying gravitas: *of course, at that moment the police can just decide to leave, but more likely they will [insert various degrees of state violence here].* But then it all turned out differently, and they did leave, and there we were, 20-odd 20-somethings (and me), and all 6 floors of the former Hotel right in the center of Amsterdam were *ours*, and every news outlet in town wanted to talk to us.
 
-The day of the action, we got drunk, the day after we started programming. Our first event was a series of screenings, selected by Jeffrey from *Jeffrey's Underground Cinema(s)*[^702](https://radar.squat.net/en/amsterdam/jeffreys-cinemas). Since then the program hasn't ended. In the first month we organized a neighborhood lunch, political cafés, screenings, a silkscreening workshop, a chess tournament, an exhibition with more than 70 participants, a demonstration and seemingly infinite amounts of bar nights. Fueled by a mix of enthusiasm, disbelief and constant fear of eviction, we went on and on, and every time it got better and bigger, and every time it was packed.
+The day of the action we got drunk, the day after we started programming. Our first event was a series of screenings, selected by Jeffrey from *Jeffrey's Underground Cinema(s)*[^702](https://radar.squat.net/en/amsterdam/jeffreys-cinemas). After that the program never stopped. In the first month we organized a neighborhood lunch, political cafés, screenings, a screen printing workshop, a chess tournament, an exhibition with more than 70 participants, a demonstration and seemingly infinite amounts of bar nights. Fueled by a mix of enthusiasm, disbelief and constant fear of eviction, we went on and on, and every time it got better and bigger, and every time it was packed.
 
 When we didn't have a public program, we worked on the building: It had been gutted to the core and in the two years that it had been abandoned, it had decayed dramatically. After changing the locks, we cleared out the carcasses of the pigeons that had been trapped inside, cleaned the floors of their excrements, built a toilet for ours, pumped out the water from the crawlspace beneath, built a bar, set up internet throughout the building (stolen from the hotel across the street), built living rooms and bed rooms, furnished it all, and cleaned—everything, endless amounts of times. Hardly any of us had ever squatted before, let alone on this scale and without the unconditional and selfless support and expertise from helpers, friends and members of the squatting scene, we could have never pulled any of it off.
 
 Whatever time was left, we spent in meetings. We had to organize and decide on events, fill the sleeping schedule, plan the renovations, find legal representation, write public statements, apply for funding, talk to an endless stream of journalists, talk to the neighbors, invite activists and politicians, deny entry to other activists and politicians, form connections to other squats, talk to the owner and formulate a corona policy. We organized on the fly—we set up Signal groups and a Matrix server, learned hand signs, kept times and moderated meetings, argued and solved conflicts, did check-ins and kept notes of everything. We decided collectively—not simply by majority, but looking for consensus even in disagreement.
 
-We are not squatters out of necessity. We are overwhelmingly middle class and white, we have jobs and studies, and almost all of us have an apartment. We have lives outside of Hotel Mokum, which we were starting to neglect—it was consuming us. Recently we came together in an *emo meeting* to discuss the emotional aspects of our involvements. It was important to create this space for us to listen to each other, let each other air grievances and send each other messages of support. Unanimously, we agreed that this first month had been one of the most fulfilling months of our lives, but we had all known that before. That had been the collective experience. At the emo meeting we acknowledged what happened outside of it. For a few hours the collective collapsed into a collection of individuals, each with their own, unique experience, with complaints, insecurities and dirty apartments.
+We needed this place, and it needed us. We were starting to neglect the lives we had outside of Hotel Mokum—it was consuming us. After around a month we came together in an *emo meeting* to discuss the emotional aspects of our involvements. It was important to create this space for us to listen to each other, let each other air grievances and send each other messages of support. Unanimously, we agreed that this first month had been one of the most fulfilling months of our lives, but we had all known that before. That had been the collective experience. At the emo meeting we acknowledged what happened outside of it. For a few hours the collective collapsed into a collection of individuals, each with their own, unique experience, with complaints, insecurities and dirty apartments.
 
-One by one we assured each other, complimented each other on *good shares*. It was all very wholesome. A lot of us hadn't known each other before the action, but in this moment of allowing ourselves to be vulnerable in front of each other, it felt like we had been doing this for years. We had become nodes in a (support) network, but far from autonomous, our network, in turn, was just a node in an even larger network. As someone put it, outside the doors was a city, not just a collection of houses. Utterly dependent on each other's solidarity, we knew that we *could* depend on each other, and that these new dependencies were by choice.
+One by one we assured each other, complimented each other on *good shares*. It was emotional and wholesome. A lot of us hadn't known each other before the action, but in this moment of allowing ourselves to be vulnerable in front of each other, it felt like we had been doing this for years. We had become nodes in a (support) network, but far from autonomous, our network, in turn, was just a node in an even larger network. As someone put it, outside the doors was a now city, not just a collection of houses. Utterly dependent on each other's solidarity, we knew that we *could* depend on each other, and that these new dependencies were dependencies we had chosen ourselves.
 
 ### Notes
 
 * Necessity: we are not doing this for fun. What is our motivation? What is the distinction? Why am I writing this, to cover my ass or for understanding?
+* why did we squat in the first place?
+  * **actually i think that can be explained in the part below**
+
 
 ## 7. Architectures of (De-)Appropriation
 
-Squatting is the act of occupying an unoccupied space that without owning it or having permission to use it. It occurs around the world and is mostly connected to poverty and homelessness, where people without alternatives build settlements on unoccupied land, which over time often develop into shanty towns and slums. A 2003 estimate by the United Nations estimates that globally more than 1 billion people were living in squats and slums. For many of these people, squatting is tactic to survive and devoid of any political meaning.
+Squatting is the act of occupying an unoccupied space without owning it or having permission to use it. It occurs around the world and is mostly connected to poverty and homelessness, where people without alternatives build settlements on unoccupied land, which over time often develop into shanty towns and slums. In 2003 the United Nations estimated that globally more than 1 billion people were living in squats and slums. For most of these people, squatting is a tactic to survive.
 
-In the so called global north, however, squatting often has a political dimension. In their eponymous book published in 2019 by Het Nieuwe Instituut in Rotterdam, the collective Architectures of Appropriation conceptualizes squatting here, and in the Netherlands specifically, not only as a social movement and historical phenomenon but as a kind of *spatial activism*.
+In the so called global north, however, squatting often has an activist dimension. In their eponymous book published in 2019 by Het Nieuwe Instituut in Rotterdam, the collective Architectures of Appropriation conceptualizes squatting here, and in the Netherlands specifically, not only as a social movement and historical phenomenon but as a kind of *spatial activism*.
+
+
+
+
+
+
+
+
 
 While most people squat out of nece
 
@@ -130,7 +141,7 @@ Squats exist, and have been very influential. They are far from autonomous space
 
 alarm liste-> network diagram
 
-​ situating yourself in a context/network
+ situating yourself in a context/network
 
 * need better title
 * this is where i can formulate the ideas of new dependencies really well—entering a network, not autonomous!
