@@ -10,6 +10,8 @@
 
 [TOC]
 
+
+
 ## 1. Cloud Gazing
 
 On September 12th, 2010 the Youtube Channel revelation13net uploaded a video titled *By Psychokinesis a Psychic turns a Cloud into a Square Cloud in Sept. 2010.* In this 02:18 video, a man is filming the sky with a handheld camera. Visible is a single cloud on an otherwise entirely blue sky, lined by some trees on the edge of the frame. We never see the person holding the camera but can hear them speak throughout the video. They introduce themselves as *T. Chase* and explain that they will now attempt to change the shape of the cloud into a square through psychic powers. They keep repeating this statement like a mantra of sorts, altering and distorting their voice as the video progresses. The cloud slowly changes shape, and by the end of the video it does look more like a square than in the beginning of the video, even though it's hard to say whether this might have just been the way it naturally changed shape.
@@ -21,6 +23,8 @@ The Cloud is a mystical space, its name is already opaque, veiling what it actua
 This inherent uncertainty is maybe why attempts to refuse *the cloud* can often feel futile. Even defining what it exactly is that we are refusing is already a tiring exercise. As it often is with computers, the conversation is one-sided, with us yelling at the cloud, trying to shape it, but not getting a response, because the cloud doesn't generally care. Still, a vague feeling of urgency remains.
 
 In 2019, web designer Becca Abbe sensed the dawn of what she called *the internet's back-to-the-land movement*, a new movement of users away from the cloud, in reference to the 1960s counter cultural movements away from the cities in the US (which, in turn, directly informed the early beginnings of Silicon Valley's tech world)[^1-5](https://www.are.na/blog/the-internet%27s-back-to-the-land-movement). It seems tempting to leave the celestial cloud, with all its fake news and inequalities, behind, to get back down to the *ground truth* so to say. But what exactly is this *land*, which we would return to, and who exactly is it that is going there?
+
+
 
 ## 2. Surfing the Web
 
@@ -38,6 +42,8 @@ Today nobody *surfs* anymore (the ocean has evaporated into the cloud, you could
 
 [^208]: need link to thesis of sandberg woman [^8]: Cybernetics etymologically developed from steersman [^9]: https://en.wikipedia.org/wiki/Netscape_Navigator [^10]: Pirate Bay [^11]: Safari [^12]: Opensea.io [^13]: https://archive.transmediale.de/content/the-eternal-network-1
 
+
+
 ## 3. Back to the Sea
 
 While some are trying their best to get back to the land, others want to get back to the sea. Where *homesteading* describes self-sufficient life on land, *seasteading* takes this idea a step further and out into the open sea (hypothetically, at least). Seasteading is an idea from San Francisco, and advocated for by the Seasteading Institute, which in turn was funded by venture capitalist and strangely obsessive Lord of the Rings fan[^14](https://www.bbc.com/news/technology-38315682) Peter Thiel, with the goal of making governments *smart*. Claiming that most of the land in the world is already taken, the seasteaders propose building floating cities in international waters, free from convention, regulation, and taxes.
@@ -50,7 +56,27 @@ Sophie Elmhirst recounts the following unfolding of unfortunate events in great 
 
 ## 4. Reasons to Refuse *the Cloud* (in no particular order)
 
-![image-20211123184545989](image-20211123184545989.png)
+- Workers in the global south are being exploited and our devices are assembled by modern slaves.
+- Rare earths such as Lithium are extracted from indigenous lands without their consent and unaccounted for consequences for the environment.
+- E-Waste is polluting the planet and is being dumped in landfills without regulations in the global south, poisoning both the lands and the people.
+- Tech companies and governments by extension are constantly spying on us. The right to privacy is being eroded and the surveillance state is being facilitated.
+- For almost a decade we have had reliable evidence that tech companies are padding on information to US government agencies such as the NSA, yet nothing has changed.
+- Social media companies profit from a divided political landscape, disconnected filter bubbles are not a by-product but part of the product.
+- The massive proliferation of fake news actively costs lives (see: anti vaccers) and is being facilitated by the big platforms.
+- People are led to believe in conspiracy theories and are being radicalized to the point of committing physical violence and domestic terrorism.
+- The internet, and most devices we carry in our pockets like smart phones developed from US military technology (possibilities for surveillance for example are no accident).
+- *Tech* is a race to the brain stem. Some of the best-educated people in the world spend all their energy in selling us ads. Thinking we could resist the machinery is like thinking we could win against a super computer in chess.
+- It's addictive on purpose. At places like the Stanford Persuasive Technology Lab people have been trained to specifically find ways of persuading users to keep using their products, and metrics like engagement are still the main factors their design.
+- Big companies that have terms and conditions instead of constitutions can censor users without any form of accountability or oversight.
+- Even though participation is always voluntary, social pressure, especially on children and teenagers, to participate outweighs any serious form of alternative.
+- Depression among young people is on an all time high, and suicide rates are steadily increasing.
+- In more authoritarian countries it's used as a tool to brutally suppress any form of opposition
+
+### Notes
+
+- needs foot notes
+
+
 
 ## 5. Back to the Land
 
@@ -94,6 +120,8 @@ the land is the infrastructure of the internet. It's cables (some of them under 
 
 maybe the division is a false dichotomy: we need to treat the digital with the same logic as space. Think about actual connections etc?
 
+
+
 ## 6. Hotel Mokum
 
 Many of us struggled with the pressure, the excitement, the exhaustion, the uncertainty, the lack of structure, impostor syndrome. The let-down effect was real, immediately after the action a number of people got sick. Most of us had stopped exercising, ate unhealthy, couldn't keep up with simple household tasks. Someone said their home had started to look like a squat while our squat had slowly started to look like a home. At the same time, most of us experienced difficulties to leave, to go home, and felt guilty when we missed just a day or two.
@@ -115,6 +143,8 @@ One by one we assured each other, complimented each other on *good shares*. It w
 * Necessity: we are not doing this for fun. What is our motivation? What is the distinction? Why am I writing this, to cover my ass or for understanding?
 * why did we squat in the first place?
   * **actually i think that can be explained in the part below**
+
+
 
 
 ## 7. Architectures of (De-)Appropriation
@@ -150,6 +180,37 @@ alarm liste-> network diagram
 * squatting is a network
 * **embedding yourself in a context, naming yourself after an address**
 
+
+
 ## 8. Who Would Win?
 
-![image-20211123183718503](image-20211123183718503.png)
+|                         self hosting                         |                          squatting                           |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+|          disregard of imposed policies (privacy) ✅           |          disregard of imposed policies (housing) ✅           |
+|                    resist cloud control ✅                    |                    resist crowd control ✅                    |
+|                    constant maintenance ✅                    |                    constant maintenance ✅                    |
+|                      new dependencies ✅                      |                      new dependencies ✅                      |
+|  improvised structures & unconventional design strategies ✅  |  improvised structures & unconventional design strategies ✅  |
+|         using existing (physical) infrastructures ✅          |         using existing (physical) infrastructures ✅          |
+| ephemeral & precarious, disaster always imminent: data loss ✅ | ephemeral & precarious, disaster always imminent: eviction ✅ |
+|            community building (who is invited?) ✅            |            community building (who is invited?) ✅            |
+|                     tactic of refusal ✅                      |                     tactic of refusal ✅                      |
+|                   open source principles ✅                   |                   open source principles ✅                   |
+|          often old hardware (reuse what is there) ✅          |          mostly old houses (reuse what is there)  ✅          |
+|                         mysterious ✅                         |                         mysterious ✅                         |
+|                         nostalgia ✅                          |                         nostalgia ✅                          |
+|              situating yourself in a network ✅               |              situating yourself in a network ✅               |
+|                     following manuals ✅                      |                     following manuals ✅                      |
+|                   adapting to protocols ✅                    |                   adapting to protocols ✅                    |
+|                  programming (computers) ✅                   |                    programming (events) ✅                    |
+|                      hosting (files) ✅                       |                      hosting (people) ✅                      |
+|         not de-appropriating someone else's space ❌          |           de-appropriating someone else's space ✅            |
+
+### Notes:
+
+- Need to check: are these things being mentioned in my text at some point?
+- something something nomadic
+  - IP addresses, no stable address!
+- situating yourself in a context (maybe covered by network point?)
+- something about legality?
+- something about ISPs not wanting you to self host
