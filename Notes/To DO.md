@@ -4,6 +4,7 @@
 - [x] go through notes, collect writing prompts
 - [ ] **go. through. my. content. list.**
   - [ ] especially refusal book!
+  - [ ] silvio text!!
 
 - [x] do some writing prompts
 - [ ] read!

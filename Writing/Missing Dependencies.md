@@ -10,8 +10,6 @@
 
 [TOC]
 
-
-
 ## 1. Cloud Gazing
 
 On September 12th, 2010 the Youtube Channel revelation13net uploaded a video titled *By Psychokinesis a Psychic turns a Cloud into a Square Cloud in Sept. 2010.* In this 02:18 video, a man is filming the sky with a handheld camera. Visible is a single cloud on an otherwise entirely blue sky, lined by some trees on the edge of the frame. We never see the person holding the camera but can hear them speak throughout the video. They introduce themselves as *T. Chase* and explain that they will now attempt to change the shape of the cloud into a square through psychic powers. They keep repeating this statement like a mantra of sorts, altering and distorting their voice as the video progresses. The cloud slowly changes shape, and by the end of the video it does look more like a square than in the beginning of the video, even though it's hard to say whether this might have just been the way it naturally changed shape.
@@ -42,7 +40,7 @@ In 1991, CERFnet released a promotional comic book, *The Adventures of Captain I
 
 Unaware of this, just a year later, librarian Jean Armour Polly published an article called *Surfing the Internet* on the University of Minnesota Wilson Library Bulletin and shortly after that, Tom Mandel of Stanford Research Institute (SRI) wrote another one called *Surfing the Wild Internet*.
 
-Polly (and probably Mandel) wanted to evoke the fun, but also the skill required to, well, surf the web, and the randomness, chaos, and even danger that the web itself presented [^202]. Computers and the internet are complicated and especially back then, when interfaces were less smooth, people less sad[^203] and personal computers were just beginning to become a thing, it perfectly captured this new, mysterious and seemingly bottomless place that was the internet[^204] (other exhausted geographic metaphors include cyberspace and the information highway).
+Polly (and probably Mandel) wanted to evoke the fun, but also the skill required to, well, surf the web, and the randomness, chaos, and even danger that the web itself presented [^202]. Computers and the internet are complicated and especially back then, when interfaces were less smooth, people less sad[^203] and personal computers were just beginning to become a thing, it perfectly captured this new, mysterious and seemingly bottomless place that was the internet[^204] (other exhausted geographic metaphors include cyberspace, the electronic *frontier* and the information highway).
 
 Today nobody *surfs* anymore (the ocean has evaporated into the cloud, you could say). But, despite the immiscibility of water and technology, the image of the internet as a vast ocean, free from the constraints of the aground, physical world, an ocean that just has to navigated by a skilled steersman[^205] with an appropriate vessel[^206], lingers as residue if you know where to look; In the ports and berths that we use to connect our computers to the internet, torrent sites[^207], app icons of browsers[^208] or the names of NFT marketplaces.[^209] The Network is eternal[^210], and so is the ocean.
 
@@ -56,6 +54,16 @@ Today nobody *surfs* anymore (the ocean has evaporated into the cloud, you could
 [^208]: Safari
 [^209]: Opensea.io
 [^210]: https://archive.transmediale.de/content/the-eternal-network-1
+
+### Notes
+
+- check the notes form brwster kahle text
+  - internet as activity (not just the landscape, but how we interact with it)
+  - internet as a sport
+  - but also something to consume, not to contribute to
+  - not continuous, you hang up your suit when you're done
+- check netmom article again
+  -  https://www.netmom.com/surfing/who-invented-surfing-the-internet
 
 
 
@@ -83,69 +91,61 @@ Sophie Elmhirst recounts the following unfolding of unfortunate events in great 
 
 ## 4. Reasons to Refuse *the Cloud* (in no particular order)
 
-- Workers in the global south are being exploited and our devices are assembled by modern slaves.
-- Rare earths such as Lithium are extracted from indigenous lands without their consent and unaccounted for consequences for the environment.
-- E-Waste is polluting the planet and is being dumped in landfills without regulations in the global south, poisoning both the lands and the people.
-- Tech companies and governments by extension are constantly spying on us. The right to privacy is being eroded and the surveillance state is being facilitated.
-- For almost a decade we have had reliable evidence that tech companies are padding on information to US government agencies such as the NSA, yet nothing has changed.
-- Social media companies profit from a divided political landscape, disconnected filter bubbles are not a by-product but part of the product.
-- The massive proliferation of fake news actively costs lives (see: anti vaccers) and is being facilitated by the big platforms.
-- People are led to believe in conspiracy theories and are being radicalized to the point of committing physical violence and domestic terrorism.
-- The internet, and most devices we carry in our pockets like smart phones developed from US military technology (possibilities for surveillance for example are no accident).
-- *Tech* is a race to the brain stem. Some of the best-educated people in the world spend all their energy in selling us ads. Thinking we could resist the machinery is like thinking we could win against a super computer in chess.
-- It's addictive on purpose. At places like the Stanford Persuasive Technology Lab people have been trained to specifically find ways of persuading users to keep using their products, and metrics like engagement are still the main factors their design.
-- Big companies that have terms and conditions instead of constitutions can censor users without any form of accountability or oversight.
-- Even though participation is always voluntary, social pressure, especially on children and teenagers, to participate outweighs any serious form of alternative.
-- Depression among young people is on an all time high, and suicide rates are steadily increasing.
-- In more authoritarian countries it's used as a tool to brutally suppress any form of opposition
+- Workers in the global south are being exploited and our devices are assembled by modern slaves.[^401]
+- Rare earths such as Lithium are extracted from indigenous lands without their consent and unaccounted for consequences for the environment.[^402]
+- E-Waste is polluting the planet and is being dumped in landfills without regulations in the global south, poisoning both the lands and the people.[^403]
+- Tech companies and governments by extension are constantly spying on us. The right to privacy is being eroded and the surveillance state is being facilitated.[^404]
+- For almost a decade we have had reliable evidence that tech companies are padding on information to US government agencies such as the NSA, yet nothing has changed.[^405]
+- Social media companies profit from a divided political landscape, disconnected filter bubbles are not a by-product but part of the product.[^406]
+- The massive proliferation of fake news actively costs lives (see: anti vaccers) and is being facilitated by the big platforms.[^407]
+- People are led to believe in conspiracy theories and are being radicalized to the point of committing physical violence and domestic terrorism.[^408]
+- The internet, and most devices we carry in our pockets like smart phones developed from US military technology (possibilities for surveillance for example are no accident).[^409]
+- *Tech* is a race to the brain stem. Some of the best-educated people in the world spend all their energy in selling us ads. Thinking we could resist the machinery is like thinking we could win against a super computer in chess.[^410]
+- It's addictive on purpose. At places like the Stanford Persuasive Technology Lab people have been trained to specifically find ways of persuading users to keep using their products, and metrics like engagement are still the main factors their design.[^411]
+- Big companies that have terms and conditions instead of constitutions can censor users without any form of accountability or oversight.[^412]
+- Even though participation is always voluntary, social pressure, especially on children and teenagers, to participate outweighs any serious form of alternative.[^413]
+- Depression among young people is on an all time high, and suicide rates are steadily increasing.[^414]
+- In more authoritarian countries it's used as a tool to brutally suppress any form of opposition[^415]
 
-### Notes
-
-- needs foot notes
+[^401]: (need to still back this up with a footnote)
+[^402]: (need to still back this up with a footnote)
+[^403]: (need to still back this up with a footnote)
+[^404]: (need to still back this up with a footnote)
+[^405]: (need to still back this up with a footnote)
+[^406]: (need to still back this up with a footnote)
+[^407]: (need to still back this up with a footnote)
+[^408]: (need to still back this up with a footnote)
+[^409]: (need to still back this up with a footnote)
+[^410]: (need to still back this up with a footnote)
+[^411]: (need to still back this up with a footnote)
+[^412]: (need to still back this up with a footnote)
+[^413]: (need to still back this up with a footnote)
+[^414]: (need to still back this up with a footnote)
+[^415]: (need to still back this up with a footnote)
 
 
 
 ## 5. Back to the Land
 
-tightly regulated, like the internet
+Another place that many people thought was the epitome of freedom, but which turned out to be tightly regulated, is the internet. *A Declaration of the Independence of Cyberspace*[^501], which John Perry Barlow, another founding member of the Electronic Frontier Foundation, published in 1996, is often used an example for this false optimism. As their name suggests, the EFF in the 90s perceived the internet as a new frontier, as a new, wild and unexplored space, which could be settled, where people could build new lives, new utopias, new modes of governance. Barlow's text reads as a challenge to the governments of what he calls the *Industrial World*, or the world outside of the computers, who, according to him, had no legitimate claim to govern cyberspace.
 
-this is not pirate radio of the 60s (started in NL)
+Of course, this document has to be read as a sign of its time. Many[^502][^503][^504][^505] people have pointed out, and Barlow himself has admitted since, that this clear division between digital and physical space is not a very good model to describe the world—after all, the internet runs on real computers, which stand in real rooms that are connected to the rest of the world with real cables, and all of which is powered by real energy[^506]. The internet obviously runs on physical infrastructure[^507], which follows the rules of the physical world.
 
-decalration of independence, not true
+In 2021, however, probably not a lot of people would make this mistake. In his essay *Imagining the Internet: Explaining our Digital Transition*, Brewster Kahle, founder of the Internet Archive, explores the different metaphors that we have collectively used to try to understand the internet over the years. According to him, around 2010 the internet became more and more mobile, and more and more tied to real our real identities.[^508] Around that time political cartoons regarding anything online shifted in tone, from optimistic depictions of the future to people with phones in their hands that were sucking in their faces.
 
-actually it's physical, real rooms (tubes)
+Today the virtual is not separate but augmented, which is maybe why the image of the cloud, hovering above us, overlaid like another layer in Photoshop (or Gimp), continues to stick around (that and marketing). But the collapse of the gap between the two also means that the inequalities inherent in one apply to the other, cannot be approached separately from one another. Inequalities in the virtual (where we are limited to the possibilities of the interface[^509]) cannot be solved from within it, like code running in a sandbox can't break out from it.
 
- so physical it can be cut in half (not meant as incitement of political action against the infrastructures the internet runs on)
+If Cyberspace was the indefinite space between the nodes, then a digital *back to the land*-movement has to focus precisely on the nodes and their physical connections, their infrastructure, which is overwhelmingly aground, even if sometimes submerged in water.
 
-the text from internet archive guy: today one is augmented on the other, we are not talking about some foreign, utopic, free space anymore, we are talking about a space where the same policies and inequalities take place
-
- it is not the fun place that it was in the 90s, it's mobile and augmented
-
- it's certainly not a cloud, and it's also not everywhere
-
-that is the "land" in back to the land, the cables etc. Back to the land as thinking about infrastructure. Of not considering cyberspace a seperate place, but the same
-
-the internet is not autonmous!
-
-die revolution, das goldene zeitalter, sind ausgeblieben. deshalb ist es interessant sich die bildsprache anzugucken.
-
- **need to look over this again after the brewster kahle article**
-
-also the netmom article can be a good reference!
-
- https://www.netmom.com/surfing/who-invented-surfing-the-internet
-
-the whole seasteading insta https://www.instagram.com/ocean_builders/ and their blog https://oceanbuilders.com/blog/ quite cool, one of their first sites https://web.archive.org/web/20190603133905/https://ocean.builders/
-
-and the designer lol https://www.instagram.com/p/BTjyVDSg7Pg/ of course she's a burner and a dj and into tarot cards lol her company: https://www.instagram.com/liveonmxrs/
-
-seasteading as open source!
-
-web3.0 sees the land as the waste that has to be avoided, so let's finally get to the question of what the land is.
-
-the land is the infrastructure of the internet. It's cables (some of them under water, but at least aground), it's rooms, etc. Many have talked about this (tubes, evan roth, the transmediale woman)
-
-maybe the division is a false dichotomy: we need to treat the digital with the same logic as space. Think about actual connections etc?
+[^501]: https://www.eff.org/cyberspace-independence
+[^502]: Tubes book
+[^503]: The wikipedia reference
+[^504]: the transmediale woman
+[^505]: evan roth
+[^506]: energy usage of the internet
+[^507]: https://www.theguardian.com/world/2011/apr/06/georgian-woman-cuts-web-access
+[^508]: https://www.are.na/blog/reimagining-the-internet
+[^509]: User—Agent thesis
 
 
 
@@ -172,6 +172,8 @@ One by one we assured each other, complimented each other on *good shares*. It w
 
 ### Notes
 
+- we got evicted
+
 * Necessity: we are not doing this for fun. What is our motivation? What is the distinction? Why am I writing this, to cover my ass or for understanding?
 * why did we squat in the first place?
   * **actually i think that can be explained in the part below**
@@ -193,60 +195,44 @@ Despite the raging housing crisis here, which has only become worse since then, 
 
 One way this *networkedness* might be epitomized is in the convention to name a newly squatted building after the address where it located. By doing this, the squatters embed themselves into the broader (social) context of the city, as well as into the network of other squats there, while being simultaneously site specific and location independent: if they get evicted, the collective can squat another place next week, and the place will have a different address and a different name. Its identity will simultaneously be the same and completely different, similar to the way a computer gets assigned a new IP address in a network.
 
-```flow
-st=>start: Alarmlijst Artis
-e=>end: End
-sub1=>subroutine: My Subroutine
-ing=>condition: INGANGSNUMMERS
-check
-io=>inputoutput: catch something...
-para=>parallel: parallel tasks
+The connections between these nodes in a network are not simply abstract but can and have been diagrammatically mapped out as with an emergency list of the former Amsterdam squat Plantage Dok[^705]. In a time before cellphones, this flowchart, composed on a typewriter, mapped out how, in case of an emergency such as violent groups attacking one of the squats, the different nodes in the immediate network of Plantage Dok should be contacted for support, in which order, by who, and by what means (by *fiets*, meaning by bike, or by *bellen*, meaning through the phone).
 
-st->ing
-ing(yes)->io->e
-ing(no)->para
+```mermaid
+graph TD;
+    A[Alarmlijst Artis]-->B[INGANGSNUMMERS];
+    
+    B-->|CHECK| 2[2. KleinePrins];
+    2-->|fietst| 3[3. Amstelhof];
+    3-->|fietst| 4[4. nwe kg 50];
+    4-->13[13. Keizersgr 721];
+    
+    3-->|fietst|5[5. nwe pg 6];
+    5-->6[6. nwe pg 10];
+    6-->7[7. nwe pg 22];
+    
+    2-->|belt|8[8. sarp.str 39];
+    8-->10[10. CHAOS];
+    10-->9[sarp.str 62-64];
+    9-->|loopt|12[sarp. str 74];
+    
+    B-->|CHECK| 1[1. Avondrood];
+    1-->|belt|14[14. TEMPO DOELOE];
+    14-->22[22 OCHTENDGLOREN];
+    
+    1-->LUKRAAK;
+    LUKRAAK-->|fietst|16[16 plantage muidergracht 20];
+    16-->17[17 alexanderkade 7, 8, 9-boven];
+    
+    1-->|belt|18[18 h. kadijke... 16];
+    18-->19[19 h. kadijke... 18];
+    19-->21[21. kad plein 9 IV];
+    
+    19-->20[20. h. kad. 97-99];
+    
+    
 ```
 
-
-
-
-
-
-
-
-
-st=>start: Start:>http://www.google.com[blank]
-e=>end:>http://www.google.com
-op1=>operation: My Operation
-sub1=>subroutine: My Subroutine
-cond=>condition: Yes
-or No?:>http://www.google.com
-io=>inputoutput: catch something...
-para=>parallel: parallel tasks
-
-st->op1->cond
-cond(yes)->io->e
-cond(no)->para
-para(path1, bottom)->sub1(right)->op1
-para(path2, top)->op1
-
-
-
-
-
-
-
-
-
-
-
-
-
-As with these digital networks, squatting networks have diagramatically been iuhdiphusdds`iohehiw ehiw ehw egiuw
-
-
-
-
+fig.1 Alarmlijst Artis expressed in a *mermaid.js* script
 
 
 
@@ -274,20 +260,7 @@ According to them,
 [^702]: https://architecture-appropriation.hetnieuweinstituut.nl/en/publication
 [^703]: https://web.archive.org/web/20190830180133/https://www.rd.nl/amsterdam-ontruimt-330-panden-sinds-kraakwet-1.259316
 [^704]: same Architectures of Appropriation book
-
-
-
-### Notes
-
-alarm liste-> network diagram
-
- situating yourself in a context/network
-
-* this is where i can formulate the ideas of new dependencies really well—entering a network, not autonomous!
-
-  
-
-
+[^705]: same Architectures of Appropriation book
 
 
 
@@ -310,16 +283,17 @@ alarm liste-> network diagram
 |                         nostalgia ✅                          |                         nostalgia ✅                          |
 |              situating yourself in a network ✅               |              situating yourself in a network ✅               |
 |                     following manuals ✅                      |                     following manuals ✅                      |
-|                   adapting to protocols ✅                    |                   adapting to protocols ✅                    |
+|                    following protocols ✅                     |                    following protocols ✅                     |
 |                  programming (computers) ✅                   |                    programming (events) ✅                    |
 |                      hosting (files) ✅                       |                      hosting (people) ✅                      |
-|         not de-appropriating someone else's space ❌          |           de-appropriating someone else's space ✅            |
+|           de-appropriating someone else's space ❌            |           de-appropriating someone else's space ✅            |
 
 ### Notes:
 
 - Need to check: are these things being mentioned in my text at some point?
+  - can they be intertextual references?
 - something something nomadic
   - IP addresses, no stable address!
-- situating yourself in a context (maybe covered by network point?)
 - something about legality?
 - something about ISPs not wanting you to self host
+- something something software as service/rent
