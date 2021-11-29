@@ -176,6 +176,7 @@ One by one we assured each other, complimented each other on *good shares*. It w
 * why did we squat in the first place?
   * **actually i think that can be explained in the part below**
 
+* i removed the part about us being white etc, should i bring that back in?
 
 
 
