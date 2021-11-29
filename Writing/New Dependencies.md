@@ -191,9 +191,9 @@ In the global north, squatting is mostly residential, meaning that it involves t
 
 In the Netherlands, squatting developed into a politically motivated movement after World War 2 but it wasn't until 1971 that squatters acquired legal protection. That year a court ruled that if squatters could prove that they had established so called *house peace (huisvrede)* they would enjoy the same legal protection in their homes as everyone else, meaning they could not just be evicted by the police without the ruling of a judge. After that, squatting became institutionalized: by 1980 there were weekly squatting information hours (*Kraakspreekuuren*) in every Dutch city, where squatters would give free advice to whoever was interested, and the action itself was protocolized in the form of freely available manuals down to the last detail, including the interaction with the authorities and police. Architectures of Appropriation argue that already back then, the squatting movement had a decidedly *open source* character.
 
-Despite the raging housing crisis here, which has only become worse since then, in 2010, squatting became a criminal offense in the Netherlands. In the first 2 years after that more than 330 squats were evicted in Amsterdam alone[^703]. In its prime, this network of squatted places amounted to a parallel society of sorts, consisting not only of alternative housing projects but (sub)cultural venues, food distribution centers, peoples' kitchens, legal support, media outlets and medical services[^704]. This aspect of embedding yourself in a *network*, of cutting with old dependencies in favor of new ones, is central to the act of squatting on many levels—whether it's the internal network of the occupants, a local network with the surrounding neighbors, a regional network with the rest of the scene in the squat's vicinity, or and international network of political squatters around the world.
+Despite the raging housing crisis here, which has only become worse since then, in 2010, squatting became a criminal offense in the Netherlands. In the first 2 years after that more than 330 squats were evicted in Amsterdam alone[^703]. In its prime, this network of squatted places amounted to a parallel society of sorts, consisting not only of alternative housing projects but (sub)cultural venues, food distribution centers, peoples' kitchens, legal support, media outlets and medical services[^704]. This aspect of embedding yourself in a *network*, of cutting with old dependencies in favor of new ones, is central to the act of squatting on many levels—whether it's the internal network of the occupants, a local network with the surrounding neighbors, a regional network with the rest of the scene in the squat's vicinity, or an international network of political squatters around the world.
 
-One way this *networkedness* might be epitomized is in the convention to name a newly squatted building after the address where it located. By doing this, the squatters embed themselves into the broader (social) context of the city, as well as into the network of other squats there, while being simultaneously site specific and location independent: if they get evicted, the collective can squat another place next week, and the place will have a different address and a different name. Its identity will simultaneously be the same and completely different, similar to the way a computer gets assigned a new IP address in a network.
+One way this *networkedness* might be epitomized is in the convention to name a newly squatted building after the address where it is located. By doing this, the squatters embed themselves into the broader (social) context of the city, as well as into the network of other squats there, while being simultaneously site specific and location independent: if they get evicted, the collective can squat another place next week, and the place will have a different address and a different name. Its identity will simultaneously be the same and completely different, similar to the way a computer gets assigned a new IP address in a network.
 
 The connections between these nodes in a network are not simply abstract but can and have been diagrammatically mapped out as with an emergency list of the former Amsterdam squat Plantage Dok[^705]. In a time before cellphones, this flowchart, composed on a typewriter, mapped out how, in case of an emergency such as violent groups attacking one of the squats, the different nodes in the immediate network of Plantage Dok should be contacted for support, in which order, by who, and by what means (by *fiets*, meaning by bike, or by *bellen*, meaning through the phone).
 
@@ -233,28 +233,6 @@ graph TD;
 ```
 
 fig.1 Alarmlijst Artis expressed in a *mermaid.js* script
-
-
-
-
-
-
-
-According to them,
-
-
-
-- immediate need/desire to transform
-- collaboration
-- no budget
-- adapting to what's there
-- uncertainty of eviction
-
-
-
-- **experimenting bottom-up, small-scale, incremental, collective, diverse, antagonistic, self-organization, autonomy, the commons**
-
-
 
 [^701]: https://unhabitat.org/sites/default/files/download-manager-files/The%20Challenge%20of%20Slums%20-%20Global%20Report%20on%20Human%20Settlements%202003.pdf
 [^702]: https://architecture-appropriation.hetnieuweinstituut.nl/en/publication
@@ -303,6 +281,19 @@ According to them,
 ## Notes in general
 
 - images
+
 - read silvio
+
 - read vlusser, bring him in (what about nomadism?)
+
 - read refusal book
+
+- i need an ending
+
+  - immediate need/desire to transform
+  - collaboration
+  - no budget
+  - adapting to what's there
+  - uncertainty of eviction
+
+  - **experimenting bottom-up, small-scale, incremental, collective, diverse, antagonistic, self-organization, autonomy, the commons**
