@@ -2,13 +2,15 @@
 
 *In this essay I am trying to establish a lineage between a spatial practice like squatting and a (for lack of a better term) digital practice like self hosting. I start by examining the spatial and geographical metaphors we (have) use(d) to describe the internet, and argue that any understanding of it as a separate, autonomous space is insufficient. I argue that the need for alternative practices is imminent, and that tactics and sentiments from the squatting movement could be applied to their digital counterparts. As an example, I examine how squats don't function as autonomous spaces per se, but rather as nodes situated in larger contexts and (support) networks, reliant on a new set of dependencies that they define for themselves.*
 
-*I have a feeling that I am not the first one to do this (lol) and I know that there is quite some overlap (there are squatted hacker spaces in Amsterdam, the founders of institute for network cultures were squatters in the 80s, etc), but I am not aware of anyone having made this explicit, if you do, please let me know. I'm also a bit unsure about the tone i use, i don't want to sound too lecturing, or too much like i have it all figured out. I also wonder about the whole discussion around refusal and privilege, how to bring it in without it being there just to acknowlege it. And of course anything else you have to add <3*
+*I have a feeling that I am not the first one to do this (lol) and I know that there is quite some overlap between these things already (there are squatted hacker spaces in Amsterdam, the founders of institute for network cultures were squatters in the 80s, etc), but I am not aware of anyone having made this explicit, if you are, please let me know. I'm also a bit unsure about the tone I use, I don't want to sound too lecturing, or too much like I have it all figured out, or oversimplify the situation. I also wonder about the whole discussion around refusal and privilege, is it present enough? Do I need to emphasize it more? I'm also wondering about the order of the sequence, for example the "Reasons to refuse the cloud" part. Also I need to shorten I think, so please tell me what is unnecessary. And of course anything else you have to add is appreciated <3*
 
 ---
 
 # New Dependencies
 
 [TOC]
+
+
 
 ## 1. Cloud Gazing
 
@@ -40,7 +42,7 @@ In 1991, CERFnet released a promotional comic book, *The Adventures of Captain I
 
 Unaware of this, just a year later, librarian Jean Armour Polly published an article called *Surfing the Internet* on the University of Minnesota Wilson Library Bulletin and shortly after that, Tom Mandel of Stanford Research Institute (SRI) wrote another one called *Surfing the Wild Internet*.
 
-Polly (and probably Mandel) wanted to evoke the fun, but also the skill required to, well, surf the web, and the randomness, chaos, and even danger that the web itself presented [^202]. Computers and the internet are complicated and especially back then, when interfaces were less smooth, people less sad[^203] and personal computers were just beginning to become a thing, it perfectly captured this new, mysterious and seemingly bottomless place that was the internet[^204] (other exhausted geographic metaphors include cyberspace, the frontier and the information highway).
+Polly (and probably Mandel) wanted to evoke the fun, but also the skill required to, well, surf the web, and the randomness, chaos, and even danger that the web itself presented [^202]. Using the internet became a sport, something you did for fun for a while before hanging up your wet suit and doing something else. Computers and the internet are complicated and especially back then, when interfaces were less smooth, people less sad[^203] and personal computers were just beginning to become a thing, it perfectly captured this new, mysterious and seemingly bottomless place that was the internet[^204] (other exhausted geographic metaphors include cyberspace, the frontier and the information highway).
 
 Today nobody *surfs* anymore (the ocean has evaporated into the cloud, you could say). But, despite the immiscibility of water and technology, the image of the internet as a vast ocean, free from the constraints of the aground, physical world, an ocean that just has to navigated by a skilled steersman[^205] with an appropriate vessel[^206], lingers as residue if you know where to look; In the ports and berths that we use to connect our computers to the internet, torrent sites[^207], app icons of browsers[^208] or the names of NFT marketplaces.[^209] The Network is eternal[^210], and so is the ocean.
 
@@ -54,16 +56,6 @@ Today nobody *surfs* anymore (the ocean has evaporated into the cloud, you could
 [^208]: Safari
 [^209]: Opensea.io
 [^210]: https://archive.transmediale.de/content/the-eternal-network-1
-
-### Notes
-
-- check the notes form brwster kahle text
-  - internet as activity (not just the landscape, but how we interact with it)
-  - internet as a sport
-  - but also something to consume, not to contribute to
-  - not continuous, you hang up your suit when you're done
-- check netmom article again
-  -  https://www.netmom.com/surfing/who-invented-surfing-the-internet
 
 
 
@@ -89,23 +81,23 @@ Sophie Elmhirst recounts the following unfolding of unfortunate events in great 
 
 
 
-## 4. Reasons to Refuse *the Cloud* (in no particular order)
+## 4. Unordered List of Reasons to Refuse *the Cloud*
 
 - Workers in the global south are being exploited and our devices are assembled by modern slaves.[^401]
-- Rare earths such as Lithium are extracted from indigenous lands without their consent and unaccounted for consequences for the environment.[^402]
+- Rare earths such as Lithium are extracted from indigenous lands without their consent and with unaccounted for consequences for the environment.[^402]
 - E-Waste is polluting the planet and is being dumped in landfills without regulations in the global south, poisoning both the lands and the people.[^403]
 - Tech companies and governments by extension are constantly spying on us. The right to privacy is being eroded and the surveillance state is being facilitated.[^404]
 - For almost a decade we have had reliable evidence that tech companies are padding on information to government agencies such as the NSA, yet nothing has changed.[^405]
 - Social media companies profit from a divided political landscape, disconnected filter bubbles are not a by-product but part of the product.[^406]
 - The massive proliferation of fake news actively costs lives (see: anti vaccers) and is being facilitated by the big platforms.[^407]
 - People are led to believe in conspiracy theories and are being radicalized to the point of committing physical violence and domestic terrorism.[^408]
-- The internet, and most devices we carry in our pockets like smart phones developed from US military technology (possibilities for surveillance for example are no accident).[^409]
+- The internet, and most devices we carry in our pockets like smart phones, are developed from US military technology (possibilities for surveillance for example are no accident).[^409]
 - *Tech* is a race to the brain stem. Some of the best-educated people in the world spend all their energy in selling us ads. Thinking we could resist the machinery is like thinking we could win against a super computer in chess.[^410]
 - It's addictive on purpose. At places like the Stanford Persuasive Technology Lab people have been trained to specifically find ways of persuading users to keep using their products, and metrics like engagement are still the main factors their design.[^411]
 - Big companies that have terms and conditions instead of constitutions can censor users without any form of accountability or oversight.[^412]
-- Even though participation is always voluntary, social pressure, especially on children and teenagers, to participate outweighs any serious form of alternative.[^413]
+- Even though participation is always voluntary, social pressure to participate, especially on children and teenagers, outweighs any serious form of alternative.[^413]
 - Depression among young people is on an all time high, and suicide rates are steadily increasing.[^414]
-- In more authoritarian countries it's used as a tool to brutally suppress any form of opposition[^415]
+- In authoritarian countries it's used as a tool to brutally suppress any form of opposition[^415]
 
 [^401]: (need to still back this up with a footnote)
 [^402]: (need to still back this up with a footnote)
@@ -127,15 +119,15 @@ Sophie Elmhirst recounts the following unfolding of unfortunate events in great 
 
 ## 5. Back to the Land
 
-Another place that many people thought was the epitome of freedom, but which turned out to be tightly regulated, is the internet. *A Declaration of the Independence of Cyberspace*[^501], which John Perry Barlow, another founding member of the Electronic Frontier Foundation, published in 1996, is often used an example for this false optimism. As their name suggests, the EFF in the 90s perceived the internet as a new frontier, as wild and unexplored space, which could be settled, where people could build new lives, new utopias, new modes of governance. Barlow's text reads as a challenge to the governments of what he calls the *Industrial World*, or the world outside of the computers, who, according to him, had no legitimate claim to govern cyberspace.
+Like the high seas, another place that many people thought was the epitome of freedom, but which turned out to be tightly regulated, is the internet. *A Declaration of the Independence of Cyberspace*[^501], which John Perry Barlow, founding member of the Electronic Frontier Foundation, published in 1996, is often used an example for this false optimism. As their name suggests, the EFF in the 90s perceived the internet as a new frontier, a wild and unexplored space for settlers to claim, where people could build new lives, new utopias, new modes of governance. Barlow's text reads as a challenge to the governments of what he calls the *Industrial World*, or the world outside of the computers, who, according to him, had no legitimate claim to govern cyberspace.
 
-Of course, this document has to be read as a sign of its time. Many[^502][^503][^504][^505] people have pointed out, and Barlow himself has admitted since, that this clear division between digital and physical space is not a very good model to describe the world—after all, the internet runs on real computers, which stand in real rooms that are connected to the rest of the world with real cables, and all of which is powered by real energy[^506]. The internet obviously runs on physical infrastructure[^507], which follows the rules of the physical world.
+Of course this document has to be seen in the context of its time, and it has been critiqued to exhaustion. Many[^502][^503][^504][^505] people have pointed out, and Barlow himself has admitted since, that this clear division between digital and physical space is not a very good model to describe the world—after all, the internet runs on real computers, which stand in real rooms that are connected to the rest of the world with real cables, all of which is powered by real electricity[^506]. The internet obviously runs on physical infrastructure[^507], which follows the rules of the physical world.
 
-In 2021, however, probably not a lot of people would make this mistake. In his essay *Imagining the Internet: Explaining our Digital Transition*, Brewster Kahle, founder of the Internet Archive, explores the different metaphors that we have collectively used to try to understand the internet over the years. According to him, around 2010 the internet became more and more mobile, and more and more tied to real our real identities.[^508] Around that time political cartoons regarding anything online shifted in tone, from optimistic depictions of the future to people with phones in their hands that were sucking in their faces.
+In 2021 probably not a lot of people would make this mistake anymore. In his essay *Imagining the Internet: Explaining our Digital Transition*, Brewster Kahle, founder of the Internet Archive, explores the different metaphors that we have collectively used to try to understand the internet throughout the years. According to him, around 2010 the internet became more and more mobile, and more and more tied to real our real identities. Around that time political cartoons regarding anything online shifted in tone, from optimistic depictions of the future to people with phones in their hands that, sucking in their faces. With anonymity, the optimism of the 90s had disappeared. [^508]
 
-Today the virtual is not separate but augmented, which is maybe why the image of the cloud, hovering above us, overlaid like another layer in Photoshop (or Gimp), continues to stick around (that and marketing). But the collapse of the gap between the two also means that the inequalities inherent in one apply to the other, cannot be approached separately from one another. Inequalities in the virtual (where we are limited to the possibilities of the interface[^509]) cannot be solved from within it, like code running in a sandbox can't break out from it.
+Today the virtual is not separate but augmented, which is maybe why the image of the cloud, hovering above us, overlaid like another layer in Photoshop (or Gimp), continues to stick around (that and marketing). But the collapse of the gap between the two also means that the inequalities inherent in one apply to the other, cannot be approached separately from one another. Inequalities in the virtual (where we are limited to the possibilities of the interface[^509]) cannot be solved from within it, like code running in a sandbox that can't affect the system outside of it.
 
-If Cyberspace was the indefinite space between the nodes, then a digital *back to the land*-movement has to focus precisely on the nodes and their physical connections, their infrastructure, which is overwhelmingly aground, even if sometimes submerged in water. Luckily for us, we have much more experience in negotiating physical space than virtual space.
+If Cyberspace was the indefinite space between the nodes, that magical place that exists between your computer and mine, then a digital *back to the land*-movement has to focus precisely on these nodes and their physical connections, the underlying infrastructure, which is overwhelmingly aground, even if sometimes submerged in water. Luckily for us, we have much more experience in negotiating physical space than virtual space.
 
 [^501]: https://www.eff.org/cyberspace-independence
 [^502]: Tubes book
@@ -159,27 +151,14 @@ The day of the action we got drunk, the day after we started programming. Our fi
 
 When we didn't have a public program, we worked on the building: It had been gutted to the core and in the two years that it had been abandoned, it had decayed dramatically. After changing the locks, we cleared out the carcasses of the pigeons that had been trapped inside, cleaned the floors of their excrements, built a toilet for ours, pumped out the water from the crawlspace beneath, built a bar, set up internet throughout the building (stolen from the hotel across the street), built living rooms and bed rooms, furnished it all, and cleaned—everything, endless amounts of times. Hardly any of us had ever squatted before, let alone on this scale and without the unconditional and selfless support and expertise from helpers, friends and members of the squatting scene, we could have never pulled any of it off.
 
-Whatever time was left, we spent in meetings. We had to organize and decide on events, fill the sleeping schedule, plan the renovations, find legal representation, write public statements, apply for funding, talk to an endless stream of journalists, talk to the neighbors, invite activists and politicians, deny entry to other activists and politicians, form connections to other squats, talk to the owner and formulate a corona policy. We organized on the fly—we set up Signal groups and a Matrix server, learned hand signs, kept times and moderated meetings, argued and solved conflicts, did check-ins and kept notes of everything. We decided collectively—not simply by majority, but looking for consensus even in disagreement.
+Whatever time was left, we spent in meetings. We had to organize and decide on events, fill the sleeping schedule, plan the renovations, find legal representation, write public statements, apply for funding, talk to an endless stream of journalists, talk to the neighbors, invite activists and politicians, deny entry to other activists and politicians, form connections to other squats, talk to the owner and formulate a corona policy. We organized on the fly—we set up Signal groups and a Matrix server, learned hand signs, kept times, moderated meetings, argued and solved conflicts, did check-ins and kept notes of everything. We decided collectively—not simply by majority, but looking for consensus even in disagreement.
 
-We needed this place, and it needed us. We were starting to neglect the lives we had outside of Hotel Mokum—it was consuming us. After around a month we came together in an *emo meeting* to discuss the emotional aspects of our involvements. It was important to create this space for us to listen to each other, let each other air grievances and send each other messages of support. Unanimously, we agreed that this first month had been one of the most fulfilling months of our lives, but we had all known that before. That had been the collective experience. At the emo meeting we acknowledged what happened outside of it. For a few hours the collective collapsed into a collection of individuals, each with their own, unique experience, with complaints, insecurities and dirty apartments.
+We needed this place, and it needed us. We were starting to neglect the lives we had outside of Hotel Mokum—it was consuming us. After a month we came together in an *emo meeting* to discuss the emotional aspects of our involvements. It was important to create this space for us to listen to each other, let each other air grievances and send each other messages of support. Unanimously, we agreed that this month had been one of the most fulfilling months of our lives, but we had all known that before. That had been the collective experience. At the emo meeting we acknowledged what happened outside of it. For a few hours the collective collapsed into a collection of individuals, each with their own, unique experience, with complaints, insecurities and dirty apartments.
 
-One by one we assured each other, complimented each other on *good shares*. It was emotional and wholesome. A lot of us hadn't known each other before the action, but in this moment of allowing ourselves to be vulnerable in front of each other, it felt like we had been doing this for years. We had become nodes in a (support) network, but far from autonomous, our network, in turn, was just a node in an even larger network. As someone put it, outside the doors was a now city, not just a collection of houses. Utterly dependent on each other's solidarity, we knew that we *could* depend on each other, and that these new dependencies were dependencies we had chosen ourselves.
+One by one we assured each other, complimented each other on *good shares*. It was emotional and supportive. A lot of us hadn't known each other before the action, but in this moment of allowing ourselves to be vulnerable in front of each other, it felt like we had been doing this for years. We had become nodes in a (support) network, but far from autonomous, our network, in turn, was just a node in an even larger network. As someone put it, outside the doors was a now city, not just a collection of houses. Utterly dependent on each other's solidarity, we knew that we *could* depend on each other, and that these new dependencies were dependencies we had chosen ourselves.
 
 [^601]: https://pakmokumterug.nl/
 [^602]: https://radar.squat.net/en/amsterdam/jeffreys-cinemas
-
-
-
-### Notes
-
-- we got evicted
-
-* Necessity: we are not doing this for fun. What is our motivation? What is the distinction? Why am I writing this, to cover my ass or for understanding?
-* why did we squat in the first place?
-  * **actually i think that can be explained in the part below**
-
-* i removed the part about us being white etc, should i bring that back in?
-* we got eveicted, it's over, i need to put that in.
 
 
 
@@ -196,6 +175,8 @@ Despite the raging housing crisis here, which has only become worse since then, 
 One way this *networkedness* might be epitomized is in the convention to name a newly squatted building after the address where it is located. By doing this, the squatters embed themselves into the broader (social) context of the city, as well as into the network of other squats there, while being simultaneously site specific and location independent: if they get evicted, the collective can squat another place next week, and the place will have a different address and a different name. Its identity will simultaneously be the same and completely different, similar to the way a computer gets assigned a new IP address in a network.
 
 The connections between these nodes in a network are not simply abstract but can and have been diagrammatically mapped out as with an emergency list of the former Amsterdam squat Plantage Dok[^705]. In a time before cellphones, this flowchart, composed on a typewriter, mapped out how, in case of an emergency such as violent groups attacking one of the squats, the different nodes in the immediate network of Plantage Dok should be contacted for support, in which order, by who, and by what means (by *fiets*, meaning by bike, or by *bellen*, meaning through the phone).
+
+This network diagram does not include a cloud, an unknown factor beyond its control. If a cloud were to be included in this schematic, it would present exactly the raid by the police or the violent group of attackers sent by the landlord that it was created to protect its members from in the first place. Instead of a network that is concerned with things like scalability, it operates on different principles. It is in its essence a network of solidarity.
 
 ```mermaid
 graph TD;
@@ -232,7 +213,7 @@ graph TD;
     
 ```
 
-fig.1 Alarmlijst Artis expressed in a *mermaid.js* script
+*fig.7.1 Alarmlijst Artis expressed in a mermaid.js script*
 
 [^701]: https://unhabitat.org/sites/default/files/download-manager-files/The%20Challenge%20of%20Slums%20-%20Global%20Report%20on%20Human%20Settlements%202003.pdf
 [^702]: https://architecture-appropriation.hetnieuweinstituut.nl/en/publication
@@ -244,56 +225,27 @@ fig.1 Alarmlijst Artis expressed in a *mermaid.js* script
 
 ## 8. Who Would Win?
 
+![image-20211129212407097](image-20211129212407097.png)
+*fig 8.1: A Thundercloud, a mix of a cloud icon and the international squatting sign that resembles lightning strike.*
+
 |                         self hosting                         |                          squatting                           |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|          disregard of imposed policies (privacy) ✅           |          disregard of imposed policies (housing) ✅           |
+|            refusing imposed policies (privacy) ✅             |            refusing imposed policies (housing) ✅             |
 |                    resist cloud control ✅                    |                    resist crowd control ✅                    |
 |                    constant maintenance ✅                    |                    constant maintenance ✅                    |
 |                      new dependencies ✅                      |                      new dependencies ✅                      |
 |  improvised structures & unconventional design strategies ✅  |  improvised structures & unconventional design strategies ✅  |
 |         using existing (physical) infrastructures ✅          |         using existing (physical) infrastructures ✅          |
+|           unused hardware (reuse what is there) ✅            |            unused houses (reuse what is there)  ✅            |
 | ephemeral & precarious, disaster always imminent: data loss ✅ | ephemeral & precarious, disaster always imminent: eviction ✅ |
 |            community building (who is invited?) ✅            |            community building (who is invited?) ✅            |
-|                     tactic of refusal ✅                      |                     tactic of refusal ✅                      |
 |                   open source principles ✅                   |                   open source principles ✅                   |
-|          often old hardware (reuse what is there) ✅          |          mostly old houses (reuse what is there)  ✅          |
-|                         mysterious ✅                         |                         mysterious ✅                         |
+|            my grandmother doesn't understand it ✅            |            my grandmother doesn't understand it ✅            |
 |                         nostalgia ✅                          |                         nostalgia ✅                          |
 |              situating yourself in a network ✅               |              situating yourself in a network ✅               |
-|                     following manuals ✅                      |                     following manuals ✅                      |
-|                    following protocols ✅                     |                    following protocols ✅                     |
+|          having to change ip addresses sometimes ✅           |            having to change addresses sometimes ✅            |
+|              following manuals and protocols ✅               |              following manuals and protocols ✅               |
 |                  programming (computers) ✅                   |                    programming (events) ✅                    |
-|                      hosting (files) ✅                       |                      hosting (people) ✅                      |
+|                hosting and serving (files) ✅                 |                hosting and serving (people) ✅                |
+|            don't pay rent (software as service) ✅            |                don't pay rent (actual rent) ✅                |
 |           de-appropriating someone else's space ❌            |           de-appropriating someone else's space ✅            |
-
-### Notes:
-
-- Need to check: are these things being mentioned in my text at some point?
-  - can they be intertextual references?
-- something something nomadic
-  - IP addresses, no stable address!
-- something about legality?
-- something about ISPs not wanting you to self host
-- something something software as service/rent
-
-
-
-## Notes in general
-
-- images
-
-- read silvio
-
-- read vlusser, bring him in (what about nomadism?)
-
-- read refusal book
-
-- i need an ending
-
-  - immediate need/desire to transform
-  - collaboration
-  - no budget
-  - adapting to what's there
-  - uncertainty of eviction
-
-  - **experimenting bottom-up, small-scale, incremental, collective, diverse, antagonistic, self-organization, autonomy, the commons**
