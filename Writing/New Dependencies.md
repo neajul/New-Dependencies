@@ -2,7 +2,7 @@
 
 *In this essay I am trying to establish a lineage between a spatial practice like squatting and a (for lack of a better term) digital practice like self hosting. I start by examining the spatial and geographical metaphors we (have) use(d) to describe the internet, and argue that any understanding of it as a separate, autonomous space is insufficient. I argue that the need for alternative practices is imminent, and that tactics and sentiments from the squatting movement could be applied to their digital counterparts. As an example, I examine how squats don't function as autonomous spaces per se, but rather as nodes situated in larger contexts and (support) networks, reliant on a new set of dependencies that they define for themselves.*
 
-*I have a feeling that I am not the first one to do this (lol) and I know that there is quite some overlap between these things already (there are squatted hacker spaces in Amsterdam, the founders of institute for network cultures were squatters in the 80s, etc), but I am not aware of anyone having made this explicit, if you are, please let me know. I'm also a bit unsure about the tone I use, I don't want to sound too lecturing, or too much like I have it all figured out, or oversimplify the situation. I also wonder about the whole discussion around refusal and privilege, is it present enough? Do I need to emphasize it more? I'm also wondering about the order of the sequence, for example the "Reasons to refuse the cloud" part. Also I need to shorten I think, so please tell me what is unnecessary. And of course anything else you have to add is appreciated <3*
+*I have a feeling that I am not the first one to do this (lol) and I know that there is quite some overlap between these things already (there are squatted hacker spaces in Amsterdam, the founders of institute for network cultures were squatters in the 80s, etc), but I am not aware of anyone having made this explicit, if you are, please let me know. I'm also a bit unsure about the tone I use, I don't want to sound too lecturing, or too much like I have it all figured out, or oversimplify the situation. I also wonder about the whole discussion around refusal and privilege, is it present enough? Do I need to emphasize it more? I'm also wondering about the order of the sequence, for example the "Reasons to refuse the cloud" part. Also I am not sure about how to use images yet, because I write about so many visual things in the end, but I don't want to just illustrate what I am already describing in the text. Also I really need to shorten, so please tell me what is unnecessary. And of course anything else you have to add is appreciated <3*
 
 ---
 
@@ -14,7 +14,7 @@
 
 ## 1. Cloud Gazing
 
-On September 12th, 2010 the Youtube Channel revelation13net uploaded a video titled *By Psychokinesis a Psychic turns a Cloud into a Square Cloud in Sept. 2010.* In this 02:18 video, a man is filming the sky with a handheld camera. Visible is a single cloud on an otherwise entirely blue sky, lined by some trees on the edge of the frame. We never see the person holding the camera but can hear them speak throughout the video. They introduce themselves as *T. Chase* and explain that they will now attempt to change the shape of the cloud into a square through psychic powers. They keep repeating this statement like a mantra of sorts, altering and distorting their voice as the video progresses. The cloud slowly changes shape, and by the end of the video it does look more like a square than in the beginning of the video, even though it's hard to say whether this might have just been the way it naturally changed shape.
+On September 12, 2010 the Youtube Channel revelation13net uploaded a video titled *By Psychokinesis a Psychic turns a Cloud into a Square Cloud in Sept. 2010.* In this 02:18 video, a man is filming the sky with a handheld camera. Visible is a single cloud on an otherwise entirely blue sky, lined by some trees on the edge of the frame. We never see the person holding the camera but can hear them speak throughout the video. They introduce themselves as *T. Chase* and explain that they will now attempt to change the shape of the cloud into a square through psychic powers. They keep repeating this statement like a mantra of sorts, altering and distorting their voice as the video progresses. The cloud slowly changes shape, and by the end of the video it does look more like a square than in the beginning of the video, even though it's hard to say whether this might have just been the way it naturally changed shape.
 
 In September 2008, the free software advocate Richard Stallman expressed his concerns regarding cloud computing to the Guardian, claiming that it was stupid[^101]and just a way to lock users into proprietary ecosystems. Stallman is a prominent advocate for privacy and the open source movement, and (among a lot of other things) founder of the Free Software Foundation. He is well-respected in the tech community, but his statements about cloud computing received mixed responses. He was accused of populism[^102], supposedly ignoring the lived realities of actual users who are often already trapped in their operating systems and office suites anyway and don't necessarily have the capacities to practice the cloud refusal he was preaching. Others accused Stallman of simply stating the obvious. Reuven Cohan[^103] illustrated this criticism with a still from an episode of the animated TV show *the Simpsons,* which ended up becoming something of a meme later. The image shows a newspaper clipping in which Abe Simpson, the elderly father of one of the protagonists, Homer Simpson, angrily shakes his fist at the sky under the headline *Old Man Yells at Cloud*. Since my 30th birthday last month I sometimes think this image is actually about me.
 
@@ -213,7 +213,7 @@ graph TD;
     
 ```
 
-*fig.7.1 Alarmlijst Artis expressed in a mermaid.js script*
+fig.7.1 Alarmlijst Artis expressed in a mermaid.js script
 
 [^701]: https://unhabitat.org/sites/default/files/download-manager-files/The%20Challenge%20of%20Slums%20-%20Global%20Report%20on%20Human%20Settlements%202003.pdf
 [^702]: https://architecture-appropriation.hetnieuweinstituut.nl/en/publication
@@ -224,9 +224,6 @@ graph TD;
 
 
 ## 8. Who Would Win?
-
-![image-20211129212407097](image-20211129212407097.png)
-*fig 8.1: A Thundercloud, a mix of a cloud icon and the international squatting sign that resembles lightning strike.*
 
 |                         self hosting                         |                          squatting                           |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -249,3 +246,6 @@ graph TD;
 |                hosting and serving (files) ✅                 |                hosting and serving (people) ✅                |
 |            don't pay rent (software as service) ✅            |                don't pay rent (actual rent) ✅                |
 |           de-appropriating someone else's space ❌            |           de-appropriating someone else's space ✅            |
+
+![image-20211129212407097](image-20211129212407097.png)
+fig 8.1: A Thundercloud, a mix of a cloud icon and the international squatting sign that resembles lightning strike.
