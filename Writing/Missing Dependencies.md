@@ -177,14 +177,35 @@ One by one we assured each other, complimented each other on *good shares*. It w
   * **actually i think that can be explained in the part below**
 
 * i removed the part about us being white etc, should i bring that back in?
+* we got eveicted, it's over, i need to put that in.
 
 
 
 ## 7. Architectures of (De-)Appropriation
 
-Squatting is the act of occupying an unoccupied space without owning it or having permission to use it. It occurs around the world and is mostly connected to poverty and homelessness, where people without alternatives build settlements on unoccupied land, which over time often develop into shanty towns and slums. In 2003 the United Nations estimated that globally more than 1 billion people were living in squats and slums. For most of these people, squatting is a tactic to survive.
+Squatting is the act of occupying an unoccupied space without owning it or having permission to use it. It occurs around the world and is mostly connected to poverty and homelessness, where people without alternatives build settlements on unoccupied land, which over time often develop into shanty towns and slums. In 2003 the United Nations estimated that globally more than 1 billion people were living in squats and slums, projecting this number to increase up to 1.5 billion by 2020[^701]. For most of these people, squatting is a tactic to survive.
 
-In the so called global north, however, squatting often has an activist dimension. In their eponymous book published in 2019 by Het Nieuwe Instituut in Rotterdam, the collective Architectures of Appropriation conceptualizes squatting here, and in the Netherlands specifically, not only as a social movement and historical phenomenon but as a kind of *spatial activism*.
+In the global north, squatting is mostly residential, meaning that it involves the occupation of vacant buildings in the city. While it's a response to the various inequalities in housing here, and as a tactic still presents the only alternative to homelessness for many (for example: undocumented) people, it also often has a political and activist dimension. In their eponymous book[^702] published in 2019 by Het Nieuwe Instituut in Rotterdam, the collective *Architectures of Appropriation* conceptualizes squatting here (and in the Netherlands specifically) not only as a social movement and historical phenomenon but as a kind of *spatial activism*. According to them, over the last 50 years, the unscripted and collective spatial tactics that squatters employ to transform the spaces they inhabit have significantly shaped Dutch cities and left behind a spatial heritage that speaks of the ephemeral and precarious nature of squats, and the desire to put the right to *live* above the right to own property.
+
+In the Netherlands, squatting developed into a politically motivated movement after World War 2 but it wasn't until 1971 that squatters acquired legal protection. That year a court ruled that if squatters could prove that they had established so called *house peace (huisvrede)* they would enjoy the same legal protection in their homes as everyone else, meaning they could not just be evicted by the police without the ruling of a judge. After that, squatting became institutionalized: by 1980 there were weekly squatting information hours (*Kraakspreekuuren*) in every Dutch city, where squatters would give free advice to whoever was interested, and the action itself was protocolized in the form of freely available manuals down to the last detail, including the interaction with the authorities and police. Architectures of Appropriation argue that already back then, the squatting movement had a decidedly *open source* character.
+
+Despite the raging housing crisis here, which has only become worse since then, in 2010, squatting became a criminal offense in the Netherlands. In the first 2 years after that more than 330 squats were evicted in Amsterdam alone[^703]. In its prime, this network of squatted places amounted to a parallel society of sorts, consisting not only of alternative housing projects but (sub)cultural venues, food distribution centers, peoples' kitchens, legal support, media outlets and medical services[^704]. This aspect of embedding yourself in a *network*, of cutting with dependencies in favor of new ones, is central to the act of squatting on many levels—whether it's the internal network of the occupants, a local network with the surrounding neighbors, a regional network with the rest of the scene in the squat's vicinity, or and international network of political squatters around the world.
+
+One way this *networkedness* might be epitomized is in the convention to name a newly squatted building after the address where it located. By doing this, the squatters embed themselves into the broader (social) context of the city, as well as into the network of other squats there, while being simultaneously site specific and location independent: if they get evicted, the collective can squat another place next week, and the place will have a different address and a different name. Its identity will simultaneously be the same and completely different, similar to the way a computer gets assigned a new IP address in a network.
+
+```flow
+st=>start: Alarmlijst Artis
+e=>end: End
+sub1=>subroutine: My Subroutine
+ing=>condition: INGANGSNUMMERS
+check
+io=>inputoutput: catch something...
+para=>parallel: parallel tasks
+
+st->ing
+ing(yes)->io->e
+ing(no)->para
+```
 
 
 
@@ -194,11 +215,67 @@ In the so called global north, however, squatting often has an activist dimensio
 
 
 
-While most people squat out of nece
+st=>start: Start:>http://www.google.com[blank]
+e=>end:>http://www.google.com
+op1=>operation: My Operation
+sub1=>subroutine: My Subroutine
+cond=>condition: Yes
+or No?:>http://www.google.com
+io=>inputoutput: catch something...
+para=>parallel: parallel tasks
 
-For most people around the world it's a matter of survival—their alternative being homelessness, they
+st->op1->cond
+cond(yes)->io->e
+cond(no)->para
+para(path1, bottom)->sub1(right)->op1
+para(path2, top)->op1
 
-Squats exist, and have been very influential. They are far from autonomous spaces but form parallel societies and networks with protocols and manuals.
+
+
+
+
+
+
+
+
+
+
+
+
+As with these digital networks, squatting networks have diagramatically been iuhdiphusdds`iohehiw ehiw ehw egiuw
+
+
+
+
+
+
+
+
+
+
+
+According to them,
+
+
+
+- immediate need/desire to transform
+- collaboration
+- no budget
+- adapting to what's there
+- uncertainty of eviction
+
+
+
+- **experimenting bottom-up, small-scale, incremental, collective, diverse, antagonistic, self-organization, autonomy, the commons**
+
+
+
+[^701]: https://unhabitat.org/sites/default/files/download-manager-files/The%20Challenge%20of%20Slums%20-%20Global%20Report%20on%20Human%20Settlements%202003.pdf
+[^702]: https://architecture-appropriation.hetnieuweinstituut.nl/en/publication
+[^703]: https://web.archive.org/web/20190830180133/https://www.rd.nl/amsterdam-ontruimt-330-panden-sinds-kraakwet-1.259316
+[^704]: same Architectures of Appropriation book
+
+
 
 ### Notes
 
@@ -206,12 +283,11 @@ alarm liste-> network diagram
 
  situating yourself in a context/network
 
-* need better title
 * this is where i can formulate the ideas of new dependencies really well—entering a network, not autonomous!
-* history
-* different necessities of squatting (urgencies)
-* squatting is a network
-* **embedding yourself in a context, naming yourself after an address**
+
+  
+
+
 
 
 
