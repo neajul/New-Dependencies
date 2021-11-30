@@ -3,9 +3,8 @@
 - [x] Thesis why am i so sad if so smooth woman
 - [x] Thesis Miquel
 - [ ] ~~Thesis Augustina~~
-- [ ] Architectures of Appropriation
+- [x] Architectures of Appropriation
 - [ ] James Bridle
 - [ ] Prehistory of the cloud
 - [ ] Tubes
 - [ ] vlusser on nomads
-

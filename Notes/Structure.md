@@ -32,6 +32,10 @@
 
 # What is still Missing?
 
+- something about where i am writing this? not sure
+- i think this whole thing about the tech world not being very inclusive is important
+  - stackoverflow questions for example
+  - **manuals with feelings**
 - dependencies can be addictions.
   - tech and drugs are the only industries that call their customers *user*
   - **new** dependencies are not addictions
@@ -46,8 +50,13 @@
 - do i need to clarify that there are different kinds of "autonomy"
   - seasteading vs. pirate radio
   - the slick mesh network tool
+  - cyberdecks
   - VPNs, mainstream, commodification, arrested development
   - libertarian leisure culture
+- **aesthetics of alternative aproaches**
+  - **the server than ada built compared to a linux cyberdeck**
+  - **reusing what is there**
+  - relating this to architectures of apropriation
 - when did the internet become a cloud?
   - the moment it transitioned from arpanet, internet archive guy's text
 - influence of counter culture on computers and the internet
@@ -55,6 +64,7 @@
   - **CCC?**
 - Deciding who can be a part
   - open source/door policies
+  - licensing!
 - How is what I am saying different to the discourse of the 80s?
   - How is our squat different?
   - How is our server different?

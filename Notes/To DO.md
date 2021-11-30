@@ -4,14 +4,18 @@
 - [x] go through notes, collect writing prompts
 - [ ] **go. through. my. content. list.**
   - [ ] especially refusal book!
-  - [ ] silvio text!!
-
+  - [ ] silvio text!
 - [x] do some writing prompts
-- [ ] read!
-- [ ] what about my writing from last year? steward brand and the website? read again!
+- [ ] read new things
+  - [ ] vlusser
+
+- [ ] read old things
+  - [ ] my writing from last year
+  - [ ] steward brand etc
+
 - [x] formulate Research Question™️
-- [ ] Rewrite the surf part after reading the text of the wayback guy
+- [x] Rewrite the surf part after reading the text of the wayback guy
 - [x] Put everything into one file!
 - [x] change order: first all the internet parts, end with physical aspects, then jump into squatting.
-- [ ] organise structure document
+- [x] organise structure document
 
