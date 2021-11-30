@@ -1,177 +1,65 @@
-## Missing dependencies—an essay without answers
+# Structure
 
+1. **Cloud Gazing**
+   1. The cloud is elusive, it feels like you have no control
+   2. The term cloud veils what it actually describes
+   3. When we want to escape it, where do we go?
+2. **Surfing the Web**
+   1. In the 90s, we surfed the web, it was fun and exciting
+   2. But nobody *surfs* that anymore
+   3. The idea of the open and free internet, like an ocean, still lingers
+3. **Back to the Sea**
+   1. Some people have taken this idea of the free ocean literally
+   2. But turns out the ocean is not as free as people think
+4. **Unordered List of Reasons to Refuse the Cloud**
+   1. there are a lot of problems with *the cloud*, let's just agree on this
+5. **Back to the Land**
+   1. And of course the internet is not free either
+   2. It's made from cables, mirrors the inequalities of real life
+   3. And it's not a separate space anymore—it's augmented on our life
+   4. If we want to go "back to the land", we need to think about infrastructure
+6. **Hotel Mokum**
+   1. We squatted a building, did a lot of cool shit
+   2. We were exhausted, neglecting our lives
+   3. But we had built a support network for ourselves
+7. **Architectures of (De-)Appropriation**
+   1. Quick history of squatting in NL
+   2. Squatting is open source
+   3. Squatting is all about embedding yourself in a network
+   4. but this network is according to different values: solidarity
+8. **Who Would Win?**
+   1. squatting and self hosting are more similar than you think
 
+# What is still Missing?
 
-# This Document needs to be cleaned up!
-
-
-
-I think i need to switch things around. Mokum story before history of squatting, where I talk about squatting being a network!
-
-definitely end with squatting after internet things, not mixed up!
-
-resons to refuse cloud seems good for now, but need to write other ocean part for now to know for sure. Could imagine opening with it, fits with the other diagram in the end
-
-
-
-
-
-**A new kind of structure-ish**
-
-1. Cloud Gazing
-   1. The cloud is not what it seems, but changing it is really hard
-   2. some people want to escape it
-   3. what does that mean to get out of the cloud?
-2. Surfing the Web
-   1. we used to have all kinds of spatial metaphors for the internet, ocean for example
-   2. used to think it was super free place
-3. Back to the Sea
-   1. Building a Crypto ship to live in international waters
-   2. international waters are crazy regulated
-4. Reasons to Refuse the Cloud
-5. Back to the Land
-   1. actually the internet is made from cables
-   2. it's not separate
-6. **Mokum Story**
-   1. how do we organize?
-   2. who do we make things available to?
-   3. who are our **new dependencies?**
-   4. What are the conflicts?
-   5. dependencies can be addictions
-7. Hostory of squatting
-   1. squatting is a network
-   2. **embedding yourself in a context, naming yourself after an address**
-
-8. Comparison of self hosting and squatting
-
-
-
-
-
-
-
-missing in this:
-
-- software as a service (rent etc)
-
-- something about being nomadic, potentials for being nomadic, ad-hoc
-
-- for some people it's about literal survival
-  - refusal and privilege (steve jobs was homeless once)
-  - **women of surinam?**
-- it's not possible to criticize the platform from within the platform
-- an explanation of the new dependencies part is missing now
-  - but the story of the crypto ship already outlines this!
+- dependencies can be addictions.
+  - tech and drugs are the only industries that call their customers *user*
+  - **new** dependencies are not addictions
+- software as a service
+  - don't (over)pay for the cloud!
+- something something nomadism
+  - ad-hoc, squats being nomadic in essance
+- privilege/survival?
+  - steve jobs was homeless
+  - women of surinam movie?
+  - **we have apartments, why didwe need hotel mokum?**
+- do i need to clarify that there are different kinds of "autonomy"
+  - seasteading vs. pirate radio
+  - the slick mesh network tool
+  - VPNs, mainstream, commodification, arrested development
   - libertarian leisure culture
-  - the toaster guy could be in a side note, "we can't all build our own toasters, instead..."
-- commodification
-  - **there is a difference between pirate radios and seasteading**
-  - like the slick mesh network thing
-- do i agree with everything in the community?
-- what about nomadism
-
-
-
-
-
-
-
-
-
-
-
-
-
-How can we create meaningful change in the virtual sandboxes and their inherent inequalities, that we inhabit as online, and from where can we do this?
-
-Maybe I have to admit: the question is what is digital squatting? Does it exist?
-
-Is there a connection or overlap between alternative spatial practices such as squatting, and alternative network practices such as self hosting, and what is it?
-
-
-
-- We cannot change the cloud
-  - the internet was always a cloud, the space behind the blinking lights we don't know about
-  - and the cloud is not really a cloud anyway
-  - it's also not everywhere
-- squatting and counter culture 60s—90s
-  - political action but also tactic to survive
-  - influence of counter culture on the digital
-- Before the cloud was a cloud it was an ocean
-  - history of geographical terminology to describe the virtual
-  - libertarian leisure culture, tax evasion and self sufficiency
-  - who gets to go to the beach, who has boats?
-- Digital and Physical are not separate: real spaces, servers, cables, routers, rooms, real inequalities
-  - and they inform each other anyway, we understand space through the digital
-  - don't need to treat them separately
-  - virtual: simulated on top of existing infrastructure
-  - sandbox: only within the rules of the interface
-- dependencies in this case becomes addiction
-  - by design (persuasive technology lab, military tech)
-  - your computer doesn't belong to you
-  - t h e   s t a c k   goes deep (guy building his toaster)
-  - most servers run on green energy, but hardware is an equally big problem (lithium)
-  - need to have a part about what i mean with real inequalities
-  - and that this is not just about a bunch of people that get depressed from instagram
-  - if you're not a user you're a loser
-    - it's growing, but there is also a counter movement growing
-    - i'm sure i can find more examples
-    - example: gotenna
-    - example: VPNs are mainstream now (Nord VPN for example)
-      - only problem: then the VPN has your data
-- To change the virtual we need to act from outside the virtual
-  - spatial logic: same as housing crisis, we have a space problem
-    - and the spaces are real rooms and boxes and cables
-  - refusal, don't play by the rules, i'd rather not
-    - new dependencies, communal efforts
-  - spaces outside of it, thinking about infrastructure, create a different virtual
-    - servers, infrastrctures
-    - **making things available**
-      - also think about to who
-      - steve jobs was once homeless
-      - who are the ones that get to drop out?
-    - so many tools already exist, and we can build more
-  - maintenance/care
-    - something about boats?
-  - constant negotiation
-  - data loss and eviction always imminent
-  - maybe not always available (power consumption), potentially running on old hardware since that's the only ethical hardware that exists
-- Somehow all of this is old news
-  - many people are advocating for this already
-  - these movements exist since the 1980s
-  - linux, richard stalman etc
-  - so maybe the question is more: how to make them more inclusive?
-
-
-
-**What are cool points**
-
-- changing a platform from within is really hard
-- the digital and the physical are not seperate
-  - they inform each other but also literally
-- mesh networks are cool
-- squatting and building a server have similarities
-  - space
-  - imminent disaster
-  - who gets to use it?
-  - they are tactics, theoretically neither good nor bad
-  - for some it's survival, not political action
-  - they strive towards autonomy/new dependencies
-- big tech is bad on purpose
-  - summary of everything bad
-  - a race to the brain stem
-  - american military tech
-  - "acting like tobacco companies"
-- there is privilege in dropping out
-  - steve jobs was homeless, richard stalman cares about his privacy
-  - it's marketed even: VPNs, gotenna (even arrested development)
-- counter culture and computing have always been linked
-- geographical metaphors for computers
-  - cerfboy
-    - (information highway)
-  - cybernetics
-  - to the ship that got stuck
-  - the network is eternal
-    - but the cloud is not, everytime i enter germany i don;t have reception
-  - now let's get back to the land, which is where most of the infrastructure is
-    - trust article "the waste", but that's not it
+- when did the internet become a cloud?
+  - the moment it transitioned from arpanet, internet archive guy's text
+- influence of counter culture on computers and the internet
+  - hippies, but also hacker culture!
+  - **CCC?**
+- Deciding who can be a part
+  - open source/door policies
+- How is what I am saying different to the discourse of the 80s?
+  - How is our squat different?
+  - How is our server different?
+- Mesh networks
+  - could be connected to squats
+- Trust article about **the waste**
+  - seems like they want to avoid the land, be in their little containers
+  - maybe we need to start living in the waste
