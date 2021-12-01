@@ -36,6 +36,7 @@
 - i think this whole thing about the tech world not being very inclusive is important
   - stackoverflow questions for example
   - **manuals with feelings**
+  - ==this is a good example of applying the principles of squatting to tech==
 - dependencies can be addictions.
   - tech and drugs are the only industries that call their customers *user*
   - **new** dependencies are not addictions
@@ -64,7 +65,8 @@
   - **CCC?**
 - Deciding who can be a part
   - open source/door policies
-  - licensing!
+  - licensing (varia, check link form mike)
+  - ==i think this is also a super good point about applying the principles==
 - How is what I am saying different to the discourse of the 80s?
   - How is our squat different?
   - How is our server different?
