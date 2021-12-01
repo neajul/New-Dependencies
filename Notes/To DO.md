@@ -4,10 +4,10 @@
 - [x] go through notes, collect writing prompts
 - [ ] **go. through. my. content. list.**
   - [ ] especially refusal book!
-  - [ ] silvio text!
+  - [x] silvio text!
 - [x] do some writing prompts
-- [ ] read new things
-  - [ ] vlusser
+- [x] read new things
+  - [x] vlusser
 
 - [ ] read old things
   - [ ] my writing from last year

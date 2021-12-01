@@ -32,6 +32,14 @@
 
 # What is still Missing?
 
+- James Bridle makes the point that you **shouldn't** need to understand tech to use it
+  - like you can shit without knowing plumbing or being scared your toilet will kill you
+  - in opposition to alexander galloway
+  - **i'm not so sure about this, also why shouldn't we know about plumbing?**
+    - Silvio actually also write about this question
+- Text Silvio
+  - he also makes the point that spatial metaphors disappear after mobile phones came along
+  - **he argues that *refusal*, becoming a non-user might be more powerful than a hacker**
 - something about where i am writing this? not sure
 - i think this whole thing about the tech world not being very inclusive is important
   - stackoverflow questions for example
@@ -67,6 +75,7 @@
   - open source/door policies
   - licensing (varia, check link form mike)
   - ==i think this is also a super good point about applying the principles==
+  - potentially this could appear with ocean builders, all open source
 - How is what I am saying different to the discourse of the 80s?
   - How is our squat different?
   - How is our server different?
@@ -75,3 +84,6 @@
 - Trust article about **the waste**
   - seems like they want to avoid the land, be in their little containers
   - maybe we need to start living in the waste
+- more explicit ways in which to use squatting principles in tech
+  - ==reuse old hardware: the computer you buy matters more than what you make on it==
+  - 
