@@ -1,0 +1,8 @@
+- lineage between spatial (physical) practice and spatial (digital) practice
+  - means: squatting and self hosting
+- some internet lore along the way
+- some idea about autonomy, new dependencies, who do you want to depend on
+- not just hypothetical, maybe missing from essay
+  - inclusivity: stack over flow
+  - inclusivity: licensing, open source
+  - also: reusing old hardware, not really in there right now
