@@ -6,7 +6,7 @@
    3. When we want to escape it, where do we go?
 2. **Surfing the Web**
    1. In the 90s, we surfed the web, it was fun and exciting
-   2. But nobody *surfs* that anymore
+   2. But nobody *surfs* anymore
    3. The idea of the open and free internet, like an ocean, still lingers
 3. **Back to the Sea**
    1. Some people have taken this idea of the free ocean literally
