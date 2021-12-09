@@ -32,6 +32,10 @@
 
 # What is still Missing?
 
+- in comparison: security/barrication/encryption
+
+- more about (ada's) diagram(s)!
+
 - James Bridle makes the point that you **shouldn't** need to understand tech to use it
   - like you can shit without knowing plumbing or being scared your toilet will kill you
   - in opposition to alexander galloway
