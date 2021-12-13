@@ -81,63 +81,63 @@ Sophie Elmhirst recounts the following unfolding of unfortunate events in great 
 
 
 
-## 4. Unordered List of Reasons to Refuse *the Cloud*
+## 4. Back to the Land
 
-- Workers in the global south are being exploited and our devices are assembled by modern slaves.[^401]
-- Rare earths such as Lithium are extracted from indigenous lands without their consent and with unaccounted for consequences for the environment.[^402]
-- E-Waste is polluting the planet and is being dumped in landfills without regulations in the global south, poisoning both the lands and the people.[^403]
-- Tech companies and governments by extension are constantly spying on us. The right to privacy is being eroded and the surveillance state is being facilitated.[^404]
-- For almost a decade we have had reliable evidence that tech companies are padding on information to government agencies such as the NSA, yet nothing has changed.[^405]
-- Social media companies profit from a divided political landscape, disconnected filter bubbles are not a by-product but part of the product.[^406]
-- The massive proliferation of fake news actively costs lives (see: anti vaccers) and is being facilitated by the big platforms.[^407]
-- People are led to believe in conspiracy theories and are being radicalized to the point of committing physical violence and domestic terrorism.[^408]
-- The internet, and most devices we carry in our pockets like smart phones, are developed from US military technology (possibilities for surveillance for example are no accident).[^409]
-- *Tech* is a race to the brain stem. Some of the best-educated people in the world spend all their energy in selling us ads. Thinking we could resist the machinery is like thinking we could win against a super computer in chess.[^410]
-- It's addictive on purpose. At places like the Stanford Persuasive Technology Lab people have been trained to specifically find ways of persuading users to keep using their products, and metrics like engagement are still the main factors their design.[^411]
-- Big companies that have terms and conditions instead of constitutions can censor users without any form of accountability or oversight.[^412]
-- Even though participation is always voluntary, social pressure to participate, especially on children and teenagers, outweighs any serious form of alternative.[^413]
-- Depression among young people is on an all time high, and suicide rates are steadily increasing.[^414]
-- In authoritarian countries it's used as a tool to brutally suppress any form of opposition[^415]
+Like the high seas, another place that many people thought was the epitome of freedom, but which turned out to be tightly regulated, is the internet. *A Declaration of the Independence of Cyberspace*[^401], which John Perry Barlow, founding member of the Electronic Frontier Foundation, published in 1996, is often used an example for this false optimism. As their name suggests, the EFF in the 90s perceived the internet as a new frontier, a wild and unexplored space for settlers to claim, where people could build new lives, new utopias, new modes of governance. Barlow's text reads as a challenge to the governments of what he calls the *Industrial World*, or the world outside of the computers, who, according to him, had no legitimate claim to govern cyberspace.
 
-[^401]: (need to still back this up with a footnote)
-[^402]: (need to still back this up with a footnote)
-[^403]: (need to still back this up with a footnote)
-[^404]: (need to still back this up with a footnote)
-[^405]: (need to still back this up with a footnote)
-[^406]: (need to still back this up with a footnote)
-[^407]: (need to still back this up with a footnote)
-[^408]: (need to still back this up with a footnote)
-[^409]: (need to still back this up with a footnote)
-[^410]: (need to still back this up with a footnote)
-[^411]: (need to still back this up with a footnote)
-[^412]: (need to still back this up with a footnote)
-[^413]: (need to still back this up with a footnote)
-[^414]: (need to still back this up with a footnote)
-[^415]: (need to still back this up with a footnote)
+Of course this document has to be seen in the context of its time, and it has been critiqued to exhaustion. Even preceding it, many[^402][^403][^404][^405] people have pointed out, and Barlow himself has admitted since, that this clear division between digital and physical space is not a very good model to describe the world—after all, the internet runs on real computers, which stand in real rooms that are connected to the rest of the world with real cables, all of which is powered by real electricity[^406]. The internet obviously runs on physical infrastructure[^407], which follows the rules of the physical world.
 
+In 2021 probably not a lot of people would make this mistake anymore. In his essay *Imagining the Internet: Explaining our Digital Transition*, Brewster Kahle, founder of the Internet Archive, explores the different metaphors that we have collectively used to try to understand the internet throughout the years. According to him, around 2010 the internet became more and more mobile, and more and more tied to real our real identities. Around that time political cartoons regarding anything online shifted in tone, from optimistic depictions of the future to people with phones in their hands that, sucking in their faces. With anonymity, the optimism of the 90s had disappeared.[^408]
 
-
-## 5. Back to the Land
-
-Like the high seas, another place that many people thought was the epitome of freedom, but which turned out to be tightly regulated, is the internet. *A Declaration of the Independence of Cyberspace*[^501], which John Perry Barlow, founding member of the Electronic Frontier Foundation, published in 1996, is often used an example for this false optimism. As their name suggests, the EFF in the 90s perceived the internet as a new frontier, a wild and unexplored space for settlers to claim, where people could build new lives, new utopias, new modes of governance. Barlow's text reads as a challenge to the governments of what he calls the *Industrial World*, or the world outside of the computers, who, according to him, had no legitimate claim to govern cyberspace.
-
-Of course this document has to be seen in the context of its time, and it has been critiqued to exhaustion. Even preceding it, many[^502][^503][^504][^505] people have pointed out, and Barlow himself has admitted since, that this clear division between digital and physical space is not a very good model to describe the world—after all, the internet runs on real computers, which stand in real rooms that are connected to the rest of the world with real cables, all of which is powered by real electricity[^506]. The internet obviously runs on physical infrastructure[^507], which follows the rules of the physical world.
-
-In 2021 probably not a lot of people would make this mistake anymore. In his essay *Imagining the Internet: Explaining our Digital Transition*, Brewster Kahle, founder of the Internet Archive, explores the different metaphors that we have collectively used to try to understand the internet throughout the years. According to him, around 2010 the internet became more and more mobile, and more and more tied to real our real identities. Around that time political cartoons regarding anything online shifted in tone, from optimistic depictions of the future to people with phones in their hands that, sucking in their faces. With anonymity, the optimism of the 90s had disappeared.[^508]
-
-Today the virtual is not separate but augmented, which is maybe why the image of the cloud, hovering above us, overlaid like another layer in Photoshop (or Gimp), continues to stick around (that and marketing). But the collapse of the gap between the two also means that the inequalities inherent in one apply to the other, cannot be approached separately from one another. Inequalities in the virtual (where we are limited to the possibilities of the interface[^509]) cannot be solved from within it, like code running in a sandbox that can't affect the system outside of it.
+Today the virtual is not separate but augmented, which is maybe why the image of the cloud, hovering above us, overlaid like another layer in Photoshop (or Gimp), continues to stick around (that and marketing). But the collapse of the gap between the two also means that the inequalities inherent in one apply to the other, cannot be approached separately from one another. Inequalities in the virtual (where we are limited to the possibilities of the interface[^409]) cannot be solved from within it, like code running in a sandbox that can't affect the system outside of it.
 
 If Cyberspace was the indefinite space between the nodes, that magical place that exists between your computer and mine, then a digital *back to the land*-movement has to focus precisely on these nodes and their physical connections, the underlying infrastructure, which is overwhelmingly aground, even if sometimes submerged in water. Luckily for us, we have much more experience in negotiating physical space than virtual space.
 
-[^501]: https://www.eff.org/cyberspace-independence
-[^502]: Tubes book
-[^503]: The wikipedia reference
-[^504]: the transmediale woman
-[^505]: evan roth
-[^506]: energy usage of the internet
-[^507]: https://www.theguardian.com/world/2011/apr/06/georgian-woman-cuts-web-access
-[^508]: https://www.are.na/blog/reimagining-the-internet
-[^509]: User—Agent thesis
+[^401]: https://www.eff.org/cyberspace-independence
+[^402]: Tubes book
+[^403]: The wikipedia reference
+[^404]: the transmediale woman
+[^405]: evan roth
+[^406]: energy usage of the internet
+[^407]: https://www.theguardian.com/world/2011/apr/06/georgian-woman-cuts-web-access
+[^408]: https://www.are.na/blog/reimagining-the-internet
+[^409]: User—Agent thesis
+
+
+
+## 4. Unordered List of Reasons to Refuse *the Cloud*
+
+- Workers in the global south are being exploited and our devices are assembled by modern slaves.[^501]
+- Rare earths such as Lithium are extracted from indigenous lands without their consent and with unaccounted for consequences for the environment.[^502]
+- E-Waste is polluting the planet and is being dumped in landfills without regulations in the global south, poisoning both the lands and the people.[^503]
+- Tech companies and governments by extension are constantly spying on us. The right to privacy is being eroded and the surveillance state is being facilitated.[^504]
+- For almost a decade we have had reliable evidence that tech companies are padding on information to government agencies such as the NSA, yet nothing has changed.[^505]
+- Social media companies profit from a divided political landscape, disconnected filter bubbles are not a by-product but part of the product.[^506]
+- The massive proliferation of fake news actively costs lives (see: anti vaccers) and is being facilitated by the big platforms.[^507]
+- People are led to believe in conspiracy theories and are being radicalized to the point of committing physical violence and domestic terrorism.[^508]
+- The internet, and most devices we carry in our pockets like smart phones, are developed from US military technology (possibilities for surveillance for example are no accident).[^509]
+- *Tech* is a race to the brain stem. Some of the best-educated people in the world spend all their energy in selling us ads. Thinking we could resist the machinery is like thinking we could win against a super computer in chess.[^510]
+- It's addictive on purpose. At places like the Stanford Persuasive Technology Lab people have been trained to specifically find ways of persuading users to keep using their products, and metrics like engagement are still the main factors their design.[^511]
+- Big companies that have terms and conditions instead of constitutions can censor users without any form of accountability or oversight.[^512]
+- Even though participation is always voluntary, social pressure to participate, especially on children and teenagers, outweighs any serious form of alternative.[^513]
+- Depression among young people is on an all time high, and suicide rates are steadily increasing.[^514]
+- In authoritarian countries it's used as a tool to brutally suppress any form of opposition[^515]
+
+[^501]: (need to still back this up with a footnote)
+[^502]: (need to still back this up with a footnote)
+[^503]: (need to still back this up with a footnote)
+[^504]: (need to still back this up with a footnote)
+[^505]: (need to still back this up with a footnote)
+[^506]: (need to still back this up with a footnote)
+[^507]: (need to still back this up with a footnote)
+[^508]: (need to still back this up with a footnote)
+[^509]: (need to still back this up with a footnote)
+[^510]: (need to still back this up with a footnote)
+[^511]: (need to still back this up with a footnote)
+[^512]: (need to still back this up with a footnote)
+[^513]: (need to still back this up with a footnote)
+[^514]: (need to still back this up with a footnote)
+[^515]: (need to still back this up with a footnote)
 
 
 
@@ -245,6 +245,7 @@ fig.7.1 Alarmlijst Artis expressed in a mermaid.js script
 |                  programming (computers) ✅                   |                    programming (events) ✅                    |
 |                hosting and serving (files) ✅                 |                hosting and serving (people) ✅                |
 |            don't pay rent (software as service) ✅            |                don't pay rent (actual rent) ✅                |
+|                   security (encryption) ✅                    |                    security (barricade) ✅                    |
 |           de-appropriating someone else's space ❌            |           de-appropriating someone else's space ✅            |
 
 ![image-20211129212407097](image-20211129212407097.png)

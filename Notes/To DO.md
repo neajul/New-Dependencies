@@ -8,11 +8,15 @@
 - [x] do some writing prompts
 - [x] read new things
   - [x] vlusser
-
 - [ ] read old things
   - [ ] my writing from last year
   - [ ] steward brand etc
+- [x] put in feedback from feedback day
+- [ ] go through feedback, what really needs to go in?
+  - [ ] and where?
 
+- [ ] think about images
+- [ ] move cloud part before squatting part
 - [x] formulate Research Question™️
 - [x] Rewrite the surf part after reading the text of the wayback guy
 - [x] Put everything into one file!
