@@ -105,7 +105,7 @@ If Cyberspace was the indefinite space between the nodes, that magical place tha
 
 
 
-## 4. Unordered List of Reasons to Refuse *the Cloud*
+## 5. Unordered List of Reasons to Refuse *the Cloud*
 
 - Workers in the global south are being exploited and our devices are assembled by modern slaves.[^501]
 - Rare earths such as Lithium are extracted from indigenous lands without their consent and with unaccounted for consequences for the environment.[^502]
