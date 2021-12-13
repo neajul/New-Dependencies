@@ -245,7 +245,7 @@ fig.7.1 Alarmlijst Artis expressed in a mermaid.js script
 |                  programming (computers) ✅                   |                    programming (events) ✅                    |
 |                hosting and serving (files) ✅                 |                hosting and serving (people) ✅                |
 |            don't pay rent (software as service) ✅            |                don't pay rent (actual rent) ✅                |
-|                   security (encryption) ✅                    |                    security (barricade) ✅                    |
+|                   security (encryption) ✅                    |                   security (barricades) ✅                    |
 |           de-appropriating someone else's space ❌            |           de-appropriating someone else's space ✅            |
 
 ![image-20211129212407097](image-20211129212407097.png)
