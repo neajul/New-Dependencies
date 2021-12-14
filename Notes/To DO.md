@@ -17,6 +17,8 @@
 
 - [ ] think about images
 - [ ] move cloud part before squatting part
+- [ ] better titles
+- [ ] definitely go through flavia's feedback that was great
 - [x] formulate Research Question™️
 - [x] Rewrite the surf part after reading the text of the wayback guy
 - [x] Put everything into one file!

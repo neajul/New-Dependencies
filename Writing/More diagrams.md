@@ -21,41 +21,6 @@ graph TD;
     B-- legalization -->C;
 ```
 
-# Mokum Journey
-
-```mermaid
-graph LR;
-		1[Group of Angry Individuals];
-		2[Action Group];
-		3[Planning the Action];
-		4[Gathering Materials];
-		5[Occupation];
-		6[(Hotel Mokum)];
-		7[Eviction];
-		A[(Joes garage)];
-		B[(Kinderen van Mokum)];
-		C[(Villa Ivicke)];
-		
-		subgraph before
-			1-->2-->3-->4;
-			A-- facilitated -->2;
-			A-- advised -->3;
-			A-- supplied -->4;
-		end
-		subgraph action
-			4-->5-->6;
-			A-- supported -->5;
-    	B-- rennovation -->6;
-    	C-- rennovation -->6;
-		end
-		subgraph after
-			6-->7
-			A-- protested -->7;
-			B-- protested -->7;
-			C-- protested -->7;
-		end
-```
-
 # Mokum Journey 2
 
 ```mermaid
@@ -104,11 +69,9 @@ flowchart LR;
     subgraph eviction
     		J-->K-->L
     end
-    1 & 2 & 3 & 4 --> eviction
+    1 & 2 & 3 --> eviction
     
     planning-->action;
     action-->occupation;
     occupation-->eviction;
 ```
-
-# 
