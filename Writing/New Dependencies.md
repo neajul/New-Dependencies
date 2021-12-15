@@ -209,8 +209,6 @@ graph TD;
     19-->21[21. kad plein 9 IV];
     
     19-->20[20. h. kad. 97-99];
-    
-    
 ```
 
 fig.7.1 Alarmlijst Artis expressed in a mermaid.js script
