@@ -1,18 +1,50 @@
-*Dear Reader,*
-
-*In this essay I am trying to establish a lineage between a spatial practice like squatting and a (for lack of a better term) digital practice like self hosting. I start by examining the spatial and geographical metaphors we (have) use(d) to describe the internet, and argue that any understanding of it as a separate, autonomous space is insufficient. I argue that the need for alternative practices is imminent, and that tactics and sentiments from the squatting movement could be applied to their digital counterparts. As an example, I examine how squats don't function as autonomous spaces per se, but rather as nodes situated in larger contexts and (support) networks, reliant on a new set of dependencies that they define for themselves.*
-
-*I have a feeling that I am not the first one to do this (lol) and I know that there is quite some overlap between these things already (there are squatted hacker spaces in Amsterdam, the founders of institute for network cultures were squatters in the 80s, etc), but I am not aware of anyone having made this explicit, if you are, please let me know. I'm also a bit unsure about the tone I use, I don't want to sound too lecturing, or too much like I have it all figured out, or oversimplify the situation. I also wonder about the whole discussion around refusal and privilege, is it present enough? Do I need to emphasize it more? I'm also wondering about the order of the sequence, for example the "Reasons to refuse the cloud" part. Also I am not sure about how to use images yet, because I write about so many visual things in the end, but I don't want to just illustrate what I am already describing in the text. Also I really need to shorten, so please tell me what is unnecessary. And of course anything else you have to add is appreciated <3*
-
----
-
 # New Dependencies
+
+Essay by Lukas Engelhardt
+
+
 
 [TOC]
 
+## Abstract
+
+*Dear Reader,*
+
+*This text is a nomadic journey from the (this?) abstract to the material. I am trying to establish a lineage between a spatial practice like squatting and a (for lack of a better term) digital practice like self hosting. First, I examine the spatial and geographical metaphors we (have) use(d) to describe the internet, and argue that any understanding of it as a separate, autonomous space is insufficient. I then argue that the need for alternative practices is imminent, and that tactics and sentiments from the squatting movement could be applied to their digital counterparts. As an example, I examine how squats don't function as autonomous spaces per se, but rather as nodes situated in larger contexts and (support) networks, reliant on a new set of dependencies that they define for themselves. I do take for granted a certain understanding of what is wrong with the internet today. You can find a summary of reasons, a starting point of sorts, in the appendix.*
+
+![image-20211129212407097](image-20211129212407097.png)
+fig 1: A Thundercloud, a mix of a cloud icon and the international squatting sign that resembles lightning strike.
 
 
-## 1. Cloud Gazing
+
+## 0 Who would Win?
+
+|                         self hosting                         |                          squatting                           |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+|            refusing imposed policies (privacy) ✅             |            refusing imposed policies (housing) ✅             |
+|                    resist cloud control ✅                    |                    resist crowd control ✅                    |
+|                    constant maintenance ✅                    |                    constant maintenance ✅                    |
+|                      new dependencies ✅                      |                      new dependencies ✅                      |
+|  improvised structures & unconventional design strategies ✅  |  improvised structures & unconventional design strategies ✅  |
+|         using existing (physical) infrastructures ✅          |         using existing (physical) infrastructures ✅          |
+|           unused hardware (reuse what is there) ✅            |            unused houses (reuse what is there)  ✅            |
+| ephemeral & precarious, disaster always imminent: data loss ✅ | ephemeral & precarious, disaster always imminent: eviction ✅ |
+|            community building (who is invited?) ✅            |            community building (who is invited?) ✅            |
+|                   open source principles ✅                   |                   open source principles ✅                   |
+|            my grandmother doesn't understand it ✅            |            my grandmother doesn't understand it ✅            |
+|                         nostalgia ✅                          |                         nostalgia ✅                          |
+|              situating yourself in a network ✅               |              situating yourself in a network ✅               |
+|          having to change ip addresses sometimes ✅           |            having to change addresses sometimes ✅            |
+|              following manuals and protocols ✅               |              following manuals and protocols ✅               |
+|                  programming (computers) ✅                   |                    programming (events) ✅                    |
+|                hosting and serving (files) ✅                 |                hosting and serving (people) ✅                |
+|            don't pay rent (software as service) ✅            |                don't pay rent (actual rent) ✅                |
+|                   security (encryption) ✅                    |                   security (barricades) ✅                    |
+|           de-appropriating someone else's space ❌            |           de-appropriating someone else's space ✅            |
+
+
+
+## 1 Cloud Gazing
 
 On September 12, 2010 the Youtube Channel revelation13net uploaded a video titled *By Psychokinesis a Psychic turns a Cloud into a Square Cloud in Sept. 2010.* In this 02:18 video, a man is filming the sky with a handheld camera. Visible is a single cloud on an otherwise entirely blue sky, lined by some trees on the edge of the frame. We never see the person holding the camera but can hear them speak throughout the video. They introduce themselves as *T. Chase* and explain that they will now attempt to change the shape of the cloud into a square through psychic powers. They keep repeating this statement like a mantra of sorts, altering and distorting their voice as the video progresses. The cloud slowly changes shape, and by the end of the video it does look more like a square than in the beginning of the video, even though it's hard to say whether this might have just been the way it naturally changed shape.
 
@@ -32,7 +64,7 @@ In 2019, web designer Becca Abbe sensed the dawn of what she called *the interne
 
 
 
-## 2. Surfing the Web
+## 2 Surfing the Web
 
 Before the cloud was a cloud it was an ocean. In 1986, when the internet wasn't commercially available yet, it was mostly being used by scientists and governments. That year, in the Netherlands, Hans Rosenberg from Utrecht University founded the non-profit *SURF* (Samenwerkende Universitaire Reken Faciliteiten, *Co-operative University Computing Facilities*), which ran *SURFnet*, a computer network linking different academic institutions. *SURFnet* still exists today, and, among other things, founded and operates *eduroam*, an authentication infrastructure letting users in higher education facilities use wifi, which many readers might be familiar with.
 
@@ -59,7 +91,7 @@ Today nobody *surfs* anymore (the ocean has evaporated into the cloud, you could
 
 
 
-## 3. Back to the Sea
+## 3 Back to the Sea
 
 While some are trying their best to get back to the land, others want to get back to the sea. Where *homesteading* describes self-sufficient life on land, *seasteading* takes this idea a step further and out into the open sea (hypothetically, at least). Seasteading is an idea from San Francisco, and advocated for by the Seasteading Institute, which in turn was funded by venture capitalist and strangely obsessive Lord of the Rings fan[^301] Peter Thiel, with the goal of making governments *smart*. Claiming that most of the land in the world is already taken, the seasteaders propose building floating cities in international waters, free from convention, regulation, and taxes.
 
@@ -81,7 +113,7 @@ Sophie Elmhirst recounts the following unfolding of unfortunate events in great 
 
 
 
-## 4. Back to the Land
+## 4 Back to the Land
 
 Like the high seas, another place that many people thought was the epitome of freedom, but which turned out to be tightly regulated, is the internet. *A Declaration of the Independence of Cyberspace*[^401], which John Perry Barlow, founding member of the Electronic Frontier Foundation, published in 1996, is often used an example for this false optimism. As their name suggests, the EFF in the 90s perceived the internet as a new frontier, a wild and unexplored space for settlers to claim, where people could build new lives, new utopias, new modes of governance. Barlow's text reads as a challenge to the governments of what he calls the *Industrial World*, or the world outside of the computers, who, according to him, had no legitimate claim to govern cyberspace.
 
@@ -105,49 +137,13 @@ If Cyberspace was the indefinite space between the nodes, that magical place tha
 
 
 
-## 5. Unordered List of Reasons to Refuse *the Cloud*
-
-- Workers in the global south are being exploited and our devices are assembled by modern slaves.[^501]
-- Rare earths such as Lithium are extracted from indigenous lands without their consent and with unaccounted for consequences for the environment.[^502]
-- E-Waste is polluting the planet and is being dumped in landfills without regulations in the global south, poisoning both the lands and the people.[^503]
-- Tech companies and governments by extension are constantly spying on us. The right to privacy is being eroded and the surveillance state is being facilitated.[^504]
-- For almost a decade we have had reliable evidence that tech companies are padding on information to government agencies such as the NSA, yet nothing has changed.[^505]
-- Social media companies profit from a divided political landscape, disconnected filter bubbles are not a by-product but part of the product.[^506]
-- The massive proliferation of fake news actively costs lives (see: anti vaccers) and is being facilitated by the big platforms.[^507]
-- People are led to believe in conspiracy theories and are being radicalized to the point of committing physical violence and domestic terrorism.[^508]
-- The internet, and most devices we carry in our pockets like smart phones, are developed from US military technology (possibilities for surveillance for example are no accident).[^509]
-- *Tech* is a race to the brain stem. Some of the best-educated people in the world spend all their energy in selling us ads. Thinking we could resist the machinery is like thinking we could win against a super computer in chess.[^510]
-- It's addictive on purpose. At places like the Stanford Persuasive Technology Lab people have been trained to specifically find ways of persuading users to keep using their products, and metrics like engagement are still the main factors their design.[^511]
-- Big companies that have terms and conditions instead of constitutions can censor users without any form of accountability or oversight.[^512]
-- Even though participation is always voluntary, social pressure to participate, especially on children and teenagers, outweighs any serious form of alternative.[^513]
-- Depression among young people is on an all time high, and suicide rates are steadily increasing.[^514]
-- In authoritarian countries it's used as a tool to brutally suppress any form of opposition[^515]
-
-[^501]: (need to still back this up with a footnote)
-[^502]: (need to still back this up with a footnote)
-[^503]: (need to still back this up with a footnote)
-[^504]: (need to still back this up with a footnote)
-[^505]: (need to still back this up with a footnote)
-[^506]: (need to still back this up with a footnote)
-[^507]: (need to still back this up with a footnote)
-[^508]: (need to still back this up with a footnote)
-[^509]: (need to still back this up with a footnote)
-[^510]: (need to still back this up with a footnote)
-[^511]: (need to still back this up with a footnote)
-[^512]: (need to still back this up with a footnote)
-[^513]: (need to still back this up with a footnote)
-[^514]: (need to still back this up with a footnote)
-[^515]: (need to still back this up with a footnote)
-
-
-
-## 6. Hotel Mokum
+## 5 Hotel Mokum
 
 Many of us struggled with the pressure, the excitement, the exhaustion, the uncertainty, the lack of structure, impostor syndrome. The let-down effect was real, immediately after the action a number of people got sick. Most of us had stopped exercising, ate unhealthy, couldn't keep up with simple household tasks. Someone said their home had started to look like a squat while our squat had slowly started to look like a home. At the same time, most of us experienced difficulties to leave, to go home, and felt guilty when we missed just a day or two.
 
-We squatted Hotel Mokum[^601] on the October 16th, 2021. None of us had really expected to succeed—in the secretive meetings with the *real* squatters in which we planned the action (out of a general distrust in technology we always had to leave our phones in another room) the best case scenario was nothing more than a rhetorical bridge into the infinitely more likely crisis scenarios of varying gravitas: *of course, at that moment the police can just decide to leave, but more likely they will [insert various degrees of state violence here].* But then it all turned out differently, and they did leave, and there we were, 20-odd 20-somethings (and me), and all 6 floors of the former Hotel right in the center of Amsterdam were *ours*, and every news outlet in town wanted to talk to us.
+We squatted Hotel Mokum[^501] on the October 16th, 2021. None of us had really expected to succeed—in the secretive meetings with the *real* squatters in which we planned the action (out of a general distrust in technology we always had to leave our phones in another room) the best case scenario was nothing more than a rhetorical bridge into the infinitely more likely crisis scenarios of varying gravitas: *of course, at that moment the police can just decide to leave, but more likely they will [insert various degrees of state violence here].* But then it all turned out differently, and they did leave, and there we were, 20-odd 20-somethings (and me), and all 6 floors of the former Hotel right in the center of Amsterdam were *ours*, and every news outlet in town wanted to talk to us.
 
-The day of the action we got drunk, the day after we started programming. Our first event was a series of screenings, selected by Jeffrey from *Jeffrey's Underground Cinema(s)*[^602]. After that the program never stopped. In the first month we organized a neighborhood lunch, political cafés, screenings, a screen printing workshop, a chess tournament, an exhibition with more than 70 participants, a demonstration and seemingly infinite amounts of bar nights. Fueled by a mix of enthusiasm, disbelief and constant fear of eviction, we went on and on, and every time it got better and bigger, and every time it was packed.
+The day of the action we got drunk, the day after we started programming. Our first event was a series of screenings, selected by Jeffrey from *Jeffrey's Underground Cinema(s)*[^502]. After that the program never stopped. In the first month we organized a neighborhood lunch, political cafés, screenings, a screen printing workshop, a chess tournament, an exhibition with more than 70 participants, a demonstration and seemingly infinite amounts of bar nights. Fueled by a mix of enthusiasm, disbelief and constant fear of eviction, we went on and on, and every time it got better and bigger, and every time it was packed.
 
 When we didn't have a public program, we worked on the building: It had been gutted to the core and in the two years that it had been abandoned, it had decayed dramatically. After changing the locks, we cleared out the carcasses of the pigeons that had been trapped inside, cleaned the floors of their excrements, built a toilet for ours, pumped out the water from the crawlspace beneath, built a bar, set up internet throughout the building (stolen from the hotel across the street), built living rooms and bed rooms, furnished it all, and cleaned—everything, endless amounts of times. Hardly any of us had ever squatted before, let alone on this scale and without the unconditional and selfless support and expertise from helpers, friends and members of the squatting scene, we could have never pulled any of it off.
 
@@ -157,24 +153,24 @@ We needed this place, and it needed us. We were starting to neglect the lives we
 
 One by one we assured each other, complimented each other on *good shares*. It was emotional and supportive. A lot of us hadn't known each other before the action, but in this moment of allowing ourselves to be vulnerable in front of each other, it felt like we had been doing this for years. We had become nodes in a (support) network, but far from autonomous, our network, in turn, was just a node in an even larger network. As someone put it, outside the doors was a now city, not just a collection of houses. Utterly dependent on each other's solidarity, we knew that we *could* depend on each other, and that these new dependencies were dependencies we had chosen ourselves.
 
-[^601]: https://pakmokumterug.nl/
-[^602]: https://radar.squat.net/en/amsterdam/jeffreys-cinemas
+[^501]: https://pakmokumterug.nl/
+[^502]: https://radar.squat.net/en/amsterdam/jeffreys-cinemas
 
 
 
-## 7. Architectures of (De-)Appropriation
+## 6 Architectures of (De-)Appropriation
 
-Squatting is the act of occupying an unoccupied space without owning it or having permission to use it. It occurs around the world and is mostly connected to poverty and homelessness, where people without alternatives build settlements on unoccupied land, which over time often develop into shanty towns and slums. In 2003 the United Nations estimated that globally more than 1 billion people were living in squats and slums, projecting this number to increase up to 1.5 billion by 2020[^701]. For most of these people, squatting is a tactic to survive.
+Squatting is the act of occupying an unoccupied space without owning it or having permission to use it. It occurs around the world and is mostly connected to poverty and homelessness, where people without alternatives build settlements on unoccupied land, which over time often develop into shanty towns and slums. In 2003 the United Nations estimated that globally more than 1 billion people were living in squats and slums, projecting this number to increase up to 1.5 billion by 2020[^601]. For most of these people, squatting is a tactic to survive.
 
-In the global north, squatting is mostly residential, meaning that it involves the occupation of vacant buildings in the city. While it's a response to the various inequalities in housing here, and as a tactic still presents the only alternative to homelessness for many (for example: undocumented) people, it also often has a political and activist dimension. In their eponymous book[^702] published in 2019 by Het Nieuwe Instituut in Rotterdam, the collective *Architectures of Appropriation* conceptualizes squatting here (and in the Netherlands specifically) not only as a social movement and historical phenomenon but as a kind of *spatial activism*. According to them, over the last 50 years, the unscripted and collective spatial tactics that squatters employ to transform the spaces they inhabit have significantly shaped Dutch cities and left behind a spatial heritage that speaks of the ephemeral and precarious nature of squats, and the desire to put the right to *live* above the right to own property.
+In the global north, squatting is mostly residential, meaning that it involves the occupation of vacant buildings in the city. While it's a response to the various inequalities in housing here, and as a tactic still presents the only alternative to homelessness for many (for example: undocumented) people, it also often has a political and activist dimension. In their eponymous book[^602] published in 2019 by Het Nieuwe Instituut in Rotterdam, the collective *Architectures of Appropriation* conceptualizes squatting here (and in the Netherlands specifically) not only as a social movement and historical phenomenon but as a kind of *spatial activism*. According to them, over the last 50 years, the unscripted and collective spatial tactics that squatters employ to transform the spaces they inhabit have significantly shaped Dutch cities and left behind a spatial heritage that speaks of the ephemeral and precarious nature of squats, and the desire to put the right to *live* above the right to own property.
 
 In the Netherlands, squatting developed into a politically motivated movement after World War 2 but it wasn't until 1971 that squatters acquired legal protection. That year a court ruled that if squatters could prove that they had established so called *house peace (huisvrede)* they would enjoy the same legal protection in their homes as everyone else, meaning they could not just be evicted by the police without the ruling of a judge. After that, squatting became institutionalized: by 1980 there were weekly squatting information hours (*Kraakspreekuuren*) in every Dutch city, where squatters would give free advice to whoever was interested, and the action itself was protocolized in the form of freely available manuals down to the last detail, including the interaction with the authorities and police. Architectures of Appropriation argue that already back then, the squatting movement had a decidedly *open source* character.
 
-Despite the raging housing crisis here, which has only become worse since then, in 2010, squatting became a criminal offense in the Netherlands. In the first 2 years after that more than 330 squats were evicted in Amsterdam alone[^703]. In its prime, this network of squatted places amounted to a parallel society of sorts, consisting not only of alternative housing projects but (sub)cultural venues, food distribution centers, peoples' kitchens, legal support, media outlets and medical services[^704]. This aspect of embedding yourself in a *network*, of cutting with old dependencies in favor of new ones, is central to the act of squatting on many levels—whether it's the internal network of the occupants, a local network with the surrounding neighbors, a regional network with the rest of the scene in the squat's vicinity, or an international network of political squatters around the world.
+Despite the raging housing crisis here, which has only become worse since then, in 2010, squatting became a criminal offense in the Netherlands. In the first 2 years after that more than 330 squats were evicted in Amsterdam alone[^603]. In its prime, this network of squatted places amounted to a parallel society of sorts, consisting not only of alternative housing projects but (sub)cultural venues, food distribution centers, peoples' kitchens, legal support, media outlets and medical services[^604]. This aspect of embedding yourself in a *network*, of cutting with old dependencies in favor of new ones, is central to the act of squatting on many levels—whether it's the internal network of the occupants, a local network with the surrounding neighbors, a regional network with the rest of the scene in the squat's vicinity, or an international network of political squatters around the world.
 
 One way this *networkedness* might be epitomized is in the convention to name a newly squatted building after the address where it is located. By doing this, the squatters embed themselves into the broader (social) context of the city, as well as into the network of other squats there, while being simultaneously site specific and location independent: if they get evicted, the collective can squat another place next week, and the place will have a different address and a different name. Its identity will simultaneously be the same and completely different, similar to the way a computer gets assigned a new IP address in a network.
 
-The connections between these nodes in a network are not simply abstract but can and have been diagrammatically mapped out as with an emergency list of the former Amsterdam squat Plantage Dok[^705]. In a time before cellphones, this flowchart, composed on a typewriter, mapped out how, in case of an emergency such as violent groups attacking one of the squats, the different nodes in the immediate network of Plantage Dok should be contacted for support, in which order, by who, and by what means (by *fiets*, meaning by bike, or by *bellen*, meaning through the phone).
+The connections between these nodes in a network are not simply abstract but can and have been diagrammatically mapped out as with an emergency list of the former Amsterdam squat Plantage Dok[^605]. In a time before cellphones, this flowchart, composed on a typewriter, mapped out how, in case of an emergency such as violent groups attacking one of the squats, the different nodes in the immediate network of Plantage Dok should be contacted for support, in which order, by who, and by what means (by *fiets*, meaning by bike, or by *bellen*, meaning through the phone).
 
 This network diagram does not include a cloud, an unknown factor beyond its control. If a cloud were to be included in this schematic, it would present exactly the raid by the police or the violent group of attackers sent by the landlord that it was created to protect its members from in the first place. Instead of a network that is concerned with things like scalability, it operates on different principles. It is in its essence a network of solidarity.
 
@@ -213,38 +209,44 @@ graph TD;
 
 fig.7.1 Alarmlijst Artis expressed in a mermaid.js script
 
-[^701]: https://unhabitat.org/sites/default/files/download-manager-files/The%20Challenge%20of%20Slums%20-%20Global%20Report%20on%20Human%20Settlements%202003.pdf
-[^702]: https://architecture-appropriation.hetnieuweinstituut.nl/en/publication
-[^703]: https://web.archive.org/web/20190830180133/https://www.rd.nl/amsterdam-ontruimt-330-panden-sinds-kraakwet-1.259316
-[^704]: same Architectures of Appropriation book
-[^705]: same Architectures of Appropriation book
+[^601]: https://unhabitat.org/sites/default/files/download-manager-files/The%20Challenge%20of%20Slums%20-%20Global%20Report%20on%20Human%20Settlements%202003.pdf
+[^602]: https://architecture-appropriation.hetnieuweinstituut.nl/en/publication
+[^603]: https://web.archive.org/web/20190830180133/https://www.rd.nl/amsterdam-ontruimt-330-panden-sinds-kraakwet-1.259316
+[^604]: same Architectures of Appropriation book
+[^605]: same Architectures of Appropriation book
 
 
 
-## 8. Who Would Win?
+## Appendix: Unordered List of Reasons to Refuse *the Cloud*
 
-|                         self hosting                         |                          squatting                           |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-|            refusing imposed policies (privacy) ✅             |            refusing imposed policies (housing) ✅             |
-|                    resist cloud control ✅                    |                    resist crowd control ✅                    |
-|                    constant maintenance ✅                    |                    constant maintenance ✅                    |
-|                      new dependencies ✅                      |                      new dependencies ✅                      |
-|  improvised structures & unconventional design strategies ✅  |  improvised structures & unconventional design strategies ✅  |
-|         using existing (physical) infrastructures ✅          |         using existing (physical) infrastructures ✅          |
-|           unused hardware (reuse what is there) ✅            |            unused houses (reuse what is there)  ✅            |
-| ephemeral & precarious, disaster always imminent: data loss ✅ | ephemeral & precarious, disaster always imminent: eviction ✅ |
-|            community building (who is invited?) ✅            |            community building (who is invited?) ✅            |
-|                   open source principles ✅                   |                   open source principles ✅                   |
-|            my grandmother doesn't understand it ✅            |            my grandmother doesn't understand it ✅            |
-|                         nostalgia ✅                          |                         nostalgia ✅                          |
-|              situating yourself in a network ✅               |              situating yourself in a network ✅               |
-|          having to change ip addresses sometimes ✅           |            having to change addresses sometimes ✅            |
-|              following manuals and protocols ✅               |              following manuals and protocols ✅               |
-|                  programming (computers) ✅                   |                    programming (events) ✅                    |
-|                hosting and serving (files) ✅                 |                hosting and serving (people) ✅                |
-|            don't pay rent (software as service) ✅            |                don't pay rent (actual rent) ✅                |
-|                   security (encryption) ✅                    |                   security (barricades) ✅                    |
-|           de-appropriating someone else's space ❌            |           de-appropriating someone else's space ✅            |
+- Workers in the global south are being exploited and our devices are assembled by modern slaves.[^AP01]
+- Rare earths such as Lithium are extracted from indigenous lands without their consent and with unaccounted for consequences for the environment.[^AP02]
+- E-Waste is polluting the planet and is being dumped in landfills without regulations in the global south, poisoning both the lands and the people.[^AP03]
+- Tech companies and governments by extension are constantly spying on us. The right to privacy is being eroded and the surveillance state is being facilitated.[^AP04]
+- For almost a decade we have had reliable evidence that tech companies are padding on information to government agencies such as the NSA, yet nothing has changed.[^AP05]
+- Social media companies profit from a divided political landscape, disconnected filter bubbles are not a by-product but part of the product.[^AP06]
+- The massive proliferation of fake news actively costs lives (see: anti vaccers) and is being facilitated by the big platforms.[^AP07]
+- People are led to believe in conspiracy theories and are being radicalized to the point of committing physical violence and domestic terrorism.[^AP08]
+- The internet, and most devices we carry in our pockets like smart phones, are developed from US military technology (possibilities for surveillance for example are no accident).[^AP09]
+- *Tech* is a race to the brain stem. Some of the best-educated people in the world spend all their energy in selling us ads. Thinking we could resist the machinery is like thinking we could win against a super computer in chess.[^AP10]
+- It's addictive on purpose. At places like the Stanford Persuasive Technology Lab people have been trained to specifically find ways of persuading users to keep using their products, and metrics like engagement are still the main factors their design.[^AP11]
+- Big companies that have terms and conditions instead of constitutions can censor users without any form of accountability or oversight.[^AP12]
+- Even though participation is always voluntary, social pressure to participate, especially on children and teenagers, outweighs any serious form of alternative.[^AP13]
+- Depression among young people is on an all time high, and suicide rates are steadily increasing.[^AP14]
+- In authoritarian countries it's used as a tool to brutally suppress any form of opposition[^AP15]
 
-![image-20211129212407097](image-20211129212407097.png)
-fig 8.1: A Thundercloud, a mix of a cloud icon and the international squatting sign that resembles lightning strike.
+[^AP01]: (need to still back this up with a footnote)
+[^AP02]: (need to still back this up with a footnote)
+[^AP03]: (need to still back this up with a footnote)
+[^AP04]: (need to still back this up with a footnote)
+[^AP05]: (need to still back this up with a footnote)
+[^AP06]: (need to still back this up with a footnote)
+[^AP07]: (need to still back this up with a footnote)
+[^AP08]: (need to still back this up with a footnote)
+[^AP09]: (need to still back this up with a footnote)
+[^AP10]: (need to still back this up with a footnote)
+[^AP11]: (need to still back this up with a footnote)
+[^AP12]: (need to still back this up with a footnote)
+[^AP13]: (need to still back this up with a footnote)
+[^AP14]: (need to still back this up with a footnote)
+[^AP15]: (need to still back this up with a footnote)
