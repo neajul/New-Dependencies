@@ -12,23 +12,15 @@
   - [ ] my writing from last year
   - [ ] steward brand etc
 - [x] put in feedback from feedback day
-- [ ] go through feedback, what really needs to go in?
-  - [ ] and where?
+- [x] go through feedback, what really needs to go in?
+  - [x] and where?
   - [x] also flavia
-- [ ] think about images
-  - [ ] squatting sign should go in i guess?
-  - [ ] network diagram, how can i solve this?
-  - [ ] coded diagrams, how to put them in
-
 - [x] move cloud part before squatting part
-- [ ] restructure again, formulate also this idea of traveling maybe
-- [ ] better titles
-- [ ] new abstract
-- [ ] footnotes
+- [x] restructure again, formulate also this idea of traveling maybe
+- [x] new abstract
 - [ ] read texts from flavia
   - [ ] the one about technofeudalism
   - [ ] the one from her and daniel
-
 - [ ] read daniel loick
 - [ ] contact jeffrey from jeffrey's cinema!
 - [x] formulate Research Question™️

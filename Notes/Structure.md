@@ -32,10 +32,7 @@
 
 # Things that need to change
 
-- new abstract
-  - from abstract to material (literally since this is the abstract)
-  - nomadism, traveling the chapters
-
+- Better Titles!
 - The Pirate meme!
   - also flavia says that i need to rethink the "collapse" sentence
   - *community building*
@@ -44,6 +41,8 @@
   - where does private property intersect with the cloud?
   - is the network still a network?
   - daniel loick, the private property guy!
+  - i also think it would be nice to mention the psychokinesis guy again
+    - something also about the network without clouds
 - part 2 and 3 are too long
   - footnotes!
 - need to work over the reasons to refuse list.
@@ -54,6 +53,11 @@
   - maybe sometimes i could use them to explain, rather than just a link
 - want to try who would win as a kind of index
   - cross references!
+  - also need to restructure this part/go through it again
+- images
+  - squatting sign probably
+  - how to show a network diagram with cloud?
+  - put in the coded diagrams i made!
 
 # Things that are Missing
 
@@ -107,8 +111,6 @@
   - libertarian leisure culture
 - what is the meaning of antikraak?
 
-- Text Silvio
-  - he also makes the point that spatial metaphors disappear after mobile phones came along
 - dependencies can be addictions.
   - tech and drugs are the only industries that call their customers *user*
   - **new** dependencies are not addictions
