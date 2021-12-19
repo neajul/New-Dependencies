@@ -25,6 +25,12 @@
 - [ ] better titles
 - [ ] new abstract
 - [ ] footnotes
+- [ ] read texts from flavia
+  - [ ] the one about technofeudalism
+  - [ ] the one from her and daniel
+
+- [ ] read daniel loick
+- [ ] contact jeffrey from jeffrey's cinema!
 - [x] formulate Research Question™️
 - [x] Rewrite the surf part after reading the text of the wayback guy
 - [x] Put everything into one file!

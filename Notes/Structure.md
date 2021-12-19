@@ -30,8 +30,14 @@
 8. **Appendix: Unordered List of Reasons to Refuse the Cloud**
    1. there are a lot of problems with *the cloud*, let's just agree on this
 
-# What is still Missing?
+# Things that are missing or need to change
 
+- The Pirate meme!
+  - also flavia says that i need to rethink the "collapse" sentence
+- The ending is too short
+  - where does private property intersect with the cloud?
+  - is the network still a network?
+  - daniel loick, the private property guy!
 - where do squatting and tech actually mix
   - where are we using (big) tech to squat?
     - google maps
@@ -89,6 +95,9 @@
   - **we have apartments, why didwe need hotel mokum?**
 - when did the internet become a cloud?
   - the moment it transitioned from arpanet, internet archive guy's text
+  - techno feudalism
+  - 2010, year of the squatting ban!
+  - a few owning what belongs to the many
 - influence of counter culture on computers and the internet
   - hippies, but also hacker culture!
   - **CCC?**
