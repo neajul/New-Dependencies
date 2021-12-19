@@ -14,11 +14,17 @@
 - [x] put in feedback from feedback day
 - [ ] go through feedback, what really needs to go in?
   - [ ] and where?
-
+  - [ ] also flavia
 - [ ] think about images
-- [ ] move cloud part before squatting part
+  - [ ] squatting sign should go in i guess?
+  - [ ] network diagram, how can i solve this?
+  - [ ] coded diagrams, how to put them in
+
+- [x] move cloud part before squatting part
+- [ ] restructure again, formulate also this idea of traveling maybe
 - [ ] better titles
-- [ ] definitely go through flavia's feedback that was great
+- [ ] new abstract
+- [ ] footnotes
 - [x] formulate Research Question™️
 - [x] Rewrite the surf part after reading the text of the wayback guy
 - [x] Put everything into one file!
