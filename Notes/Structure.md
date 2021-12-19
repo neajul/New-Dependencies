@@ -30,14 +30,33 @@
 8. **Appendix: Unordered List of Reasons to Refuse the Cloud**
    1. there are a lot of problems with *the cloud*, let's just agree on this
 
-# Things that are missing or need to change
+# Things that need to change
+
+- new abstract
+  - from abstract to material (literally since this is the abstract)
+  - nomadism, traveling the chapters
 
 - The Pirate meme!
   - also flavia says that i need to rethink the "collapse" sentence
+  - *community building*
+- diagrams
 - The ending is too short
   - where does private property intersect with the cloud?
   - is the network still a network?
   - daniel loick, the private property guy!
+- part 2 and 3 are too long
+  - footnotes!
+- need to work over the reasons to refuse list.
+  - does everything fit there?
+  - for example the suicide part. I think it makes sense because it happened in the transition from network to cloud, but then this has to be more explicit
+  - footnotes!
+- footnotes in general
+  - maybe sometimes i could use them to explain, rather than just a link
+- want to try who would win as a kind of index
+  - cross references!
+
+# Things that are Missing
+
 - where do squatting and tech actually mix
   - where are we using (big) tech to squat?
     - google maps
@@ -63,12 +82,15 @@
     - Flusser says we are all nomads now, because of the way information penetrates our lives, there is no differenciation between public and private
       - this alone already relates to squatting
     - squatting is always precarious, always ad-hoc, at the same time dependent on location and independent from it. always nomadic
+    - every squat ends!
+  - clarify: it's not about being separate from the city, necessarily, but being so much at home in it that your house is all over
 - Reusing what is there
   - **the server than ada built compared to a linux cyberdeck**
   - **reusing what is there**
   - relating this to architectures of apropriation
   - the computer you buy matters more than what you make on it
 - Different ideas of freedom
+  - autonomy is not (only) about separating yourself
   - the discussion about who to let in
     - gatekeeping, stackoverflow
     - open source/door policies
@@ -83,6 +105,7 @@
     - cyberprepping
   - VPNs, mainstream, commodification, arrested development (something with privacy i guess? fake block)
   - libertarian leisure culture
+- what is the meaning of antikraak?
 
 - Text Silvio
   - he also makes the point that spatial metaphors disappear after mobile phones came along
@@ -93,11 +116,15 @@
   - steve jobs was homeless
   - women of surinam movie?
   - **we have apartments, why didwe need hotel mokum?**
+  - maybe i could include where i wrote this thesis, both on a mac, and in sweden, both in company of my closest childhood friend and with an open source aproach.
+    - abstract?
+  - **i don't think this needs to be a point but read the essay one time with this in mind. What is the precarity of living in Amsterdam?**
 - when did the internet become a cloud?
   - the moment it transitioned from arpanet, internet archive guy's text
   - techno feudalism
   - 2010, year of the squatting ban!
   - a few owning what belongs to the many
+- How does the cloud connect to the Netherlands specifically? Data centers etc?
 - influence of counter culture on computers and the internet
   - hippies, but also hacker culture!
   - **CCC?**

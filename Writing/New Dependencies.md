@@ -2,10 +2,6 @@
 
 *In this essay I am trying to establish a lineage between a spatial practice like squatting and a (for lack of a better term) digital practice like self hosting. I start by examining the spatial and geographical metaphors we (have) use(d) to describe the internet, and argue that any understanding of it as a separate, autonomous space is insufficient. I argue that the need for alternative practices is imminent, and that tactics and sentiments from the squatting movement could be applied to their digital counterparts. As an example, I examine how squats don't function as autonomous spaces per se, but rather as nodes situated in larger contexts and (support) networks, reliant on a new set of dependencies that they define for themselves.*
 
-
-
-from abstract to material (literally since this is the abstract)
-
 *I have a feeling that I am not the first one to do this (lol) and I know that there is quite some overlap between these things already (there are squatted hacker spaces in Amsterdam, the founders of institute for network cultures were squatters in the 80s, etc), but I am not aware of anyone having made this explicit, if you are, please let me know. I'm also a bit unsure about the tone I use, I don't want to sound too lecturing, or too much like I have it all figured out, or oversimplify the situation. I also wonder about the whole discussion around refusal and privilege, is it present enough? Do I need to emphasize it more? I'm also wondering about the order of the sequence, for example the "Reasons to refuse the cloud" part. Also I am not sure about how to use images yet, because I write about so many visual things in the end, but I don't want to just illustrate what I am already describing in the text. Also I really need to shorten, so please tell me what is unnecessary. And of course anything else you have to add is appreciated <3*
 
 ---

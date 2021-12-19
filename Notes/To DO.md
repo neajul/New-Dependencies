@@ -14,7 +14,7 @@
 - [x] put in feedback from feedback day
 - [ ] go through feedback, what really needs to go in?
   - [ ] and where?
-  - [ ] also flavia
+  - [x] also flavia
 - [ ] think about images
   - [ ] squatting sign should go in i guess?
   - [ ] network diagram, how can i solve this?
