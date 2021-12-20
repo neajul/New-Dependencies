@@ -73,6 +73,10 @@ Unaware of this, just a year later, librarian Jean Armour Polly published an art
 
 Polly (and probably Mandel) wanted to evoke the fun, but also the skill required to, well, surf the web, and the randomness, chaos, and even danger that the web itself presented [^202]. Using the internet became a sport, something you did for fun, and temporarily, before hanging up your wet suit and doing something else. Computers are complicated and especially back then, when interfaces were less smooth, people less sad[^203] and personal computers were just beginning to become a thing, it perfectly captured this new, mysterious and seemingly bottomless place that was the internet[^204] (other exhausted geographic metaphors include cyberspace, the electronic frontier and the information highway).
 
+![image-20211219191510295](image-20211219191510295.png)
+
+fig. 2: Those times are over. 1994 Advertising by Honda in an [outdoor magazine](https://books.google.nl/books?id=dc5rdg49tpUC&pg=PA83&lpg=PA83&dq=honda+%22spend+your+whole+life+on+the+information+superhighway%22&ots=8XaK4b9KBv&sig=ACfU3U1K-xQfXarY8aAC2thkeGYZ-MyFug&hl=en#v=onepage&q&f=false)
+
 Today nobody *surfs* anymore (the ocean has evaporated into the cloud, you could say). But, despite the immiscibility of water and technology, the image of the internet as a vast ocean, free from the constraints of the aground, physical world, an ocean that just has to navigated by a skilled steersman[^205] with an appropriate vessel[^206], lingers as residue if you know where to look; In the ports and berths that we use to connect our computers to the internet, torrent sites[^207], app icons of browsers[^208] or the names of NFT marketplaces.[^209] The Network is eternal[^210], and so is the ocean.
 
 [^201]: https://archive.org/details/CaptainInternetAndCERFBoyNumber1October1991/mode/2up
@@ -209,6 +213,12 @@ Whatever time was left, we spent in meetings. We had to organize and decide on e
 We needed this place, and it needed us. We were starting to neglect the lives we had outside of Hotel Mokum—it was consuming us. After a month we came together in an *emo meeting* to discuss the emotional aspects of our involvements. It was important to create this space for us to listen to each other, let each other air grievances and send each other messages of support. Unanimously, we agreed that this month had been one of the most fulfilling months of our lives, but we had all known that before. That had been the collective experience. At the emo meeting we acknowledged what happened outside of it. For a few hours the collective collapsed into a collection of individuals, each with their own, unique experience, with complaints, insecurities and dirty apartments.
 
 One by one we assured each other, complimented each other on *good shares*. It was emotional and supportive. A lot of us hadn't known each other before the action, but in this moment of allowing ourselves to be vulnerable in front of each other, it felt like we had been doing this for years. We had become nodes in a (support) network, but far from autonomous, our network, in turn, was just a node in an even larger network. As someone put it, outside the doors was a now city, not just a collection of houses. Utterly dependent on each other's solidarity, we knew that we *could* depend on each other, and that these new dependencies were dependencies we had chosen ourselves.
+
+![Pirate Friendships (x-post r/me_irl) : r/wholesomememes](BahNe0RwgNt3UuDq65bLq0jNJ0n7w1lEerdHdVNG6bU.jpg)
+
+fig 3: A former meme
+
+
 
 [^601]: https://pakmokumterug.nl/
 [^602]: https://radar.squat.net/en/amsterdam/jeffreys-cinemas
