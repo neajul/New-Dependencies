@@ -8,6 +8,7 @@
 - [x] do some writing prompts
 - [x] read new things
   - [x] vlusser
+- [ ] go through all my emails lol
 - [ ] read old things
   - [ ] my writing from last year
   - [ ] steward brand etc

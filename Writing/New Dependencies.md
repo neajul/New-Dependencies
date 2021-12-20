@@ -8,8 +8,8 @@
 
 *This text is a nomadic journey from the (or: this) abstract to the material. I am trying to establish a lineage between a spatial practice like squatting and a (for lack of a better term) digital practice like self hosting. First, I examine the spatial and geographical metaphors we (have) use(d) to describe the internet, and argue that any understanding of it as a separate, autonomous space is insufficient. I then argue that the need for alternative practices is imminent, and that tactics and sentiments from the squatting movement could be applied to their digital counterparts. As an example, I examine how squats don't function as autonomous spaces per se, but rather as nodes situated in larger contexts and (support) networks, reliant on a new set of dependencies that they define for themselves. I do take for granted a certain understanding of what is wrong with the internet today. You can find a summary of this, a starting point of sorts, in the appendix.*
 
-![image-20211129212407097](image-20211129212407097.png)
-fig 1: A Thundercloud, a mix of a cloud icon and the international squatting sign that resembles lightning strike.
+<img src="image-20211129212407097.png" alt="image-20211129212407097" style="zoom: 50%;" />
+fig AB.1: A Thundercloud, a mix of a cloud icon and the international squatting sign that resembles lightning strike.
 
 
 
@@ -38,6 +38,8 @@ fig 1: A Thundercloud, a mix of a cloud icon and the international squatting sig
 |                   security (encryption) ✅                    |                   security (barricades) ✅                    |
 |            Everything went downhill from ~2010 ✅             |            Everything went downhill from ~2010 ✅             |
 |           de-appropriating someone else's space ❌            |           de-appropriating someone else's space ✅            |
+
+fig 0.1: A lot of words in tech are similar to word used to describe physical space
 
 
 
@@ -73,9 +75,11 @@ Unaware of this, just a year later, librarian Jean Armour Polly published an art
 
 Polly (and probably Mandel) wanted to evoke the fun, but also the skill required to, well, surf the web, and the randomness, chaos, and even danger that the web itself presented [^202]. Using the internet became a sport, something you did for fun, and temporarily, before hanging up your wet suit and doing something else. Computers are complicated and especially back then, when interfaces were less smooth, people less sad[^203] and personal computers were just beginning to become a thing, it perfectly captured this new, mysterious and seemingly bottomless place that was the internet[^204] (other exhausted geographic metaphors include cyberspace, the electronic frontier and the information highway).
 
-![image-20211219191510295](image-20211219191510295.png)
+<img src="image-20211219191510295.png" alt="image-20211219191510295" style="zoom:50%;" />
 
-fig. 2: Those times are over. 1994 Advertising by Honda in an [outdoor magazine](https://books.google.nl/books?id=dc5rdg49tpUC&pg=PA83&lpg=PA83&dq=honda+%22spend+your+whole+life+on+the+information+superhighway%22&ots=8XaK4b9KBv&sig=ACfU3U1K-xQfXarY8aAC2thkeGYZ-MyFug&hl=en#v=onepage&q&f=false)
+fig. 2.1: At least not today, those times are over. 1994 Advertising by Honda in an [outdoor magazine](https://books.google.nl/books?id=dc5rdg49tpUC&pg=PA83&lpg=PA83&dq=honda+%22spend+your+whole+life+on+the+information+superhighway%22&ots=8XaK4b9KBv&sig=ACfU3U1K-xQfXarY8aAC2thkeGYZ-MyFug&hl=en#v=onepage&q&f=false)
+
+
 
 Today nobody *surfs* anymore (the ocean has evaporated into the cloud, you could say). But, despite the immiscibility of water and technology, the image of the internet as a vast ocean, free from the constraints of the aground, physical world, an ocean that just has to navigated by a skilled steersman[^205] with an appropriate vessel[^206], lingers as residue if you know where to look; In the ports and berths that we use to connect our computers to the internet, torrent sites[^207], app icons of browsers[^208] or the names of NFT marketplaces.[^209] The Network is eternal[^210], and so is the ocean.
 
@@ -125,6 +129,12 @@ In 2021 probably not a lot of people would make this mistake anymore. In his ess
 Today the virtual is not separate but augmented[^409], which is maybe why the image of the cloud, hovering above us, overlaid like another layer in Photoshop (or Gimp), continues to stick around (that and marketing). But the collapse of the gap between the two also means that the inequalities inherent in one apply to the other, cannot be approached separately from one another. Inequalities in the virtual (where we are limited to the possibilities of the interface[^410]) cannot be solved from within it, like code running in a sandbox that can't affect the system outside of it.
 
 If Cyberspace was the indefinite space between the nodes, that magical place that exists between your computer and mine, then a digital *back to the land*-movement has to focus precisely on these nodes and their physical connections, the underlying infrastructure, which is overwhelmingly aground, even if sometimes submerged in water. Luckily for us, we have much more experience in negotiating physical space than virtual space.
+
+<img src="image-20211220173931006.png" alt="image-20211220173931006" style="zoom:25%;" />
+
+fig 4.1: A group of people negotiating physical space, 2021 (Photo by Sammy xxx)
+
+
 
 [^401]: https://www.eff.org/cyberspace-independence
 [^402]: Tubes book
@@ -188,7 +198,7 @@ graph TD;
     19-->20[20. h. kad. 97-99];
 ```
 
-fig.7.1 Alarmlijst Artis expressed in a mermaid.js script
+fig. 5.1 Alarmlijst Artis expressed in a mermaid.js script
 
 [^501]: https://unhabitat.org/sites/default/files/download-manager-files/The%20Challenge%20of%20Slums%20-%20Global%20Report%20on%20Human%20Settlements%202003.pdf
 [^502]: https://architecture-appropriation.hetnieuweinstituut.nl/en/publication
@@ -214,9 +224,9 @@ We needed this place, and it needed us. We were starting to neglect the lives we
 
 One by one we assured each other, complimented each other on *good shares*. It was emotional and supportive. A lot of us hadn't known each other before the action, but in this moment of allowing ourselves to be vulnerable in front of each other, it felt like we had been doing this for years. We had become nodes in a (support) network, but far from autonomous, our network, in turn, was just a node in an even larger network. As someone put it, outside the doors was a now city, not just a collection of houses. Utterly dependent on each other's solidarity, we knew that we *could* depend on each other, and that these new dependencies were dependencies we had chosen ourselves.
 
-![Pirate Friendships (x-post r/me_irl) : r/wholesomememes](BahNe0RwgNt3UuDq65bLq0jNJ0n7w1lEerdHdVNG6bU.jpg)
+<img src="BahNe0RwgNt3UuDq65bLq0jNJ0n7w1lEerdHdVNG6bU.jpg" alt="Pirate Friendships (x-post r/me_irl) : r/wholesomememes" style="zoom: 50%;" />
 
-fig 3: A former meme
+fig 6.1: A former meme
 
 
 

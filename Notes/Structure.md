@@ -68,6 +68,7 @@
     - instagram for promotion
     - but also self hosting, wifi dish, encrypted server
     - potentially mesh networks
+  - ==airbnb is the mix of tech, or the cloud, and housing==
 - Refusal
   - Jenny Odell, the third space!
   - Silvio says becoming a non-user can be more powerful than a hacker
@@ -118,6 +119,9 @@
   - steve jobs was homeless
   - women of surinam movie?
   - **we have apartments, why didwe need hotel mokum?**
+    - ==housing crisis, price increase amsterdam, from 2010 150%==
+      - [link](https://www.statista.com/statistics/612227/average-rent-in-four-largest-cities-in-the-netherlands-by-city/)
+    - 2010 really is where it all went wrong lol
   - maybe i could include where i wrote this thesis, both on a mac, and in sweden, both in company of my closest childhood friend and with an open source aproach.
     - abstract?
   - **i don't think this needs to be a point but read the essay one time with this in mind. What is the precarity of living in Amsterdam?**
@@ -130,3 +134,4 @@
 - influence of counter culture on computers and the internet
   - hippies, but also hacker culture!
   - **CCC?**
+- The whole notion of Techno Feudalism, thinking of the power dynamics we are escaping, how they are similar
