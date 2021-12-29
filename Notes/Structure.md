@@ -32,11 +32,9 @@
 
 # Things that need to change
 
-- Better Titles!
 - The Pirate meme!
   - also flavia says that i need to rethink the "collapse" sentence
   - *community building*
-- diagrams
 - The ending is too short
   - where does private property intersect with the cloud?
   - is the network still a network?
