@@ -43,8 +43,9 @@
   - daniel loick, the private property guy!
   - i also think it would be nice to mention the psychokinesis guy again
     - something also about the network without clouds
-- part 2 and 3 are too long
-  - footnotes!
+- shorten heavily by putting in footnotes
+  - especially part 3!!
+
 - need to work over the reasons to refuse list.
   - does everything fit there?
   - for example the suicide part. I think it makes sense because it happened in the transition from network to cloud, but then this has to be more explicit
@@ -73,15 +74,22 @@
 - Refusal
   - Jenny Odell, the third space!
   - Silvio says becoming a non-user can be more powerful than a hacker
-
 - security: barrication/encryption
-- Urgency
+- Literacry
   - James Bridle makes the point that you **shouldn't** need to understand tech to use it
     - like you can shit without knowing plumbing or being scared your toilet will kill you
     - in opposition to alexander galloway
     - **i'm not so sure about this, also why shouldn't we know about plumbing?**
       - Silvio actually also write about this question
     - When you squat, you will learn about plumbing
+  - Are you a read-write user?
+    - are you a hacker or a user?
+    - **check user agent-text again**
+    - drug users
+    - **check silvios text again**
+    - are you a tourist or a resident?
+      - video of DDS
+- Urgency
   - This is really a key point, also architectures of appropriation wise. The aesthetics is defined by urgency
     - when you stop squatting, it stops being so urgent
   - Nomadism
@@ -113,7 +121,6 @@
   - VPNs, mainstream, commodification, arrested development (something with privacy i guess? fake block)
   - libertarian leisure culture
 - what is the meaning of antikraak?
-
 - dependencies can be addictions.
   - tech and drugs are the only industries that call their customers *user*
   - **new** dependencies are not addictions

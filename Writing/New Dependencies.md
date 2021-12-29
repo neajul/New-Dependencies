@@ -9,7 +9,7 @@
 *This text is a nomadic journey from the (or: this) abstract to the material. I am trying to establish a lineage between a spatial practice like squatting and a (for lack of a better term) digital practice like self hosting. First, I examine the spatial and geographical metaphors we (have) use(d) to describe the internet, and argue that any understanding of it as a separate, autonomous space is insufficient. I then argue that the need for alternative practices is imminent, and that tactics and sentiments from the squatting movement could be applied to their digital counterparts. As an example, I examine how squats don't function as autonomous spaces per se, but rather as nodes situated in larger contexts and (support) networks, reliant on a new set of dependencies that they define for themselves. I do take for granted a certain understanding of what is wrong with the internet today. You can find a summary of this, a starting point of sorts, in the appendix.*
 
 <img src="image-20211129212407097.png" alt="image-20211129212407097" style="zoom: 50%;" />
-fig AB.1: A Thundercloud, a mix of a cloud icon and the international squatting sign that resembles lightning strike.
+fig A.1: A Thundercloud, a mix of a cloud icon and the international squatting sign that resembles lightning strike.
 
 
 
@@ -37,7 +37,7 @@ fig AB.1: A Thundercloud, a mix of a cloud icon and the international squatting 
 |             situating yourself in a network ✅              |             situating yourself in a network ✅              |
 |          de-appropriating someone else's space ❌           |          de-appropriating someone else's space ✅           |
 
-fig 0.1: A lot of words in tech are similar to word used IRL
+fig 0.1: A lot of words in tech are similar to words used IRL
 
 
 
@@ -97,7 +97,7 @@ fig. 2.1: Those times are over, the internet is no longer an ocean or a superhig
 
 ## 3 Back to the Sea
 
-While some are trying their best to get back to the land, others want to get back to the sea. Where *homesteading* describes self-sufficient life on land, *seasteading* takes this idea a step further and out into the open sea (hypothetically, at least). Seasteading is an idea from San Francisco, and advocated for by the Seasteading Institute, which in turn was funded by venture capitalist and strangely obsessive Lord of the Rings fan[^301] Peter Thiel, with the goal of making governments *smart*. Claiming that most of the land in the world is already taken, the seasteaders propose building floating cities in international waters, free from convention, regulation, and taxes.
+While some are trying their best to get back to the land, others want to get back to the sea. Where *homesteading* describes self-sufficient life on land, *seasteading* takes this idea several steps further and out into the open sea (hypothetically, at least). Seasteading is an idea from San Francisco, and advocated for by the Seasteading Institute, which in turn was funded by venture capitalist and strangely obsessive Lord of the Rings fan Peter Thiel[^301], with the goal of making governments *smart*. Claiming that most of the land in the world is already taken, the seasteaders propose building floating cities in international waters, free from convention, regulation, and taxes.
 
 Up until 2020 most attempts to make these dreams a reality had been of moderate success, with crypto millionaire, anti-taxer[^302] and anti-vaxxer[^303] Chad Elwartowski coming closest when he and his girlfriend lived 12 nautical miles off the coast of Thailand in a small, elevated, floating platform for a total of two months before being discovered by the Thai government and having to flee the country in fear of prosecution for violating the country's independence.[^304] Elwartowski is one of the founders of *Ocean Builders*, a company dedicated to the promotion of seasteading, that has been developing so called *SeaPods*, floating luxury homes that look remarkably similar to Apple AirPods in the concept renders[^305]. The platform in Thailand (which looked nothing like those renders) had been the first prototype.
 
@@ -105,7 +105,7 @@ But in 2020, Ocean Builders decided to give it one more try. Due to the COVID-19
 
 Sophie Elmhirst recounts the following unfolding of unfortunate events in great detail for the Guardian[^308]. The day the ocean builders officially gained ownership of the ship, its certificates of seaworthiness had expired. They had to sail it from Greece to Gibraltar to have it dry-docked and inspected, before finally starting the voyage across the Atlantic to Panama. There they had hoped to be able to de-register the ship, for it to legally become a floating residency in order escape strict maritime law, but the government of Panama insisted that, while they were allowed to anchor, the MS Satoshi had to officially remain a ship. This came with a lot of issues regarding the disposal of waste water and especially insurance: The team was unable to find anybody that would agree to insure their stationary crypto-ship, and facing the enormous costs of running it, including having a crew on board at all times, and the fact that they were not able to sell enough cabins, they had to cancel their plans and sell the ship, before ever making it to Panama, but not before calling the corona pandemic a conspiracy by the global elites and somehow blaming everything on them[^309]. Elmhirst fittingly sums up the MS Satoshi's ultimate dilemma. "The high seas", she writes, "while appearing borderless and free, are, in fact, some of the most tightly regulated places on Earth".
 
-[^301]: https://www.bbc.com/news/technology-38315682
+[^301]: At the time of writing, Thiel has founded a total of 6 (in words: six) companies that are named after places and objects in J. R. R. Tolkien's *Lord of the Rings*, see: https://www.bbc.com/news/technology-38315682
 [^302]: https://www.reddit.com/r/AskReddit/comments/o5jepd/what_do_you_wish_was_illegal/h2pagzw/
 [^303]: https://www.reddit.com/r/AskReddit/comments/oanhr8/what_invention_has_done_more_harm_than_good/h3kfxdh/
 [^304]: https://youtu.be/OovkeOuZsqU?t=340
@@ -119,11 +119,11 @@ Sophie Elmhirst recounts the following unfolding of unfortunate events in great 
 
 ## 4 Back to the Land
 
-Like the high seas, another place that many people thought was the epitome of freedom, but which turned out to be tightly regulated, is the internet. *A Declaration of the Independence of Cyberspace*[^401], which John Perry Barlow, founding member of the Electronic Frontier Foundation, published in 1996, is often used an example for this false optimism. As their name suggests, the EFF in the 90s perceived the internet as a new frontier, a wild and unexplored space for settlers to claim, where people could build new lives, new utopias, new modes of (smart?) governance. Barlow's text reads as a challenge to the governments of what he calls the *Industrial World*, or the world outside of the computers, who, according to him, had no legitimate claim to govern cyberspace.
+Like the high seas, another place that many people thought was the epitome of freedom, but which turned out to be tightly regulated, is the internet. *A Declaration of the Independence of Cyberspace*[^401], which John Perry Barlow, founding member of the Electronic Frontier Foundation, published in 1996, is often used an example for this false optimism. As their name suggests, in the 90s, the EFF perceived the internet as a new frontier, a wild and unexplored space for settlers to claim, where they could build new lives, new utopias, new modes of (smart?) governance. Barlow's text reads as a challenge to the governments of what he calls the *Industrial World*, or the world outside of the computers, who, according to him, had no legitimate claim to govern cyberspace.
 
 Of course this document has to be seen in the context of its time, and it has been critiqued to exhaustion. Even preceding it, many[^402][^403][^404][^405] people have pointed out, and Barlow himself has admitted since, that this clear division between digital and physical space is not a very good model to describe the world—after all, the internet runs on real computers, which stand in real rooms that are connected to the rest of the world with real cables, all of which is powered by real electricity[^406]. The internet obviously runs on physical infrastructure[^407], which follows the rules of the physical world.
 
-In 2021 probably not a lot of people would make this mistake anymore. In his essay *Imagining the Internet: Explaining our Digital Transition*, Brewster Kahle, founder of the Internet Archive, explores the different metaphors that we have collectively used to try to understand the internet throughout the years. According to him, around 2010 the internet became more and more mobile, and more and more tied to our real identities. Around that time political cartoons regarding anything online shifted in tone, from optimistic depictions of the future to people with phones in their hands that, sucking in their faces. With anonymity, the optimism of the 90s had disappeared.[^408]
+In 2021 probably not a lot of people would make this mistake anymore. In his essay *Imagining the Internet: Explaining our Digital Transition*, Brewster Kahle, founder of the Internet Archive, explores the different metaphors that we have collectively used to try to understand the internet throughout the years[^408]. According to him, around 2010 the internet became more and more mobile, and more and more tied to our real identities. Around that time, cartoons depicting the internet shifted in tone: the surfers of the 90s were now prisoners, bound to their oversized phones with heavy chains. With anonymity, the optimism of the 90s had disappeared.
 
 Today the virtual is not separate but augmented[^409], which is maybe why the image of the cloud, hovering above us, overlaid like another layer in Photoshop (or Gimp), continues to stick around (that and marketing). But the collapse of the gap between the two also means that the inequalities inherent in one apply to the other, cannot be approached separately from one another. Inequalities in the virtual (where we are limited to the possibilities of the interface[^410]) cannot be solved from within it, like code running in a sandbox that can't affect the system outside of it.
 
@@ -137,7 +137,7 @@ fig 4.1: A group of people negotiating physical space, 2021 (Photo by Sammy xxx)
 
 [^401]: https://www.eff.org/cyberspace-independence
 [^402]: Tubes book
-[^403]: The wikipedia reference
+[^403]: The wikipedia reference (Graham, Mark (2013-03-01). "Geography/internet: ethereal alternate dimensions of cyberspace or grounded augmented realities?)
 [^404]: the transmediale woman
 [^405]: evan roth
 [^406]: energy usage of the internet
@@ -152,17 +152,15 @@ fig 4.1: A group of people negotiating physical space, 2021 (Photo by Sammy xxx)
 
 Squatting is the act of occupying an unoccupied space without owning it or having permission to use it. It occurs around the world and is mostly connected to poverty and homelessness, where people without alternatives build settlements on unoccupied land, which over time often develop into shanty towns and slums. In 2003 the United Nations estimated that globally more than 1 billion people were living in squats and slums, projecting this number to increase up to 1.5 billion by 2020[^501]. For most of these people, squatting is a tactic to survive.
 
-In the global north, squatting is mostly residential, meaning that it involves the occupation of vacant buildings in the city. While it's a response to the various inequalities in housing here, and as a tactic still presents the only alternative to homelessness for many (for example: undocumented) people, it also often has a political and activist dimension. In their eponymous book[^502] published in 2019 by Het Nieuwe Instituut in Rotterdam, the collective *Architectures of Appropriation* conceptualizes squatting here (and in the Netherlands specifically) not only as a social movement and historical phenomenon but as a kind of *spatial activism*. According to them, over the last 50 years, the unscripted and collective spatial tactics that squatters employ to transform the spaces they inhabit have significantly shaped Dutch cities and left behind a spatial heritage that speaks of the ephemeral and precarious nature of squats, and the desire to put the right to *live* above the right to own property.
+In the global north, squatting is mostly residential, meaning that it involves the occupation of vacant buildings in the city. While it's a response to the various inequalities in housing here, and as a tactic still presents the only alternative to homelessness for many (for example: undocumented) people, it also often has an activist dimension. In their eponymous 2019 book[^502], the collective *Architectures of Appropriation* conceptualizes squatting here (and in the Netherlands specifically) not only as a social movement and historical phenomenon but as a kind of *spatial activism*. 
 
 In the Netherlands, squatting developed into a politically motivated movement after World War 2 but it wasn't until 1971 that squatters acquired legal protection. That year a court ruled that if squatters could prove that they had established so called *house peace (huisvrede)* they would enjoy the same legal protection in their homes as everyone else, meaning they could not just be evicted by the police without the ruling of a judge. After that, squatting became institutionalized: by 1980 there were weekly squatting information hours (*Kraakspreekuuren*) in every Dutch city, where squatters would give free advice to whoever was interested, and the action itself was protocolized in the form of freely available manuals down to the last detail, including the interaction with the authorities and police. Architectures of Appropriation argue that already back then, the squatting movement had a decidedly *open source* character.
 
-Despite the raging housing crisis here, which has only become worse since then, in 2010, squatting became a criminal offense in the Netherlands. In the first 2 years after that more than 330 squats were evicted in Amsterdam alone[^503]. In its prime, this network of squatted places amounted to a parallel society of sorts, consisting not only of alternative housing projects but (sub)cultural venues, food distribution centers, peoples' kitchens, legal support, media outlets and medical services[^504]. This aspect of embedding yourself in a *network*, of cutting with old dependencies in favor of new ones, is central to the act of squatting on many levels—whether it's the internal network of the occupants, a local network with the surrounding neighbors, a regional network with the rest of the scene in the squat's vicinity, or an international network of political squatters around the world.
+Around the time that people grew disillusioned with the internet, in 2010, squatting became a criminal offense in the Netherlands, despite the raging housing crisis, which has only worsened since then[^5a]. Until 2012 more than 330 squats were evicted in Amsterdam alone[^503]. In its prime, this network of squatted places had amounted to a parallel society of sorts[^504]. This aspect of embedding yourself in a *network* is a central aspect of political squatting—whether it's the internal network of the occupants, a local network with the neighbors, a regional network with the local scene, or an international network of political squatters around the world.
 
 One way this *networkedness* might be epitomized is in the convention to name a newly squatted building after the address where it is located. By doing this, the squatters embed themselves into the broader (social) context of the city, as well as into the network of other squats there, while being simultaneously site specific and location independent: if they get evicted, the collective can squat another place next week, and the place will have a different address and a different name. Its identity will simultaneously be the same and completely different, similar to the way a computer gets assigned a new IP address in a network.
 
-The connections between these nodes in a network are not simply abstract but can and have been diagrammatically mapped out as with an emergency list of the former Amsterdam squat Plantage Dok[^505]. In a time before cellphones, this flowchart, composed on a typewriter and distributed through copying machines, mapped out how, in case of an emergency such as violent groups attacking one of the squats, the different nodes in the immediate network of Plantage Dok should be contacted for support, in which order, by who, and by what means (by *fiets*, meaning by bike, or by *bellen*, meaning through the phone).
-
-This network diagram does not include a cloud, an unknown factor beyond its control. If a cloud were to be included in this schematic, it would present exactly the raid by the police or the violent group of attackers sent by the landlord that it was created to protect its members from in the first place. Instead of a network that is concerned with things like scalability, it operates on different principles. It is in its essence a network of solidarity.
+The connections between these nodes in a network are not simply abstract but can and have been diagrammatically mapped out as with an emergency list of the former Amsterdam squat Plantage Dok[^505]. This network diagram does not include a cloud, an unknown factor beyond its control. If a cloud were to be included in this schematic, it would present exactly the raid by the police or the violent group of attackers sent by the landlord that it was created to protect its members from in the first place. Instead of a network that is concerned with things like scalability, it operates on different principles. It is in its essence a network of solidarity.
 
 ```mermaid
 graph TD;
@@ -201,13 +199,69 @@ fig. 5.1 Alarmlijst Artis expressed in a mermaid.js script
 
 [^501]: https://unhabitat.org/sites/default/files/download-manager-files/The%20Challenge%20of%20Slums%20-%20Global%20Report%20on%20Human%20Settlements%202003.pdf
 [^502]: https://architecture-appropriation.hetnieuweinstituut.nl/en/publication
+[^5a]: Between 2010 and 2020, the average rent price per square meter in Amsterdam increased by around 50%: https://www.statista.com/statistics/612227/average-rent-in-four-largest-cities-in-the-netherlands-by-city/
 [^503]: https://web.archive.org/web/20190830180133/https://www.rd.nl/amsterdam-ontruimt-330-panden-sinds-kraakwet-1.259316
-[^504]: same Architectures of Appropriation book
-[^505]: same Architectures of Appropriation book
+[^504]: Architectures of Appropriation list alternative housing projects, (sub)cultural venues, food distribution centers, peoples' kitchens, legal support, media outlets and medical services as nodes in this network.
+[^505]: In a time before cellphones, this flowchart, composed on a typewriter and distributed through copying machines, mapped out how, in case of an emergency such as violent groups attacking one of the squats, the different nodes in the immediate network of Plantage Dok should be contacted for support, in which order, by who, and by what means (by *fiets*, meaning by bike, or by *bellen*, meaning by phone). Taken from Architectures of Appropriation book
 
 
 
-## 6 A Night at Hotel Mokum
+## 6 Hotel Mokum
+
+```mermaid
+flowchart LR;
+		1[(Joes Garage)];
+		2[(Bowling)];
+		3[(Kinderen van Mokum)];
+		4[(Villa Ivivke)];
+		5[(Hotel Mokum)];
+		
+    A[angry individuals];
+    B([meetings]);
+    C[action group];
+    
+    subgraph planning;
+    		A-->B-->C;
+    end;
+    1-- facilitated -->planning;
+    2-- facilitated -->planning;
+    
+    D[action group];
+    E([squats]);
+    F[Hotel Marnix];
+    
+    subgraph action;
+    		D-->E-->F;
+    end;
+    action --> 5;
+    1-- advised -->action;
+    2-- supplied materials -->action;
+    
+    G[abandoned building];
+    H([renovation]);
+    I[public events];
+    
+    subgraph occupation;
+    		G-->H-->I;
+    end;
+    3-- plumbing, floors -->occupation;
+    4-- electricity -->occupation;
+    
+    J[municipality]
+    K([evicts])
+    L[angry individuals]
+    
+    subgraph eviction
+    		J-->K-->L
+    end
+    1 & 2 & 3 --> eviction
+    
+    planning-->action;
+    action-->occupation;
+    occupation-->eviction;
+```
+
+fig. 6.1: Angry Individuals becoming angry individuals. The story of Hotel Mokum, in mermaid.js
 
 Many of us struggled with the pressure, the excitement, the exhaustion, the uncertainty, the lack of structure, impostor syndrome. The let-down effect was real, immediately after the action a number of people got sick. Most of us had stopped exercising, ate unhealthy, couldn't keep up with simple household tasks. Someone said their home had started to look like a squat while our squat had slowly started to look like a home. At the same time, most of us experienced difficulties to leave, to go home, and felt guilty when we missed just a day or two.
 
@@ -234,9 +288,77 @@ fig 6.1: A former meme
 
 
 
+## 7: Trespassing, an afterword
+
+There are many contact points where the augmented relationship between the network and the city (the *augmenter* and the *augmentee*, if you will) become explicit, at least some of them in Amsterdam. By 1993, internet access here was still limited to a small number of households, but in 1994 Marleen Stikker, founder of Waag Society, started De Digitaale Stad (The Digital City)[^701], a freenet[^702], and for many in Amsterdam the first opportunity to access the internet. Aptly named, the digital city used the metaphor of the city to as a mode of navigation. To send emails you would have to go to the post office, for public discussions you would visit the cafe. While the interface was text-based initially, many parts were later illustrated.
+
+Today, in Europe's largest data center hub[^703], the conflation of the digital and spatial is maybe most apparent in the example of Airbnb. Arguably, Amsterdam is one of the cities in Europe that has suffered the most from Airbnb's business model[^704]. In his 2016 essay Everything *Techno-Feudalism and The Tragedy of The Commons*, William Kherbek explains this process[^705]: 
+
+1. People rent out surplus vacant spaces on Airbnb
+2. The more places are rented out through Airbnb, the less there are on the traditional housing market, leading to a rise in rent
+3. The extra income from Airbnb lets the hosts keep up with rising costs while wages stagnate
+4. There is now financial pressure to participate in the Airbnb model in order to survive
+
+Kherbek argues that, while processes like this one are often explained as platform capitalism, the situation is actually closer to feudalism than to capitalism: Big tech companies exploit the labor and data of the serfs (us) who are powerless to stop them, they don't pay taxes while democratic structures to oppose them have been eroded in all but in name. The data that is enclosed in the walled garden of the cloud is the pasture from the tragedy of the commons[^706]. The few own the property that the many have to exist on.
+
+To end with a Flusser quote:
+
+
+
+
+
+question: what is private property, when it's data, what are the commons?
+
+
+
+
+
+
+
+According to Architectures of Apropriation, over the last 50 years, the unscripted and collective spatial tactics that squatters employ to transform the spaces they inhabit have significantly shaped Dutch cities and left behind a spatial heritage that speaks of the ephemeral and precarious nature of squats, and the desire to put the right to *live* above the right to own property.
+
+The result as an *aesthetic* of squatting, because of the urgency of the situation. Squats always end. are nomadic, because they have to move from place to place. changing a little bit every time. ACcording to Vilem Flusser, since the digital and physical have merged, we cannot differentiate between public and private anymore, our houses have holes, we are all nomads
+
+
+
+```mermaid
+graph TD;
+		A[/no place to be\];
+		B[(squat)];
+		C[\no longer a squat/];
+    A-- squatting -->B;
+    B-- eviction -->A;
+    B-- legalization -->C;
+```
+
+fig. 7.1 All good things come to an end
+
+James Bridle asks if we should know how plumbing works to use the toilet? Silvio asks a similar question. If you squat you do learn how plumbing works.
+
+Are you a user? only tech and drug use that word?
+
+do you have read and write privileges?
+
+are yo a hacker, a non-user? Do you refuse? (Silvio, Jenny Odell)!
+
+are you a tourist, a resident, an expat, an immigrant?
+
+
+
+
+
+[^701]: Interestingly, DDS preceded even Geocities by a few months.
+[^702]: What is a freenet, you ask? I still need to write this footnote.
+[^703]: Already back in 2019, the (potentially biased) Dutch Data Center Association called the Netherlands the leader in data centers in Europe, see: https://www.dutchdatacenters.nl/en/nieuws/dutchdatacenters2019-2/
+[^704]: It's hard to find exact numbers on this. However, there are some things I can say about this, but I have to still write this footnote.
+[^705]: http://staging.berlinartprize.com/essay-william-kherbek/
+[^706]: Explain the tragedy of the commons
+
+
+
 ## Appendix: Unordered List of Reasons to Refuse *the Cloud*
 
-- Workers in the global south are being exploited and our devices are assembled by modern slaves.[^AP01]
+- Workers in the global south are being exploited and our devices are assembled by modern slaves. The only ethical hardware is reused hardware[^AP01].
 - Rare earths such as Lithium are extracted from indigenous lands without their consent and with unaccounted for consequences for the environment.[^AP02]
 - E-Waste is polluting the planet and is being dumped in landfills without regulations in the global south, poisoning both the lands and the people.[^AP03]
 - Tech companies and governments by extension are constantly spying on us. The right to privacy is being eroded and the surveillance state is being facilitated.[^AP04]

@@ -13,9 +13,9 @@ sequenceDiagram
 # impermanence
 ```mermaid
 graph TD;
-		A[/homeless\];
+		A[/no place to be\];
 		B[(squat)];
-		C[\former squat/];
+		C[\no longer a squat/];
     A-- squatting -->B;
     B-- eviction -->A;
     B-- legalization -->C;
