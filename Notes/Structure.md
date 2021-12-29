@@ -53,7 +53,6 @@
   - maybe sometimes i could use them to explain, rather than just a link
 - want to try who would win as a kind of index
   - cross references!
-  - also need to restructure this part/go through it again
 - images
   - squatting sign probably
   - how to show a network diagram with cloud?
@@ -69,6 +68,8 @@
     - but also self hosting, wifi dish, encrypted server
     - potentially mesh networks
   - ==airbnb is the mix of tech, or the cloud, and housing==
+  - but it goes the other way around, too: tech is penetrating our houses, the two issues are no longer separate
+    - smart homes, but also just internet cables, devices
 - Refusal
   - Jenny Odell, the third space!
   - Silvio says becoming a non-user can be more powerful than a hacker
@@ -88,6 +89,7 @@
       - this alone already relates to squatting
     - squatting is always precarious, always ad-hoc, at the same time dependent on location and independent from it. always nomadic
     - every squat ends!
+    - everyone is talking about digital nomads, but flusser argues we already are nomads, have always been, and everything is digital
   - clarify: it's not about being separate from the city, necessarily, but being so much at home in it that your house is all over
 - Reusing what is there
   - **the server than ada built compared to a linux cyberdeck**

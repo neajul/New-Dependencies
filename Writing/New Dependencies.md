@@ -17,10 +17,10 @@ fig AB.1: A Thundercloud, a mix of a cloud icon and the international squatting 
 
 |                        self hosting                        |                         squatting                          |
 | :--------------------------------------------------------: | :--------------------------------------------------------: |
-|           refusing imposed policies (privacy) ✅            |           refusing imposed policies (housing) ✅            |
-|           don't pay rent (software as service) ✅           |               don't pay rent (actual rent) ✅               |
+|               refusing (privacy) policies ✅                |               refusing (housing) policies ✅                |
 |               hosting and serving (files) ✅                |               hosting and serving (people) ✅               |
 |                 programming (computers) ✅                  |                   programming (events) ✅                   |
+|           don't pay rent (software as service) ✅           |               don't pay rent (actual rent) ✅               |
 |           community building (who is invited?) ✅           |           community building (who is invited?) ✅           |
 |                  security (encryption) ✅                   |                  security (barricades) ✅                   |
 |                   constant maintenance ✅                   |                   constant maintenance ✅                   |
@@ -30,13 +30,11 @@ fig AB.1: A Thundercloud, a mix of a cloud icon and the international squatting 
 |                  open source principles ✅                  |                  open source principles ✅                  |
 |             following manuals and protocols ✅              |             following manuals and protocols ✅              |
 | improvised structures & unconventional design strategies ✅ | improvised structures & unconventional design strategies ✅ |
-|                  ephemeral & precarious ✅                  |                  ephemeral & precarious ✅                  |
 |           disaster always imminent: data loss ✅            |            disaster always imminent: eviction ✅            |
-|                        nostalgia ✅                         |                        nostalgia ✅                         |
 |           Everything went downhill from ~2010 ✅            |           Everything went downhill from ~2010 ✅            |
+|                        nostalgia ✅                         |                        nostalgia ✅                         |
 |         nomadic in nature: changing ip addresses ✅         |          nomadic in nature: changing addresses ✅           |
 |             situating yourself in a network ✅              |             situating yourself in a network ✅              |
-|                     new dependencies ✅                     |                     new dependencies ✅                     |
 |          de-appropriating someone else's space ❌           |          de-appropriating someone else's space ✅           |
 
 fig 0.1: A lot of words in tech are similar to word used IRL
@@ -77,7 +75,7 @@ Polly (and probably Mandel) wanted to evoke the fun, but also the skill required
 
 <img src="image-20211219191510295.png" alt="image-20211219191510295" style="zoom:50%;" />
 
-fig. 2.1: At least not today, those times are over. 1994 Advertising by Honda in an [outdoor magazine](https://books.google.nl/books?id=dc5rdg49tpUC&pg=PA83&lpg=PA83&dq=honda+%22spend+your+whole+life+on+the+information+superhighway%22&ots=8XaK4b9KBv&sig=ACfU3U1K-xQfXarY8aAC2thkeGYZ-MyFug&hl=en#v=onepage&q&f=false)
+fig. 2.1: Those times are over, the internet is no longer a supehighway. 1994 Advertising by Honda in an [outdoor magazine](https://books.google.nl/books?id=dc5rdg49tpUC&pg=PA83&lpg=PA83&dq=honda+%22spend+your+whole+life+on+the+information+superhighway%22&ots=8XaK4b9KBv&sig=ACfU3U1K-xQfXarY8aAC2thkeGYZ-MyFug&hl=en#v=onepage&q&f=false)
 
 
 
