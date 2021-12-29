@@ -63,34 +63,35 @@ In 2019, web designer Becca Abbe sensed the dawn of what she called *the interne
 
 ## 2 Surfing the Web
 
-Before the cloud was a cloud it was an ocean. In 1986, when the internet wasn't commercially available yet, it was mostly being used by scientists and governments. That year, in the Netherlands, Hans Rosenberg from Utrecht University founded the non-profit *SURF* (Samenwerkende Universitaire Reken Faciliteiten, *Co-operative University Computing Facilities*), which ran *SURFnet*, a computer network linking different academic institutions. *SURFnet* still exists today, and, among other things, founded and operates *eduroam*, an authentication infrastructure letting users in higher education facilities use wifi, which many readers might be familiar with.
+Before the cloud was a cloud it was an ocean, and oceans can be surfed. In 1986, when the internet wasn't commercially available yet, it was mostly being used by scientists and governments. That year, in the Netherlands, Hans Rosenberg from Utrecht University founded the non-profit organization *SURF*[^201], which ran *SURFnet*, a computer network linking different academic institutions[^202]. A few years later, in 1989, and in direct proximity to the ocean, Susan Estrada of the San Diego Supercomputer Center founded one of the first internet service providers (ISP) in the world, and, since *SURFnet* was taken, settled on the name *CERFnet*[^203].
 
-A few years later, in 1989, and in direct proximity to the ocean, Susan Estrada of the San Diego Supercomputer Center founded one of the first internet service providers (ISP) in the world. San Diego being a surfer's paradise, she originally wanted to call it SURFnet, but since that name was already taken, she settled for CERFnet, an abbreviation for *California Education and Research Federation Network*, and a reference to Vint Cerf, one of the inventors of the TCP/IP protocol, so-called fathers of the internet and today Chief Internet Evangelist at Google.
+In 1991, CERFnet released a promotional comic book, *The Adventures of Captain Internet And CERF Boy*. Filled to the brim with rad crossword puzzles and bad puns, it recounts the story of Diana Domain, her surf board slinging alter ego Captain Internet and her side kick CERFboy, fighting against their nemesis Count Crackula[^204]. Unaware of all of this, just a year later, librarian Jean "netmom" Armour Polly published an article called *Surfing the Internet*[^205] on the University of Minnesota Wilson Library Bulletin and shortly after that, Tom Mandel of Stanford Research Institute (SRI) wrote another one called *Surfing the Wild Internet*[^206].
 
-In 1991, CERFnet released a promotional comic book, *The Adventures of Captain Internet And CERF Boy*[^201]. Filled to the brim with rad crossword puzzles and bad puns, it recounts the story of Diana Domain, her surf board slinging alter ego Captain Internet and her side kick CERFboy, fighting against their nemesis Count Crackula.
+What all these examples have in common is that they evoke the fun, but also the skill required to, well, surf the web, and the randomness, chaos, and even danger that the web itself presented[^207]. Using the internet was a sport, something you did for fun, and temporarily, before hanging up your wet suit and returning to real life. Especially back then, when interfaces were less smooth, people less sad[^208] and personal computers were just beginning to become a thing, it perfectly captured this new, mysterious and seemingly bottomless place that was the internet[^209] (other exhausted geographic metaphors include cyberspace, the electronic frontier and the information superhighway).
 
-Unaware of this, just a year later, librarian Jean Armour Polly published an article called *Surfing the Internet* on the University of Minnesota Wilson Library Bulletin and shortly after that, Tom Mandel of Stanford Research Institute (SRI) wrote another one called *Surfing the Wild Internet*.
+Today nobody *surfs* anymore (the ocean has evaporated into the cloud, you could say). But, despite the immiscibility of water and technology, the image of the internet as a vast ocean, free from the constraints of the aground, physical world, an ocean that just has to navigated by a skilled steersman[^210] with an appropriate vessel[^211], lingers as residue if you know where to look; In the ports and berths that we use to connect our computers to the internet, torrent sites[^212], app icons of browsers[^213] or the names of NFT marketplaces.[^214] The Network is eternal[^215], and so is the ocean.
 
-Polly (and probably Mandel) wanted to evoke the fun, but also the skill required to, well, surf the web, and the randomness, chaos, and even danger that the web itself presented [^202]. Using the internet became a sport, something you did for fun, and temporarily, before hanging up your wet suit and doing something else. Computers are complicated and especially back then, when interfaces were less smooth, people less sad[^203] and personal computers were just beginning to become a thing, it perfectly captured this new, mysterious and seemingly bottomless place that was the internet[^204] (other exhausted geographic metaphors include cyberspace, the electronic frontier and the information highway).
+
 
 <img src="image-20211219191510295.png" alt="image-20211219191510295" style="zoom:50%;" />
 
-fig. 2.1: Those times are over, the internet is no longer a supehighway. 1994 Advertising by Honda in an [outdoor magazine](https://books.google.nl/books?id=dc5rdg49tpUC&pg=PA83&lpg=PA83&dq=honda+%22spend+your+whole+life+on+the+information+superhighway%22&ots=8XaK4b9KBv&sig=ACfU3U1K-xQfXarY8aAC2thkeGYZ-MyFug&hl=en#v=onepage&q&f=false)
+fig. 2.1: Those times are over, the internet is no longer an ocean or a superhighway. 1994 Advertising by Honda in an [outdoor magazine](https://books.google.nl/books?id=dc5rdg49tpUC&pg=PA83&lpg=PA83&dq=honda+%22spend+your+whole+life+on+the+information+superhighway%22&ots=8XaK4b9KBv&sig=ACfU3U1K-xQfXarY8aAC2thkeGYZ-MyFug&hl=en#v=onepage&q&f=false)
 
-
-
-Today nobody *surfs* anymore (the ocean has evaporated into the cloud, you could say). But, despite the immiscibility of water and technology, the image of the internet as a vast ocean, free from the constraints of the aground, physical world, an ocean that just has to navigated by a skilled steersman[^205] with an appropriate vessel[^206], lingers as residue if you know where to look; In the ports and berths that we use to connect our computers to the internet, torrent sites[^207], app icons of browsers[^208] or the names of NFT marketplaces.[^209] The Network is eternal[^210], and so is the ocean.
-
-[^201]: https://archive.org/details/CaptainInternetAndCERFBoyNumber1October1991/mode/2up
-[^202]: https://www.surfertoday.com/surfing/the-woman-who-coined-the-expression-surfing-the-internet/amp
-[^203]: still need to link to User—Agent thesis
-[^204]: https://www.thehairpin.com/2011/02/people-literally-surfing-the-web/
-[^205]: The word *cybernetics* originally developed from the word *steersman*
-[^206]: https://en.wikipedia.org/wiki/Netscape_Navigator
-[^207]: Pirate Bay
-[^208]: Safari
-[^209]: Opensea.io
-[^210]: https://archive.transmediale.de/content/the-eternal-network-1
+[^201]: Samenwerkende Universitaire Reken Faciliteiten, *Co-operative University Computing Facilities*
+[^202]: *SURFnet* still exists today, and, among other things, founded and operates *eduroam*, an authentication infrastructure letting users in higher education facilities use wifi, which many readers might be familiar with.
+[^203]: San Diego being a surfer's paradise, Estrada originally wanted to call it SURFnet, but since the name wasn't available, she settled for CERFnet, an abbreviation for *California Education and Research Federation Network*, and a reference to Vint Cerf, one of the inventors of the TCP/IP protocol, so-called fathers of the internet and today Chief Internet Evangelist at Google.
+[^204]: https://archive.org/details/CaptainInternetAndCERFBoyNumber1October1991/mode/2up
+[^205]: https://www.netmom.com/images/pdf/Surfing_the_Internet_2_02.pdf
+[^206]: https://preterhuman.net/docs/SURFING_THE_WILD_INTERNET
+[^207]: In a beautiful rounding off of events, the surfing magazine *Surfer Today* published an article about the history of the term surfing the web in which they quote Polly on her intentions when using the term for the first time: https://www.surfertoday.com/surfing/the-woman-who-coined-the-expression-surfing-the-internet/amp
+[^208]: Anastasia Kubrak, *User-Agent: If everything is so smooth, why am I so sad?*, 2018
+[^209]: Arguably it helped that the terms was so visual, which gave way to an endless sea of illustrations of people literally surfing on their peripherals, see: https://www.thehairpin.com/2011/02/people-literally-surfing-the-web/
+[^210]: The word *cybernetics* originally developed from the word *steersman*, see: https://www.etymonline.com/word/cybernetics
+[^211]: See: Netscape Navigator
+[^212]: See: Pirate Bay
+[^213]: See: Safari
+[^214]: See: Opensea.io
+[^215]: Sea: Transmediale, https://archive.transmediale.de/content/the-eternal-network-1
 
 
 
