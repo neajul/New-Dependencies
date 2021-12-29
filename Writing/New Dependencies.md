@@ -15,31 +15,31 @@ fig AB.1: A Thundercloud, a mix of a cloud icon and the international squatting 
 
 ## 0 Who would Win?
 
-|                         self hosting                         |                          squatting                           |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-|            refusing imposed policies (privacy) ✅             |            refusing imposed policies (housing) ✅             |
-|                    resist cloud control ✅                    |                    resist crowd control ✅                    |
-|                    constant maintenance ✅                    |                    constant maintenance ✅                    |
-|                      new dependencies ✅                      |                      new dependencies ✅                      |
-|  improvised structures & unconventional design strategies ✅  |  improvised structures & unconventional design strategies ✅  |
-|               using existing infrastructures ✅               |               using existing infrastructures ✅               |
-|                  recycling (old hardware) ✅                  |                  recycling (old houses)  ✅                   |
-| ephemeral & precarious, disaster always imminent: data loss ✅ | ephemeral & precarious, disaster always imminent: eviction ✅ |
-|            community building (who is invited?) ✅            |            community building (who is invited?) ✅            |
-|                   open source principles ✅                   |                   open source principles ✅                   |
-|            my grandmother doesn't understand it ✅            |            my grandmother doesn't understand it ✅            |
-|                         nostalgia ✅                          |                         nostalgia ✅                          |
-|              situating yourself in a network ✅               |              situating yourself in a network ✅               |
-| nomadic in nature: having to change ip addresses sometimes ✅ |  nomadic in nature: having to change addresses sometimes ✅   |
-|              following manuals and protocols ✅               |              following manuals and protocols ✅               |
-|                  programming (computers) ✅                   |                    programming (events) ✅                    |
-|                hosting and serving (files) ✅                 |                hosting and serving (people) ✅                |
-|            don't pay rent (software as service) ✅            |                don't pay rent (actual rent) ✅                |
-|                   security (encryption) ✅                    |                   security (barricades) ✅                    |
-|            Everything went downhill from ~2010 ✅             |            Everything went downhill from ~2010 ✅             |
-|           de-appropriating someone else's space ❌            |           de-appropriating someone else's space ✅            |
+|                        self hosting                        |                         squatting                          |
+| :--------------------------------------------------------: | :--------------------------------------------------------: |
+|           refusing imposed policies (privacy) ✅            |           refusing imposed policies (housing) ✅            |
+|           don't pay rent (software as service) ✅           |               don't pay rent (actual rent) ✅               |
+|               hosting and serving (files) ✅                |               hosting and serving (people) ✅               |
+|                 programming (computers) ✅                  |                   programming (events) ✅                   |
+|           community building (who is invited?) ✅           |           community building (who is invited?) ✅           |
+|                  security (encryption) ✅                   |                  security (barricades) ✅                   |
+|                   constant maintenance ✅                   |                   constant maintenance ✅                   |
+|                   resist cloud control ✅                   |                   resist crowd control ✅                   |
+|              using existing infrastructures ✅              |              using existing infrastructures ✅              |
+|                 recycling (old hardware) ✅                 |      recycling (old houses and building materials)  ✅      |
+|                  open source principles ✅                  |                  open source principles ✅                  |
+|             following manuals and protocols ✅              |             following manuals and protocols ✅              |
+| improvised structures & unconventional design strategies ✅ | improvised structures & unconventional design strategies ✅ |
+|                  ephemeral & precarious ✅                  |                  ephemeral & precarious ✅                  |
+|           disaster always imminent: data loss ✅            |            disaster always imminent: eviction ✅            |
+|                        nostalgia ✅                         |                        nostalgia ✅                         |
+|           Everything went downhill from ~2010 ✅            |           Everything went downhill from ~2010 ✅            |
+|         nomadic in nature: changing ip addresses ✅         |          nomadic in nature: changing addresses ✅           |
+|             situating yourself in a network ✅              |             situating yourself in a network ✅              |
+|                     new dependencies ✅                     |                     new dependencies ✅                     |
+|          de-appropriating someone else's space ❌           |          de-appropriating someone else's space ✅           |
 
-fig 0.1: A lot of words in tech are similar to word used to describe physical space
+fig 0.1: A lot of words in tech are similar to word used IRL
 
 
 
