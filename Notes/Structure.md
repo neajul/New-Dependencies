@@ -32,30 +32,22 @@
 
 # Things that need to change
 
-- The Pirate meme!
-  - also flavia says that i need to rethink the "collapse" sentence
+-  flavia says that i need to rethink the "collapse" sentence
   - *community building*
-- The ending is too short
-  - where does private property intersect with the cloud?
-  - is the network still a network?
-  - daniel loick, the private property guy!
-  - i also think it would be nice to mention the psychokinesis guy again
-    - something also about the network without clouds
-- shorten heavily by putting in footnotes
+- **shorten heavily by putting in footnotes**
   - especially part 3!!
 
-- need to work over the reasons to refuse list.
+- **need to work over the reasons to refuse list.**
   - does everything fit there?
   - for example the suicide part. I think it makes sense because it happened in the transition from network to cloud, but then this has to be more explicit
   - footnotes!
 - footnotes in general
   - maybe sometimes i could use them to explain, rather than just a link
-- want to try who would win as a kind of index
+- **want to try who would win as a kind of index**
   - cross references!
 - images
   - squatting sign probably
   - how to show a network diagram with cloud?
-  - put in the coded diagrams i made!
 
 # Things that are Missing
 

@@ -131,7 +131,7 @@ If Cyberspace was the indefinite space between the nodes, that magical place tha
 
 <img src="image-20211220173931006.png" alt="image-20211220173931006" style="zoom:25%;" />
 
-fig 4.1: A group of people negotiating physical space, 2021 (Photo by Sammy xxx)
+fig 4.1: A group of people negotiating physical space, 2021 (Photo by Sammy Iason)
 
 
 
@@ -143,7 +143,7 @@ fig 4.1: A group of people negotiating physical space, 2021 (Photo by Sammy xxx)
 [^406]: energy usage of the internet
 [^407]: https://www.theguardian.com/world/2011/apr/06/georgian-woman-cuts-web-access
 [^408]: https://www.are.na/blog/reimagining-the-internet
-[^409]: Silvio Lorusso, need proper citation here
+[^409]: The artist and design theorist Silvio Lorusso argues something similar in his text *The User Condition: Computer Agency and Behavior*, where he quotes Joanne McNeil: *"As smartphones blurred organizational boundaries of online and offline  worlds, spatial metaphors lost favor. How could we talk about the  internet as a place when we’re checking it on the go, with mobile  hardware offering turn-by-turn directions form a car cup holder or  stuffed in a jacket pocket?"*, see: https://theusercondition.computer/
 [^410]: User—Agent thesis
 
 
@@ -279,7 +279,7 @@ One by one we assured each other, complimented each other on *good shares*. It w
 
 <img src="BahNe0RwgNt3UuDq65bLq0jNJ0n7w1lEerdHdVNG6bU.jpg" alt="Pirate Friendships (x-post r/me_irl) : r/wholesomememes" style="zoom: 50%;" />
 
-fig 6.1: A former meme
+fig 6.2: A former meme
 
 
 
@@ -290,36 +290,22 @@ fig 6.1: A former meme
 
 ## 7: Trespassing, an afterword
 
-There are many contact points where the augmented relationship between the network and the city (the *augmenter* and the *augmentee*, if you will) become explicit, at least some of them in Amsterdam. By 1993, internet access here was still limited to a small number of households, but in 1994 Marleen Stikker, founder of Waag Society, started De Digitaale Stad (The Digital City)[^701], a freenet[^702], and for many in Amsterdam the first opportunity to access the internet. Aptly named, the digital city used the metaphor of the city to as a mode of navigation. To send emails you would have to go to the post office, for public discussions you would visit the cafe. While the interface was text-based initially, many parts were later illustrated.
+There are few contact points where the augmented nature of the virtual becomes as explicit as in the city, and Amsterdam serves as a good example. By 1993, internet access here was still limited to a small number of households, but in 1994 Marleen Stikker, founder of Waag Society, started De Digitaale Stad (The Digital City)[^701], a freenet[^702]. For many Amsterdammers this was the first opportunity to access the internet. Aptly named, the digital city still used the *metaphor* of the city to as a mode of navigation. To send emails you would have to go to the post office, for public discussions you would visit the cafe. While the interface was text-based initially, many parts were later illustrated.
 
-Today, in Europe's largest data center hub[^703], the conflation of the digital and spatial is maybe most apparent in the example of Airbnb. Arguably, Amsterdam is one of the cities in Europe that has suffered the most from Airbnb's business model[^704]. In his 2016 essay Everything *Techno-Feudalism and The Tragedy of The Commons*, William Kherbek explains this process[^705]: 
+Today, in Europe's largest data center hub[^703], the relationship between the digital and the spatial (the *augmenter* and the *augmentee*, if you will) has fundamentally shifted. Their conflation is maybe most apparent in the example of Airbnb. Arguably, Amsterdam is one of the cities in Europe that has suffered the most from Airbnb's business model[^704]. In his 2016 essay Everything *Techno-Feudalism and The Tragedy of The Commons*, William Kherbek explains this process[^705]: 
 
-1. People rent out surplus vacant spaces on Airbnb
-2. The more places are rented out through Airbnb, the less there are on the traditional housing market, leading to a rise in rent
-3. The extra income from Airbnb lets the hosts keep up with rising costs while wages stagnate
-4. There is now financial pressure to participate in the Airbnb model in order to survive
+1. People rent out surplus rooms and apartments on Airbnb.
+2. As there is usually more money to be made on Airbnb than with traditional rental agreements, more and more places are offered on the platform, leading to a decrease in available traditional housing and an increase in rent as supply shortens.
+3. The extra income from Airbnb lets the hosts keep up with rising costs of living (for example: rent) as wages continue to stagnate.
+4. This leads to pressure on people to participate in the secondary housing market (Airbnb) in order to keep up and survive.
 
-Kherbek argues that, while processes like this one are often explained as platform capitalism, the situation is actually closer to feudalism than to capitalism: Big tech companies exploit the labor and data of the serfs (us) who are powerless to stop them, they don't pay taxes while democratic structures to oppose them have been eroded in all but in name. The data that is enclosed in the walled garden of the cloud is the pasture from the tragedy of the commons[^706]. The few own the property that the many have to exist on.
+Kherbek argues that, while this process is usually called platform capitalism, the situation is actually closer to feudalism than to capitalism (even if capitalism is the result): Big tech companies (the lords) generate wealth from their users (the serfs) as they exploit their labor and data. The users find themselves in a state of inverted totalitarianism[^706], where the democratic structures supposed to give them *agency* have been reduced to formalities. The few own the property the many have to live on and the data enclosed in the walled garden of the cloud is the pasture from the tragedy of the commons[^707].
 
-To end with a Flusser quote:
+In a similar vain, Silvio Lorusso argues that the logic of labor also applies to the digital[^708] and that there are no class-less computers: there are coders[^709] and there are users[^710] (augmenters and augmentees). In the resulting discussion about (computer) literacy, Lorusso quotes Paul Graham, who states that ordinary users shouldn't even [have to] know what drivers or patches are. In *The New Dark Age*, James Bridle claims we shouldn't need to know how to use a computer, after all we don't need to understand plumbing to use the toilet[^711].
 
+When we squatted Hotel Mokum, we didn't know anything[^712] about plumbing, which was a problem because the building didn't have a toilet (or running water). A lot of the more experienced squatters, it turns out, do know about plumbing however, as it's a frequently occurring issue, and within a few days they had helped us build one. Architectures of Appropriation argue that these unscripted and collective ad-hoc spatial tactics used by squatters to transform the spaces they inhabit have significantly shaped Dutch cities and have left behind a spatial heritage that still speaks of the desire to put the right to *live* above the right to own (private) property[^713].
 
-
-
-
-question: what is private property, when it's data, what are the commons?
-
-
-
-
-
-
-
-According to Architectures of Apropriation, over the last 50 years, the unscripted and collective spatial tactics that squatters employ to transform the spaces they inhabit have significantly shaped Dutch cities and left behind a spatial heritage that speaks of the ephemeral and precarious nature of squats, and the desire to put the right to *live* above the right to own property.
-
-The result as an *aesthetic* of squatting, because of the urgency of the situation. Squats always end. are nomadic, because they have to move from place to place. changing a little bit every time. ACcording to Vilem Flusser, since the digital and physical have merged, we cannot differentiate between public and private anymore, our houses have holes, we are all nomads
-
-
+Lorusso argues that maybe these positions are not even so at odds with each other—it's fine if some people don't know about plumbing, as long as they are not constantly forced to change their behavior by system and driver updates (the toilet metaphor is stretched to a limit at this point). Maybe the question is just whether we are tourists or residents. In the end, locals, immigrants and expats, even nomads can temporarily become residents, with all the neighborly communities that are implied in that.
 
 ```mermaid
 graph TD;
@@ -331,32 +317,25 @@ graph TD;
     B-- legalization -->C;
 ```
 
-fig. 7.1 All good things come to an end
-
-James Bridle asks if we should know how plumbing works to use the toilet? Silvio asks a similar question. If you squat you do learn how plumbing works.
-
-Are you a user? only tech and drug use that word?
-
-do you have read and write privileges?
-
-are yo a hacker, a non-user? Do you refuse? (Silvio, Jenny Odell)!
-
-are you a tourist, a resident, an expat, an immigrant?
-
-
-
-
+fig. 7.1 In the word of Nelly Furtado, All good things come to an end. Thank you to Ada Reinthal for the initial diagram.
 
 [^701]: Interestingly, DDS preceded even Geocities by a few months.
 [^702]: What is a freenet, you ask? I still need to write this footnote.
 [^703]: Already back in 2019, the (potentially biased) Dutch Data Center Association called the Netherlands the leader in data centers in Europe, see: https://www.dutchdatacenters.nl/en/nieuws/dutchdatacenters2019-2/
 [^704]: It's hard to find exact numbers on this. However, there are some things I can say about this, but I have to still write this footnote.
 [^705]: http://staging.berlinartprize.com/essay-william-kherbek/
-[^706]: Explain the tragedy of the commons
+[^706]: Sheldon Wolin, need proper quote
+[^707]: Explain the tragedy of the commons
+[^708]: Silvio Lorusso, the User Condition
+[^709]: The only one more powerful than the coder might be *non-user*, the one who doesn't use computers to begin with (Lorusso evokes the images of big-tech-CEOs that don't let their kids use social media), but as demonstrated in Kherbek's example of Airbnb, refusal takes privilege, in this case the financial capability to waive the extra income.
+[^710]: One can't help but think of the quote attributed to Edward Tufte, that the only industries that call their customers *users* are software companies and drug dealers.
+[^711]: Or, he ads, without our toilet trying to kill us. James Bridle, New Dark Age, 2018
+[^712]: shit
+[^713]: Architectures of Appropriation book
 
 
 
-## Appendix: Unordered List of Reasons to Refuse *the Cloud*
+## Appendix: Unordered List of Reasons to Refuse (squat?) *the Cloud*
 
 - Workers in the global south are being exploited and our devices are assembled by modern slaves. The only ethical hardware is reused hardware[^AP01].
 - Rare earths such as Lithium are extracted from indigenous lands without their consent and with unaccounted for consequences for the environment.[^AP02]
@@ -373,6 +352,10 @@ are you a tourist, a resident, an expat, an immigrant?
 - Even though participation is always voluntary, social pressure to participate, especially on children and teenagers, outweighs any serious form of alternative.[^AP13]
 - Depression among young people is on an all time high, and suicide rates are steadily increasing.[^AP14]
 - In authoritarian countries it's used as a tool to brutally suppress any form of opposition[^AP15]
+
+fig. AP.1: The terms cloud is a bit of a stand-in for everything wrong online in this case
+
+
 
 [^AP01]: (need to still back this up with a footnote)
 [^AP02]: (need to still back this up with a footnote)
