@@ -6,7 +6,7 @@
 
 *Dear Reader,*
 
-*This text is a nomadic journey from the (or: this) abstract to the material. I am trying to establish a lineage between a spatial practice like squatting and a (for lack of a better term) digital practice like self hosting. First, I examine the spatial and geographical metaphors we (have) use(d) to describe the internet, and argue that any understanding of it as a separate, autonomous space is insufficient. I then argue that the need for alternative practices is imminent, and that tactics and sentiments from the squatting movement could be applied to their digital counterparts. As an example, I examine how squats don't function as autonomous spaces per se, but rather as nodes situated in larger contexts and (support) networks, reliant on a new set of dependencies that they define for themselves. I do take for granted a certain understanding of what is wrong with the internet today. You can find a summary of this, a starting point of sorts, in the appendix.*
+*This text is a nomadic journey from the (or: this) abstract to the material. I am trying to establish a lineage between a spatial practice like squatting and a (for lack of a better term) digital practice like self hosting. First, I examine the spatial and geographical metaphors we (have) use(d) to describe the internet, and argue that any understanding of it as a separate, autonomous space is insufficient. I then argue that tactics and sentiments from the squatting movement could be applied to their digital counterparts. As an example, I examine how squats don't function as autonomous spaces per se, but rather as nodes situated in larger contexts and (support) networks, reliant on a new set of dependencies that they define for themselves. I conclude with examples in which the two domains merge, specific to the city of Amsterdam. I do take for granted a certain understanding of what is wrong with the internet today. You can find a summary of this, a starting point of sorts, in the appendix.*
 
 <img src="image-20211129212407097.png" alt="image-20211129212407097" style="zoom: 50%;" />
 fig A.1: A Thundercloud, a mix of a cloud icon and the international squatting sign that resembles lightning strike.
@@ -296,16 +296,16 @@ Today, in Europe's largest data center hub[^703], the relationship between the d
 
 1. People rent out surplus rooms and apartments on Airbnb.
 2. As there is usually more money to be made on Airbnb than with traditional rental agreements, more and more places are offered on the platform, leading to a decrease in available traditional housing and an increase in rent as supply shortens.
-3. The extra income from Airbnb lets the hosts keep up with rising costs of living (for example: rent) as wages continue to stagnate.
+3. The extra income from Airbnb lets the hosts keep up with rising costs of living (for example: rent) as wages continue to stagnate, which ultimately creates a dependency.
 4. This leads to pressure on people to participate in the secondary housing market (Airbnb) in order to keep up and survive.
 
 Kherbek argues that, while this process is usually called platform capitalism, the situation is actually closer to feudalism than to capitalism (even if capitalism is the result): Big tech companies (the lords) generate wealth from their users (the serfs) as they exploit their labor and data. The users find themselves in a state of inverted totalitarianism[^706], where the democratic structures supposed to give them *agency* have been reduced to formalities. The few own the property the many have to live on and the data enclosed in the walled garden of the cloud is the pasture from the tragedy of the commons[^707].
 
-In a similar vain, Silvio Lorusso argues that the logic of labor also applies to the digital[^708] and that there are no class-less computers: there are coders[^709] and there are users[^710] (augmenters and augmentees). In the resulting discussion about (computer) literacy, Lorusso quotes Paul Graham, who states that ordinary users shouldn't even [have to] know what drivers or patches are. In *The New Dark Age*, James Bridle claims we shouldn't need to know how to use a computer, after all we don't need to understand plumbing to use the toilet[^711].
+In a similar vain, Silvio Lorusso argues that the logic of labor also applies to the digital[^708] and that there are no class-less computers: there are coders[^709] and there are users[^710] (augmenters and augmentees). In the resulting discussion about (computer) literacy, Lorusso quotes Paul Graham, who states that ordinary users shouldn't even [have to] know what drivers or patches are. In *The New Dark Age*, the artist and writer James Bridle claims we shouldn't need to know how to code in order to use a computer, after all we don't need to understand plumbing to use the toilet[^711].
 
 When we squatted Hotel Mokum, we didn't know anything[^712] about plumbing, which was a problem because the building didn't have a toilet (or running water). A lot of the more experienced squatters, it turns out, do know about plumbing however, as it's a frequently occurring issue, and within a few days they had helped us build one. Architectures of Appropriation argue that these unscripted and collective ad-hoc spatial tactics used by squatters to transform the spaces they inhabit have significantly shaped Dutch cities and have left behind a spatial heritage that still speaks of the desire to put the right to *live* above the right to own (private) property[^713].
 
-Lorusso argues that maybe these positions are not even so at odds with each other—it's fine if some people don't know about plumbing, as long as they are not constantly forced to change their behavior by system and driver updates (the toilet metaphor is stretched to a limit at this point). Maybe the question is just whether we are tourists or residents. In the end, locals, immigrants and expats, even nomads can temporarily become residents, with all the neighborly communities that are implied in that.
+Lorusso argues that maybe these positions are not even so at odds with each other—it's fine if some people don't know about plumbing, as long as they are not constantly forced to change their behavior by system and driver updates (the toilet metaphor is stretched to a limit at this point). Maybe the question is just whether we are tourists[^714] or residents. In the end, locals, immigrants and expats, even nomads can (temporarily) become residents, and residents have neighbors. Neighbors that can hopefully help them fix their toilets.
 
 ```mermaid
 graph TD;
@@ -328,34 +328,31 @@ fig. 7.1 In the word of Nelly Furtado, All good things come to an end. Thank you
 [^707]: Explain the tragedy of the commons
 [^708]: Silvio Lorusso, the User Condition
 [^709]: The only one more powerful than the coder might be *non-user*, the one who doesn't use computers to begin with (Lorusso evokes the images of big-tech-CEOs that don't let their kids use social media), but as demonstrated in Kherbek's example of Airbnb, refusal takes privilege, in this case the financial capability to waive the extra income.
-[^710]: One can't help but think of the quote attributed to Edward Tufte, that the only industries that call their customers *users* are software companies and drug dealers.
+[^710]: One can't help but think of the quote attributed to Edward Tufte, that the only industries that call their customers *users* are software companies and drug dealers, which is another way to think of dependencies.
 [^711]: Or, he ads, without our toilet trying to kill us. James Bridle, New Dark Age, 2018
 [^712]: shit
-[^713]: Architectures of Appropriation book
+[^713]: This principle of reusing what is there might be something to keep an eye on when talking about electronics. Architectues of Appropriation book
+[^714]: God forbid!
 
 
 
-## Appendix: Unordered List of Reasons to Refuse (squat?) *the Cloud*
+## Appendix: Incomplete and Unordered List of Reasons to Refuse *the Cloud*
 
-- Workers in the global south are being exploited and our devices are assembled by modern slaves. The only ethical hardware is reused hardware[^AP01].
-- Rare earths such as Lithium are extracted from indigenous lands without their consent and with unaccounted for consequences for the environment.[^AP02]
+- Workers in the global south are being exploited and our devices are assembled by modern slaves. Probably the only ethical hardware is second hand.[^AP01]
+- Rare earths such as Lithium are extracted from indigenous lands without their consent and with no accountability for the environment.[^AP02]
 - E-Waste is polluting the planet and is being dumped in landfills without regulations in the global south, poisoning both the lands and the people.[^AP03]
 - Tech companies and governments by extension are constantly spying on us. The right to privacy is being eroded and the surveillance state is being facilitated.[^AP04]
-- For almost a decade we have had reliable evidence that tech companies are padding on information to government agencies such as the NSA, yet nothing has changed.[^AP05]
+- For almost a decade we have had reliable evidence that tech companies are forwarding information gathered about their users to governments, yet nothing has changed.[^AP05]
 - Social media companies profit from a divided political landscape, disconnected filter bubbles are not a by-product but part of the product.[^AP06]
 - The massive proliferation of fake news actively costs lives (see: anti vaccers) and is being facilitated by the big platforms.[^AP07]
-- People are led to believe in conspiracy theories and are being radicalized to the point of committing physical violence and domestic terrorism.[^AP08]
-- The internet, and most devices we carry in our pockets like smart phones, are developed from US military technology (possibilities for surveillance for example are no accident).[^AP09]
-- *Tech* is a race to the brain stem. Some of the best-educated people in the world spend all their energy in selling us ads. Thinking we could resist the machinery is like thinking we could win against a super computer in chess.[^AP10]
+- Users are routinely being radicalized to the point of committing physical violence and domestic terrorism.[^AP08]
+- The internet, and most devices we carry in our pockets like smart phones, are developed from US military technology. Possibilities for surveillance for example are no accident.[^AP09]
+- *Tech* is a race to the brain stem. Some of the most-educated people in the world spend all their energy in selling us ads. Thinking we could resist the machinery is like thinking we could win against a super computer in chess.[^AP10]
 - It's addictive on purpose. At places like the Stanford Persuasive Technology Lab people have been trained to specifically find ways of persuading users to keep using their products, and metrics like engagement are still the main factors their design.[^AP11]
 - Big companies that have terms and conditions instead of constitutions can censor users without any form of accountability or oversight.[^AP12]
-- Even though participation is always voluntary, social pressure to participate, especially on children and teenagers, outweighs any serious form of alternative.[^AP13]
-- Depression among young people is on an all time high, and suicide rates are steadily increasing.[^AP14]
-- In authoritarian countries it's used as a tool to brutally suppress any form of opposition[^AP15]
+- Even though participation is always voluntary, social (and financial!) pressure to participate often outweighs any serious form of alternative.[^AP13]
 
-fig. AP.1: The terms cloud is a bit of a stand-in for everything wrong online in this case
-
-
+fig. AP.1: The terms cloud is a bit of a stand-in for everything wrong with the internet, in this case
 
 [^AP01]: (need to still back this up with a footnote)
 [^AP02]: (need to still back this up with a footnote)
@@ -370,5 +367,3 @@ fig. AP.1: The terms cloud is a bit of a stand-in for everything wrong online in
 [^AP11]: (need to still back this up with a footnote)
 [^AP12]: (need to still back this up with a footnote)
 [^AP13]: (need to still back this up with a footnote)
-[^AP14]: (need to still back this up with a footnote)
-[^AP15]: (need to still back this up with a footnote)
