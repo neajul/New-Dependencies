@@ -15,27 +15,27 @@ fig A.1: A Thundercloud, a mix of a cloud icon and the international squatting s
 
 ## 0 Who would Win?
 
-|                        self hosting                        |                         squatting                          |
-| :--------------------------------------------------------: | :--------------------------------------------------------: |
-|               refusing (privacy) policies ✅                |               refusing (housing) policies ✅                |
-|               hosting and serving (files) ✅                |               hosting and serving (people) ✅               |
-|                 programming (computers) ✅                  |                   programming (events) ✅                   |
-|           don't pay rent (software as service) ✅           |               don't pay rent (actual rent) ✅               |
-|           community building (who is invited?) ✅           |           community building (who is invited?) ✅           |
-|                  security (encryption) ✅                   |                  security (barricades) ✅                   |
-|                   constant maintenance ✅                   |                   constant maintenance ✅                   |
-|                   resist cloud control ✅                   |                   resist crowd control ✅                   |
-|              using existing infrastructures ✅              |              using existing infrastructures ✅              |
-|                 recycling (old hardware) ✅                 |      recycling (old houses and building materials)  ✅      |
-|                  open source principles ✅                  |                  open source principles ✅                  |
-|             following manuals and protocols ✅              |             following manuals and protocols ✅              |
+| self hosting                                               | squatting                                                  |
+| ---------------------------------------------------------- | ---------------------------------------------------------- |
+| refusing (privacy) policies ✅                              | refusing (housing) policies ✅                              |
+| hosting and serving (files) ✅                              | hosting and serving (people) ✅                             |
+| programming (computers) ✅                                  | programming (events) ✅                                     |
+| don't pay rent (software as service) ✅                     | don't pay rent (actual rent) ✅                             |
+| community building (who is invited?) ✅                     | community building (who is invited?) ✅                     |
+| security (encryption) ✅                                    | security (barricades) ✅                                    |
+| constant maintenance ✅                                     | constant maintenance ✅                                     |
+| resist cloud control ✅                                     | resist crowd control ✅                                     |
+| using existing infrastructures ✅                           | using existing infrastructures ✅                           |
+| recycling (old hardware) ✅                                 | recycling (old houses and building materials)  ✅           |
+| open source principles ✅                                   | open source principles ✅                                   |
+| following manuals and protocols ✅                          | following manuals and protocols ✅                          |
 | improvised structures & unconventional design strategies ✅ | improvised structures & unconventional design strategies ✅ |
-|           disaster always imminent: data loss ✅            |            disaster always imminent: eviction ✅            |
-|           Everything went downhill from ~2010 ✅            |           Everything went downhill from ~2010 ✅            |
-|                        nostalgia ✅                         |                        nostalgia ✅                         |
-|         nomadic in nature: changing ip addresses ✅         |          nomadic in nature: changing addresses ✅           |
-|             situating yourself in a network ✅              |             situating yourself in a network ✅              |
-|          de-appropriating someone else's space ❌           |          de-appropriating someone else's space ✅           |
+| disaster always imminent: data loss ✅                      | disaster always imminent: eviction ✅                       |
+| Everything went downhill from ~2010 ✅                      | Everything went downhill from ~2010 ✅                      |
+| nostalgia ✅                                                | nostalgia ✅                                                |
+| nomadic in nature: changing ip addresses ✅                 | nomadic in nature: changing addresses ✅                    |
+| situating yourself in a network ✅                          | situating yourself in a network ✅                          |
+| de-appropriating someone else's space ❌                    | de-appropriating someone else's space ✅                    |
 
 fig 0.1: A lot of words in tech are similar to words used IRL
 
@@ -265,9 +265,9 @@ fig. 6.1: Angry Individuals becoming angry individuals. The story of Hotel Mokum
 
 Many of us struggled with the pressure, the excitement, the exhaustion, the uncertainty, the lack of structure, impostor syndrome. The let-down effect was real, immediately after the action a number of people got sick. Most of us had stopped exercising, ate unhealthy, couldn't keep up with simple household tasks. Someone said their home had started to look like a squat while our squat had slowly started to look like a home. At the same time, most of us experienced difficulties to leave, to go home, and felt guilty when we missed just a day or two.
 
-We squatted Hotel Mokum[^501] on the October 16th, 2021. None of us had really expected to succeed—in the secretive meetings with the *real* squatters in which we planned the action (out of a general distrust in technology we always had to leave our phones in another room) the best case scenario was nothing more than a rhetorical bridge into the infinitely more likely crisis scenarios of varying gravitas: *of course, at that moment the police can just decide to leave, but more likely they will [insert various degrees of state violence here].* But then it all turned out differently, and they did leave, and there we were, 20-odd 20-somethings (and me), and all 6 floors of the former Hotel right in the center of Amsterdam were *ours*, and every news outlet in town wanted to talk to us.
+We squatted Hotel Mokum on the October 16th, 2021. None of us had really expected to succeed—in the secretive meetings with the *real* squatters in which we planned the action (out of a general distrust in technology we always had to leave our phones in another room) the best case scenario was nothing more than a rhetorical bridge into the infinitely more likely crisis scenarios of varying gravitas: *of course, at that moment the police can just decide to leave, but more likely they will [insert various degrees of state violence here].* But then it all turned out differently, and they did leave, and there we were, 20-odd 20-somethings (and me), and all 6 floors of the former Hotel right in the center of Amsterdam were *ours*, and every news outlet in town wanted to talk to us.
 
-The day of the action we got drunk, the day after we started programming. Our first event was a series of screenings, selected by Jeffrey from *Jeffrey's Underground Cinema(s)*[^502]. After that the program never stopped. In the first month we organized a neighborhood lunch, political cafés, screenings, a screen printing workshop, a chess tournament, an exhibition with more than 70 participants, a demonstration and seemingly infinite amounts of bar nights. Fueled by a mix of enthusiasm, disbelief and constant fear of eviction, we went on and on, and every time it got better and bigger, and every time it was packed.
+The day of the action we got drunk, the day after we started programming. Our first event was a series of screenings, selected by Jeffrey from *Jeffrey's Underground Cinema(s)*. After that the program never stopped. In the first month we organized a neighborhood lunch, political cafés, screenings, a screen printing workshop, a chess tournament, an exhibition with more than 70 participants, a demonstration and seemingly infinite amounts of bar nights. Fueled by a mix of enthusiasm, disbelief and constant fear of eviction, we went on and on, and every time it got better and bigger, and every time it was packed.
 
 When we didn't have a public program, we worked on the building: It had been gutted to the core and in the two years that it had been abandoned, it had decayed dramatically. After changing the locks, we cleared out the carcasses of the pigeons that had been trapped inside, cleaned the floors of their excrements, built a toilet for ours, pumped out the water from the crawlspace beneath, built a bar, set up internet throughout the building (stolen from the hotel across the street), built living rooms and bed rooms, furnished it all, and cleaned—everything, endless amounts of times. Hardly any of us had ever squatted before, let alone on this scale and without the unconditional and selfless support and expertise from helpers, friends and members of the squatting scene, we could have never pulled any of it off.
 
@@ -280,11 +280,6 @@ One by one we assured each other, complimented each other on *good shares*. It w
 <img src="BahNe0RwgNt3UuDq65bLq0jNJ0n7w1lEerdHdVNG6bU.jpg" alt="Pirate Friendships (x-post r/me_irl) : r/wholesomememes" style="zoom: 50%;" />
 
 fig 6.2: A former meme
-
-
-
-[^601]: https://pakmokumterug.nl/
-[^602]: https://radar.squat.net/en/amsterdam/jeffreys-cinemas
 
 
 
