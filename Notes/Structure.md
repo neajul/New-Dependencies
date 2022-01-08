@@ -46,9 +46,16 @@
 - footnotes in general
   - maybe sometimes i could use them to explain, rather than just a link
   - refusal list
+  - footnotes go after punctuation says tina
 - images
   - squatting sign probably
   - how to show a network diagram with cloud?
+- go through every chapter and check how it answers my main questions
+  - what is autonomoy, what are autonomous spaces, what are interdependent spaces?
+  - what are different ideas of freedom, freedom from what, with who, how?
+- for the last thing, reasons to refuse the cloud
+  - how are all these points related to an idea of **augmented** internet?
+- feedback tina
 
 # Things that are Missing
 
