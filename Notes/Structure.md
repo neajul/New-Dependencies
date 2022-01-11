@@ -50,7 +50,7 @@
   - squatting sign probably
   - how to show a network diagram with cloud?
 - **go through every chapter and check how it answers my main questions**
-  - **what is autonomoy, what are autonomous spaces, what are interdependent spaces?**
+  - **what is autonomoy, what are autonomous spaces, what are interdependent spaces**
   - **what are different ideas of freedom, freedom from what, with who, how?**
 - for the last thing, reasons to refuse the cloud
   - how are all these points related to an idea of **augmented** internet?
