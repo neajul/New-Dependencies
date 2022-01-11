@@ -42,9 +42,6 @@
 - **tina latest feedback**
 - flavia says that i need to rethink the "collapse" sentence
   - *community building*
-- **shorten heavily by putting in footnotes**
-  - **especially part 3!!**
-
 - footnotes in general
   - maybe sometimes i could use them to explain, rather than just a link
   - refusal list
@@ -70,6 +67,8 @@
   - ==airbnb is the mix of tech, or the cloud, and housing==
   - but it goes the other way around, too: tech is penetrating our houses, the two issues are no longer separate
     - smart homes, but also just internet cables, devices
+- Smart Cities, like the line
+  - could be a cool image
 - Why is everything a space?
   - Why is crypto a space?
   - Why are chats chatRooms?

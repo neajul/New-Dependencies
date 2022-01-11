@@ -72,7 +72,7 @@ In 1991, CERFnet released a promotional comic book, *The Adventures of Captain I
 
 What all these examples have in common is that they evoke the fun, but also the skill required to, well, surf the web, and the randomness, chaos, and even danger that the web, the metaphorical ocean, presented[^207]. Using the internet was a sport, something you did for fun, and temporarily, before hanging up your wet suit and returning to real life. Especially back then, when interfaces were less smooth, people less sad[^208] and personal computers were just beginning to become a thing, it perfectly captured this new, mysterious and seemingly bottomless place that was the internet[^209] (other exhausted geographic metaphors include cyberspace, the electronic frontier and the information superhighway).
 
-Today nobody *surfs* anymore (the ocean has evaporated into the cloud, you could say). But, despite the immiscibility of water and technology, the image of the internet as a vast ocean, free from the constraints of the aground, physical world, an ocean that just has to navigated by a skilled steersman[^210] with an appropriate vessel[^211], lingers as residue if you know where to look; In the ports and berths that we use to connect our computers to the internet, torrent sites[^212], app icons of browsers[^213] or the names of NFT marketplaces.[^214] The Network is eternal[^215], and so is the ocean.
+Today nobody *surfs* anymore (the ocean has evaporated into the cloud, you could say). But, despite the immiscibility of water and technology, the image of the internet as a vast ocean, free from the constraints of the aground, physical world, an ocean that just has to navigated by a skilled steersman[^210] with an appropriate vessel[^211], lingers as residue if you know where to look; In the ports and berths that we use to connect our computers to the internet, in *anchor* links, torrent sites[^212], browser icons[^213] or the names of NFT marketplaces.[^214] The Network is eternal[^215], and so is the ocean.
 
 
 
@@ -100,27 +100,38 @@ fig. 2.1: Those times are over, the internet is neither an ocean or a superhighw
 
 ## 3 Back to the Sea
 
-While some are trying their best to get back to the land, others want to get back to the sea. Where *homesteading* describes self-sufficient life on land, *seasteading* takes this idea several steps further and out into the open sea (hypothetically, at least). Seasteading is an idea from San Francisco, and advocated for by the Seasteading Institute, which in turn was funded by venture capitalist and strangely obsessive Lord of the Rings fan Peter Thiel[^301], with the goal of making governments *smart*. Claiming that most of the land in the world is already taken, the seasteaders propose building floating cities in international waters, free from convention, regulation, and taxes.
+> If you want to build a ship, don’t drum up people to collect wood  and don’t assign them tasks and work, but rather teach them to long for the endless immensity of the sea.
 
-Up until 2020 most attempts to make these dreams a reality had been of moderate success, with crypto millionaire, anti-taxer[^302] and anti-vaxxer[^303] Chad Elwartowski coming closest when he and his girlfriend lived 12 nautical miles off the coast of Thailand in a small, elevated, floating platform for a total of two months before being discovered by the Thai government and having to flee the country in fear of prosecution for violating Thailand's independence.[^304] Elwartowski is one of the founders of *Ocean Builders*, a company dedicated to the promotion of seasteading, that has been developing so called *SeaPods*, floating luxury homes that look remarkably similar to Apple AirPods in the concept renders[^305]. The platform in Thailand (which looked nothing like those renders) had been the first prototype.
+—Antoine de Saint-Exupery, probably[^A]
 
-But in 2020 Ocean Builders decided to give it one more try. Due to the COVID-19 pandemic, the cruise ship industry had almost gone under and they managed to buy an old, 245m cruise ship for a bit less that $10m, around ⅒ of its pre-pandemic price. They named it the MS Satoshi, after the (presumed) author of the original Bitcoin white paper. The plan was to lay anchor off the coast of Panama, where it would be incorporated into an artificial, floating island in the shape of the Bitcoin B[^306]. Until then they would auction off the 777 cabins[^307] to a clientele of digital nomads, startup founders and crypto enthusiasts, and finally establish the first truly free, crypto-only (and mostly male), seasteading society (or *seavilization*).
+While some are trying their best to get back to the land, others just want to get back to the sea. Whereas *homesteading* describes self-sufficient life on land, *seasteading* takes this idea several steps further and out into the open sea (hypothetically, at least). Seasteading is an idea from San Francisco, and advocated for by the Seasteading Institute, which in turn was funded by venture capitalist and strangely obsessive Lord of the Rings fan Peter Thiel[^301], with the goal of making governments *smart*. Claiming that most of the land in the world is already taken, the seasteaders propose building floating cities in international waters, free from convention, regulation, and taxes.
 
-Journalist Sophie Elmhirst recounts the following unfolding of unfortunate events in great detail for the Guardian[^308]. The day the ocean builders officially gained ownership of the ship, its certificates of seaworthiness had expired. They had to sail it from Greece to Gibraltar to have it dry-docked and inspected, before finally starting the voyage across the Atlantic to Panama. There they had hoped to be able to de-register the ship, for it to legally become a floating residency in order escape strict maritime law, but the government of Panama insisted that, while they were allowed to anchor, the MS Satoshi had to officially remain a ship. This came with a lot of issues regarding the disposal of waste water and especially insurance: The team was unable to find anybody that would agree to insure their stationary crypto-ship, and facing the enormous costs of running it, including having a crew on board at all times, and the fact that they were not able to sell enough cabins, they had to cancel their plans and sell the ship, before ever making it to Panama, but not before calling the corona pandemic a conspiracy and blaming everything on the global elites[^309]. Elmhirst fittingly sums up the MS Satoshi's ultimate dilemma. "The high seas", she writes, "while appearing borderless and free, are, in fact, some of the most tightly regulated places on Earth".
+Up until 2020 most attempts to make these dreams come true had been of moderate success, with crypto millionaire, anti-taxer[^302] and anti-vaxxer[^303] Chad Elwartowski coming closest when he and his girlfriend spent two months living in a small, elevated, floating platform 12 nautical miles off the coast of Thailand[^304]. Elwartowski is one of the founders of *Ocean Builders*, a company dedicated to the promotion of seasteading, that has been developing so called *SeaPods*, floating luxury homes that look remarkably similar to Apple AirPods in the concept renders[^305]. The platform in Thailand (which looked nothing like those renders) had been the first prototype.
+
+But in 2020 Ocean Builders decided to give it one more try. Due to the COVID-19 pandemic, the cruise ship industry had almost gone under and they managed to buy an old, 245m cruise ship for a bit less that $10m, around ⅒ of its pre-pandemic price. They named it the MS Satoshi, after the (presumed) author of the original Bitcoin white paper. The plan was to lay anchor off the coast of Panama, where it would be incorporated into an artificial, floating island in the shape of the Bitcoin B[^306]. Until then they would auction off the 777 cabins[^307] to a clientele of digital nomads, startup founders and crypto enthusiasts, and finally establish the first truly free, crypto-only (and mostly male), seasteading society (or *seavilization*[^C]).
+
+Maybe it's stretch to claim there is a (mostly metaphorical) affinity of everything-crypto to the ocean and the freedoms it promises. But many have described the feeling of web3[^D] to be reminiscent of the early days of the internet, among them Signal founder and former sailboat-squatter[^E] Moxie Marlinspike[^F]. And the image just *fits*—it speaks of a desire for the internet (the world?) to be a wide, open and adventurous place again. In any case, the ocean builders didn't fare well on their endeavors.
+
+Journalist Sophie Elmhirst recounts the following unfolding of unfortunate events in great schadenfreude-laden-detail for the Guardian[^308]. What was supposed to have become a crypto-pirate-radio of the 21st century ended in financial disaster before the ship ever reached Panama.[^309] According to scholar Flavia Dzodan, libertarian leaps for freedom like this always fail because they don't bother to answer the question of who will do all the cleaning. Elmhirst, in her article, sums up the MS Satoshi's ultimate dilemma. "The high seas", she writes, "while appearing borderless and free, are, in fact, some of the most tightly regulated places on Earth".
 
 ![The-Truman-Show](The-Truman-Show.jpg)
 
 fig. 3.1: Not as endless and free as we thought. Still from the 1998 movie *The Truman Show*.
 
-[^301]: At the time of writing, Thiel has founded a total of 6 (in words: six) companies that are named after places and objects in J. R. R. Tolkien's *Lord of the Rings*, see: https://www.bbc.com/news/technology-38315682
-[^302]: https://www.reddit.com/r/AskReddit/comments/o5jepd/what_do_you_wish_was_illegal/h2pagzw/
-[^303]: https://www.reddit.com/r/AskReddit/comments/oanhr8/what_invention_has_done_more_harm_than_good/h3kfxdh/
-[^304]: https://youtu.be/OovkeOuZsqU?t=340
-[^305]: https://oceanbuilders.com/
-[^306]: https://2oxut21weba5oivlniw6igeb-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/2020-12-22-Convert-Cruise-Ships-Into-Sustainable-Seasteads.pdf
-[^307]: https://www.reddit.com/r/Bitcoin/comments/jefmth/so_i_am_buying_a_cruise_ship_and_naming_it_ms/
-[^308]: https://www.theguardian.com/news/2021/sep/07/disastrous-voyage-satoshi-cryptocurrency-cruise-ship-seassteading
-[^309]: (https://vivavivas.com/2020/12/19/ms-satoshis-journey-coming-to-an-end/
+[^A]: de Saint-Exuper, author of *The Little Prince*, never really said this. Instead, this quote is paraphrased from his 1948 book *Citadelle*. However, this adaptation is much more widely known, and fits the context of this chapter better than the original.
+[^301]:At the time of writing, Thiel has founded a total of sixcompanies that are named after places and objects in J. R. R. Tolkien's *Lord of the Rings*, see: https://www.bbc.com/news/technology-38315682
+[^302]:Elwartowski openly shares his views on these matters on reddit: https://www.reddit.com/r/AskReddit/comments/o5jepd/what_do_you_wish_was_illegal/h2pagzw/
+[^303]:Similarly: https://www.reddit.com/r/AskReddit/comments/oanhr8/what_invention_has_done_more_harm_than_good/h3kfxdh/
+[^304]:When the Thai government discovered the existence of their seastead, Elwartowski and his girlfriend had to flee the country in fear of prosecution for violating the country's independence. Elwartowski logged the details of their dramatic escape on his vlog, see: https://youtu.be/OovkeOuZsqU?t=340
+[^305]:Current renders can be found on the project's website: https://oceanbuilders.com/
+[^306]:The scale of the project becomes clear in a whitepaper the team published: https://2oxut21weba5oivlniw6igeb-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/2020-12-22-Convert-Cruise-Ships-Into-Sustainable-Seasteads.pdf
+[^307]:The presale was announced on reddit: https://www.reddit.com/r/Bitcoin/comments/jefmth/so_i_am_buying_a_cruise_ship_and_naming_it_ms/
+[^C]: A term I regretfully cannot take credit for.
+[^D]: Web1: Read—Web2: Read, write—Web3: Read, write, own. See: https://www.odysseydao.com/articles/what-is-web3
+[^E]: Marlinspike founded the Anarchist Yacht Club, which involved the squatting of derelict boats in order to fix them up and sail the world. In 2011 Marlinspike and 3 friends produced a short film of their journeys: Hold Fast, https://vimeo.com/15351476
+[^F]: In a 2022 article, Marlinspike outlines his experience with web3. While expressing excitement from his position as a developer, he claims that web3 doesn't actually deliver on many of its promises of decentralization, a nautical example of which is the monopoly of the platform opensea.io. See: https://moxie.org/2022/01/07/web3-first-impressions.html
+[^308]:Elmhirst outlines how, the day the ocean builders officially gained ownership of the ship, its certificates of seaworthiness had expired. They had to sail it from Greece to Gibraltar to have it dry-docked and inspected, before finally starting the voyage across the Atlantic to Panama. There they had hoped to be able to de-register the ship, for it to legally become a floating residency in order escape strict maritime law, but the government of Panama insisted that, while they were allowed to anchor, the MS Satoshi had to officially remain a ship. This came with a lot of issues regarding the disposal of waste water and especially insurance: The team was unable to find anybody that would agree to insure their stationary crypto-ship, and facing the enormous costs of running it, including having a crew on board at all times, and the fact that they were not able to sell enough cabins, they had to cancel their plans and sell the ship, before ever making it to Panama, see: https://www.theguardian.com/news/2021/sep/07/disastrous-voyage-satoshi-cryptocurrency-cruise-ship-seassteading
+[^309]: In a resigned last blogpost, Elwartowski blamed the corona pandemic conspiracy by the global elites, see: https://vivavivas.com/2020/12/19/ms-satoshis-journey-coming-to-an-end/
 
 
 
@@ -142,16 +153,16 @@ fig 4.1: A group of people negotiating physical space. The occupation of Hotel M
 
 
 
-[^401]: https://www.eff.org/cyberspace-independence
-[^402]: Tubes book
-[^403]: The wikipedia reference (Graham, Mark (2013-03-01). "Geography/internet: ethereal alternate dimensions of cyberspace or grounded augmented realities?)
-[^404]: the transmediale woman
-[^405]: evan roth
-[^406]: energy usage of the internet
-[^407]: Infrastructure that can be disrupted: https://www.theguardian.com/world/2011/apr/06/georgian-woman-cuts-web-access
-[^408]: https://www.are.na/blog/reimagining-the-internet
-[^409]: The artist and design theorist Silvio Lorusso argues something similar in his text *The User Condition: Computer Agency and Behavior*, where he quotes art critic and essayist Joanne McNeil: *"As smartphones blurred organizational boundaries of online and offline  worlds, spatial metaphors lost favor. How could we talk about the internet as a place when we’re checking it on the go, with mobile hardware offering turn-by-turn directions from a car cup holder or stuffed in a jacket pocket?"*, see: https://theusercondition.computer/
-[^410]: User—Agent thesis
+[^401]:https://www.eff.org/cyberspace-independence
+[^402]:Tubes book
+[^403]:The wikipedia reference (Graham, Mark (2013-03-01). "Geography/internet: ethereal alternate dimensions of cyberspace or grounded augmented realities?)
+[^404]:the transmediale woman
+[^405]:evan roth
+[^406]:energy usage of the internet
+[^407]:Infrastructure that can be disrupted: https://www.theguardian.com/world/2011/apr/06/georgian-woman-cuts-web-access
+[^408]:https://www.are.na/blog/reimagining-the-internet
+[^409]:The artist and design theorist Silvio Lorusso argues something similar in his text *The User Condition: Computer Agency and Behavior*, where he quotes art critic and essayist Joanne McNeil: *"As smartphones blurred organizational boundaries of online and offline  worlds, spatial metaphors lost favor. How could we talk about the internet as a place when we’re checking it on the go, with mobile hardware offering turn-by-turn directions from a car cup holder or stuffed in a jacket pocket?"*, see: https://theusercondition.computer/
+[^410]:User—Agent thesis
 
 
 
@@ -204,12 +215,12 @@ graph TD;
 
 fig. 5.1 Alarmlijst Artis expressed in a mermaid.js script
 
-[^501]: https://unhabitat.org/sites/default/files/download-manager-files/The%20Challenge%20of%20Slums%20-%20Global%20Report%20on%20Human%20Settlements%202003.pdf
-[^502]: https://architecture-appropriation.hetnieuweinstituut.nl/en/publication
-[^5a]: Between 2010 and 2020, the average rent price per square meter in Amsterdam increased by around 50%: https://www.statista.com/statistics/612227/average-rent-in-four-largest-cities-in-the-netherlands-by-city/
-[^503]: https://web.archive.org/web/20190830180133/https://www.rd.nl/amsterdam-ontruimt-330-panden-sinds-kraakwet-1.259316
-[^504]: Architectures of Appropriation list alternative housing projects, (sub)cultural venues, food distribution centers, peoples' kitchens, legal support, media outlets and medical services as nodes in this network.
-[^505]: In a time before cell phones, this flowchart, composed on a typewriter and distributed through copying machines, mapped out how, in case of an emergency such as violent groups attacking one of the squats, the different nodes in the immediate network of Plantage Dok should be contacted for support, in which order, by who, and by what means (by *fiets*, meaning by bike, or by *bellen*, meaning by phone). Sourced from the book *Architectures of Appropriation*.
+[^501]:https://unhabitat.org/sites/default/files/download-manager-files/The%20Challenge%20of%20Slums%20-%20Global%20Report%20on%20Human%20Settlements%202003.pdf
+[^502]:https://architecture-appropriation.hetnieuweinstituut.nl/en/publication
+[^5a]:Between 2010 and 2020, the average rent price per square meter in Amsterdam increased by around 50%: https://www.statista.com/statistics/612227/average-rent-in-four-largest-cities-in-the-netherlands-by-city/
+[^503]:https://web.archive.org/web/20190830180133/https://www.rd.nl/amsterdam-ontruimt-330-panden-sinds-kraakwet-1.259316
+[^504]:Architectures of Appropriation list alternative housing projects, (sub)cultural venues, food distribution centers, peoples' kitchens, legal support, media outlets and medical services as nodes in this network.
+[^505]:In a time before cell phones, this flowchart, composed on a typewriter and distributed through copying machines, mapped out how, in case of an emergency such as violent groups attacking one of the squats, the different nodes in the immediate network of Plantage Dok should be contacted for support, in which order, by who, and by what means (by *fiets*, meaning by bike, or by *bellen*, meaning by phone). Sourced from the book *Architectures of Appropriation*.
 
 
 
@@ -323,19 +334,19 @@ graph TD;
 
 fig. 7.1 In the words of singer Nelly Furtado, All good things come to an end. Thank you to Ada Reinthal for the initial diagram.
 
-[^701]: DDS even preceded even Geocities by a few months.
-[^702]: What is a freenet, you ask? I still need to write this footnote.
-[^703]: Already back in 2019, the (potentially biased) Dutch Data Center Association called the Netherlands the leader in data centers in Europe, see: https://www.dutchdatacenters.nl/en/nieuws/dutchdatacenters2019-2/
-[^704]: It's hard to find exact numbers on this. However, there are some things I can say about this, but I have to still write this footnote.
-[^705]: http://staging.berlinartprize.com/essay-william-kherbek/
-[^706]: Sheldon Wolin, need proper quote
-[^707]: Explain the tragedy of the commons
-[^708]: Silvio Lorusso, the User Condition
-[^709]: The only one more powerful than the coder might be *non-user*, the one who doesn't use computers to begin with. Lorusso evokes the images of big-tech-CEOs that don't let their kids use social media, alluding to the privilege required for this sort of refusal, which is also expressed in Kherbek's example of airbnb.
-[^710]: One can't help but think of the quote attributed to Edward Tufte, that the only industries that call their customers *users* are software companies and drug dealers, which is another way to think of dependencies.
-[^711]: Or, he adds, without our toilet trying to kill us. James Bridle, New Dark Age, 2018
-[^712]: shit
-[^713]: This principle of reusing what is there might be something to keep an eye on when talking about electronics. Architectures of Appropriation book
+[^701]:DDS even preceded even Geocities by a few months.
+[^702]:What is a freenet, you ask? I still need to write this footnote.
+[^703]:Already back in 2019, the (potentially biased) Dutch Data Center Association called the Netherlands the leader in data centers in Europe, see: https://www.dutchdatacenters.nl/en/nieuws/dutchdatacenters2019-2/
+[^704]:It's hard to find exact numbers on this. However, there are some things I can say about this, but I have to still write this footnote.
+[^705]:http://staging.berlinartprize.com/essay-william-kherbek/
+[^706]:Sheldon Wolin, need proper quote
+[^707]:Explain the tragedy of the commons
+[^708]:Silvio Lorusso, the User Condition
+[^709]:The only one more powerful than the coder might be *non-user*, the one who doesn't use computers to begin with. Lorusso evokes the images of big-tech-CEOs that don't let their kids use social media, alluding to the privilege required for this sort of refusal, which is also expressed in Kherbek's example of airbnb.
+[^710]:One can't help but think of the quote attributed to Edward Tufte, that the only industries that call their customers *users* are software companies and drug dealers, which is another way to think of dependencies.
+[^711]:Or, he adds, without our toilet trying to kill us. James Bridle, New Dark Age, 2018
+[^712]:shit
+[^713]:This principle of reusing what is there might be something to keep an eye on when talking about electronics. Architectures of Appropriation book
 
 
 
@@ -357,16 +368,16 @@ fig. 7.1 In the words of singer Nelly Furtado, All good things come to an end. T
 
 fig. AP.1: The terms cloud is a bit of a stand-in for everything wrong with the internet, in this case
 
-[^AP01]: (need to still back this up with a footnote)
-[^AP02]: (need to still back this up with a footnote)
-[^AP03]: (need to still back this up with a footnote)
-[^AP04]: (need to still back this up with a footnote)
-[^AP05]: (need to still back this up with a footnote)
-[^AP06]: (need to still back this up with a footnote)
-[^AP07]: (need to still back this up with a footnote)
-[^AP08]: (need to still back this up with a footnote)
-[^AP09]: (need to still back this up with a footnote)
-[^AP10]: (need to still back this up with a footnote)
-[^AP11]: (need to still back this up with a footnote)
-[^AP12]: (need to still back this up with a footnote)
-[^AP13]: (need to still back this up with a footnote)
+[^AP01]:(need to still back this up with a footnote)
+[^AP02]:(need to still back this up with a footnote)
+[^AP03]:(need to still back this up with a footnote)
+[^AP04]:(need to still back this up with a footnote)
+[^AP05]:(need to still back this up with a footnote)
+[^AP06]:(need to still back this up with a footnote)
+[^AP07]:(need to still back this up with a footnote)
+[^AP08]:(need to still back this up with a footnote)
+[^AP09]:(need to still back this up with a footnote)
+[^AP10]:(need to still back this up with a footnote)
+[^AP11]:(need to still back this up with a footnote)
+[^AP12]:(need to still back this up with a footnote)
+[^AP13]:(need to still back this up with a footnote)
