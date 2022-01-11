@@ -39,11 +39,11 @@
 # Things that need to change
 
 - i don't like the way the thundercloud logo is used atm, it's not an image like the others somehow.
-- ==tina latest feedback==
+- **tina latest feedback**
 - flavia says that i need to rethink the "collapse" sentence
   - *community building*
 - **shorten heavily by putting in footnotes**
-  - especially part 3!!
+  - **especially part 3!!**
 
 - footnotes in general
   - maybe sometimes i could use them to explain, rather than just a link
@@ -52,12 +52,11 @@
 - images
   - squatting sign probably
   - how to show a network diagram with cloud?
-- go through every chapter and check how it answers my main questions
-  - what is autonomoy, what are autonomous spaces, what are interdependent spaces?
-  - what are different ideas of freedom, freedom from what, with who, how?
+- **go through every chapter and check how it answers my main questions**
+  - **what is autonomoy, what are autonomous spaces, what are interdependent spaces?**
+  - **what are different ideas of freedom, freedom from what, with who, how?**
 - for the last thing, reasons to refuse the cloud
   - how are all these points related to an idea of **augmented** internet?
-- feedback tina
 
 # Things that are Missing
 
@@ -71,9 +70,13 @@
   - ==airbnb is the mix of tech, or the cloud, and housing==
   - but it goes the other way around, too: tech is penetrating our houses, the two issues are no longer separate
     - smart homes, but also just internet cables, devices
+- Why is everything a space?
+  - Why is crypto a space?
+  - Why are chats chatRooms?
+  - Why are discord servers spaces? Because they are behind a paywall? Is a paid new york times article also a space?
 - Refusal
   - Jenny Odell, the third space!
-  - Silvio says becoming a non-user can be more powerful than a hacker
+  - ==Silvio says becoming a non-user can be more powerful than a hacker==
 - Urgency
   - This is really a key point, also architectures of appropriation wise. The aesthetics is defined by urgency
     - when you stop squatting, it stops being so urgent
@@ -120,8 +123,6 @@
   - techno feudalism
   - 2010, year of the squatting ban!
   - a few owning what belongs to the many
-- How does the cloud connect to the Netherlands specifically? Data centers etc?
 - influence of counter culture on computers and the internet
   - hippies, but also hacker culture!
   - **CCC?**
-- The whole notion of Techno Feudalism, thinking of the power dynamics we are escaping, how they are similar
