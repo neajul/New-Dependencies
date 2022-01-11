@@ -40,7 +40,7 @@
 
 - i don't like the way the thundercloud logo is used atm, it's not an image like the others somehow.
 - **tina latest feedback**
-  - **prep talk**
+  - **prepare talk**
 
 - flavia says that i need to rethink the "collapse" sentence
   - *community building*
@@ -54,6 +54,8 @@
 - **go through every chapter and check how it answers my main questions**
   - **what is autonomoy, what are autonomous spaces, what are interdependent spaces**
   - **what are different ideas of freedom, freedom from what, with who, how?**
+  - ==important point from tina: how does any of this relate to self hosting?==
+    - ==maybe in conclusion, when talking about DIY approaches, this is so not-explicit. Can i make an explicit bridge from my squatting experience to something digital? To self hosting? How is the server relevant?==
 - for the last thing, reasons to refuse the cloud
   - how are all these points related to an idea of **augmented** internet?
 
