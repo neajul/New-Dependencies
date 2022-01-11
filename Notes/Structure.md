@@ -38,12 +38,11 @@
 
 # Things that need to change
 
-- i don't like the way the thundercloud logo is used atm, it's not an image like the others somehow.
-- **tina latest feedback**
-  - **prepare talk**
-
+- i don't like the way the thundercloud logo is used atm, it's not an image like the others somehow
 - flavia says that i need to rethink the "collapse" sentence
   - *community building*
+- should i mention adobe? being trapped etc? design harder
+
 - footnotes in general
   - maybe sometimes i could use them to explain, rather than just a link
   - refusal list

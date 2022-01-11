@@ -39,5 +39,5 @@
 # Afterword
 
 - She asks if i say more on the principle of reusing, how it relates to electronics
-  - ==will i?==
+  - **i did a bit, no?**
 

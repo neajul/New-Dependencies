@@ -348,8 +348,6 @@ fig. 7.1 In the words of singer Nelly Furtado, All good things come to an end. T
 [^710]:One can't help but think of the quote attributed to Edward Tufte, that the only industries that call their customers *users* are software companies and drug dealers, which is another way to think of dependencies.
 [^711]:Or, he adds, without our toilet trying to kill us. James Bridle, New Dark Age, 2018
 [^712]:shit
-[^713]:This principle of reusing what is there might be something to keep an eye on when talking about electronics. Architectures of Appropriation book
-
 [^714]: For example *domain squatting*, the practice of buying up domain names of companies and well known individuals before they do, mostly with the goal of selling them for a higher price afterwards.
 
 
