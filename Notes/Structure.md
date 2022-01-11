@@ -40,6 +40,8 @@
 
 - i don't like the way the thundercloud logo is used atm, it's not an image like the others somehow.
 - **tina latest feedback**
+  - **prep talk**
+
 - flavia says that i need to rethink the "collapse" sentence
   - *community building*
 - footnotes in general
