@@ -1,0 +1,5 @@
+- thanks for the feedback
+  - **go through the points she made and see if she thinks i fixed them**
+- what does she think of the new ending
+- extension, corona
+- what does she think of the diagrams? with the code? does it make sense?
