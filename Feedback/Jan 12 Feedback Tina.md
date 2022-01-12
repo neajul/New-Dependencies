@@ -1,10 +1,11 @@
 # General
 
-- I would like an extension because corona
+- ~~I would like an extension because corona~~
 - what does she think of the new ending part?
   - **also now that i rewrote it?**
-- what does she get from reading my text? anything?
+- ~~what does she get from reading my text? anything?~~
 - wordcount
+  - ==ask will about shorten (ask with specific examples in mind)==
 - what does she think of the diagrams? with the code? does it make sense?
 - sending to people for feedback, suggestions?
 
@@ -41,3 +42,38 @@
 - She asks if i say more on the principle of reusing, how it relates to electronics
   - **i did a bit, no?**
 
+
+
+
+
+
+
+
+
+
+
+# Convo
+
+- what does she get from reading my text? anything?
+
+  - she is not a geek lol
+  - she wonders, if the scripting thing needs to be there?
+  - ==maybe something gets lost in the diagrams? do the **need** to be coded?==
+    - ==it looks clunky on the page==
+    - ==it's not necessarily supposed to look clunky==
+    - ==maybe it's positioning? design? Limitations of the page==
+    - ==page numbers lol==
+    - ==do i need the script always?==
+    - 
+
+- wordcount
+
+  - ==ask will about shorten (ask with specific examples in mind)==
+
+    
+
+- ==**HOW MANY TIMES LACK OF A BETTER TERM?**==
+
+
+
+- ==link to the anarchafemmes==
