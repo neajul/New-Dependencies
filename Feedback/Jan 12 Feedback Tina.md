@@ -55,7 +55,6 @@
 # Convo
 
 - what does she get from reading my text? anything?
-
   - she is not a geek lol
   - she wonders, if the scripting thing needs to be there?
   - ==maybe something gets lost in the diagrams? do the **need** to be coded?==
@@ -65,14 +64,8 @@
     - ==page numbers lol==
     - ==do i need the script always?==
     - 
-
 - wordcount
-
   - ==ask will about shorten (ask with specific examples in mind)==
-
-    
-
-- ==**HOW MANY TIMES LACK OF A BETTER TERM?**==
 
 
 
