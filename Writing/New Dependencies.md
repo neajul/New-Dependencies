@@ -55,12 +55,12 @@ This inherent uncertainty is maybe why attempts to refuse it can often feel futi
 
 In 2019, web designer Becca Abbe sensed the dawn of what she called *the internet's back-to-the-land movement*,[^105] a new movement of users away from the cloud, in reference to the 1960s counter cultural movements away from the cities in the US.[^106] It seems tempting to leave the celestial cloud behind, with all its fake news and inequalities, to get back down to the *ground truth* so to say. But what exactly is this *land*, we would return to, and who exactly is it that is going there?
 
-[^1A]: https://www.youtube.com/watch?v=KNYo69XiDfA
-[^101]: https://www.theguardian.com/technology/2008/sep/29/cloud.computing.richard.stallman
-[^102]: (https://web.archive.org/web/20081122005447/http://www.mathewingram.com/work/2008/09/29/hey-hey-you-you-get-off-of-my-cloud/
-[^103]: https://web.archive.org/web/20081205032726/http://www.elasticvapor.com/2008/09/stupid-redux-old-man-gnu-yells-at-cloud.html
-[^104]: https://www.amazon.com/Humor-There-cloud-someone-computer/dp/B07KW5MPH2
-[^105]: https://www.are.na/blog/the-internet%27s-back-to-the-land-movement
+[^1A]: “By Psychokinesis a Psychic Turns a Cloud into a Square Cloud in Sept.  2010.” n.d. Www.youtube.com. Accessed January 14, 2022.  https://www.youtube.com/watch?v=KNYo69XiDfA.‌
+[^101]: Johnson, Bobbie. “Cloud Computing Is a Trap, Warns GNU Founder.” The Guardian, September 29, 2008, sec. Technology. https://www.theguardian.com/technology/2008/sep/29/cloud.computing.richard.stallman.
+[^102]: Ingram, Mathew. “Hey Hey, You You — Get off of My Cloud.”  web.archive.org, September 29, 2008.  https://web.archive.org/web/20081122005447/http://www.mathewingram.com/work/2008/09/29/hey-hey-you-you-get-off-of-my-cloud/.
+[^103]: Cohen, Reuven. “Stupid Redux : Old Man GNU Yells at Cloud.”  web.archive.org, September 29, 2008.  https://web.archive.org/web/20081205032726/http://www.elasticvapor.com/2008/09/stupid-redux-old-man-gnu-yells-at-cloud.html.
+[^104]: This sentiment has become a meme of sorts, printed on mugs, stickers and t-shirts, that you can buy all over the internet, not surprisingly also on Amazon: https://www.amazon.com/Humor-There-cloud-someone-computer/dp/B07KW5MPH2.
+[^105]: Abbe, Becca. “The Internet’s Back-To-The-Land Movement”  Www.are.na, February 7, 2019.  https://www.are.na/blog/the-internet%27s-back-to-the-land-movement.
 [^106]: Which, in turn, directly informed the early beginnings of Silicon Valley's tech world.
 
 
@@ -84,11 +84,11 @@ fig. 2.1: Those times are over, the internet is neither an ocean or a superhighw
 [^201]: Samenwerkende Universitaire Reken Faciliteiten, *Co-operative University Computing Facilities*
 [^202]: *SURFnet* still exists today, and, among other things, founded and operates *eduroam*, an authentication infrastructure letting users in higher education facilities use wifi, which many readers might be familiar with.
 [^203]: Originally, Estrada had wanted to reference San Diego's reputation as a surfers' paradise. CERFnet was an abbreviation for *California Education and Research Federation Network*, and a reference to Vint Cerf, one of the inventors of the TCP/IP protocol, so-called fathers of the internet and today Chief Internet Evangelist at Google.
-[^204]: https://archive.org/details/CaptainInternetAndCERFBoyNumber1October1991/mode/2up
-[^205]: https://www.netmom.com/images/pdf/Surfing_the_Internet_2_02.pdf
-[^206]: https://preterhuman.net/docs/SURFING_THE_WILD_INTERNET
-[^207]: The completely-not-tech-related surfing magazine *Surfer Today* published an article about the history of the term surfing the web in which they quote Polly on her intentions when using the term for the first time: https://www.surfertoday.com/surfing/the-woman-who-coined-the-expression-surfing-the-internet/amp
-[^208]: Anastasia Kubrak, *User-Agent: If everything is so smooth, why am I so sad?*, 2018
+[^204]: CERFnet. *The Adventures of Captain Internet and CERF Boy*. 1st ed. San Francisco: CERFnet, 1991. A digital copy of the publication can be found at https://archive.org/details/CaptainInternetAndCERFBoyNumber1October1991/mode/2up.
+[^205]: Armour Polly, Jean. “Version 2.0.2 _Revised.” *Netmom.com* (blog), December 15, 1992. https://www.netmom.com/images/pdf/Surfing_the_Internet_2_02.pdf.
+[^206]: Mandel, Tom. “Surfing the Wild Internet.” SRI International Business  Intelligence Program, 1993.  https://preterhuman.net/docs/SURFING_THE_WILD_INTERNET.
+[^207]: The completely-not-tech-related surfing magazine *Surfer Today* published an article about the history of the term surfing the web in which they quote Polly on her intentions when using the term for the first time, see: https://www.surfertoday.com/surfing/the-woman-who-coined-the-expression-surfing-the-internet/amp.
+[^208]: Anastasia Kubrak, “User-Agent: If Everything Is so Smooth, Why Am I so Sad?” (2018).
 [^209]: Arguably it helped that the terms was so visual, which gave way to an endless sea of illustrations of people literally surfing on their peripherals, see: https://www.thehairpin.com/2011/02/people-literally-surfing-the-web/
 [^210]: The word *cybernetics* originally developed from the word *steersman*, see: https://www.etymonline.com/word/cybernetics
 [^211]: See: Netscape Navigator
@@ -113,13 +113,13 @@ But in 2020 Ocean Builders decided to give it one more try. Due to the COVID-19 
 
 Maybe it's stretch to claim there is a (mostly metaphorical) affinity of everything-crypto to the ocean and the freedoms it promises. But many have described the feeling of web3[^3D] to be reminiscent of the early days of the internet, among them Signal founder and former sailboat-squatter[^3E] Moxie Marlinspike.[^3F] And the image just *fits*—it speaks of a desire for the internet (the world?) to be a wide, open and adventurous place again. In any case, the ocean builders didn't fare well on their endeavors.
 
-Journalist Sophie Elmhirst recounts the following unfolding of unfortunate events in great schadenfreude-laden detail for the Guardian.[^308] What was supposed to have become a crypto-pirate-radio of the 21st century ended in financial disaster before the ship ever reached Panama[^309]. According to scholar Flavia Dzodan, libertarian leaps for freedom like this fail because they don't bother to answer the question of who will do all the cleaning.[^310] Elmhirst, in her article, sums up the MS Satoshi's ultimate dilemma. *"The high seas"*, she writes, *"while appearing borderless and free, are, in fact, some of the most tightly regulated places on Earth"*.
+Journalist Sophie Elmhirst recounts the following unfolding of unfortunate events in great schadenfreude-laden detail for the Guardian.[^308] What was supposed to have become a crypto-pirate-radio of the 21st century ended in financial disaster before the ship ever reached Panama[^309]. According to scholar Flavia Dzodan, libertarian leaps for freedom like this fail because they don't bother to answer the question of who will do all the cleaning.[^310] In her article, Elmhirst sums up the MS Satoshi's ultimate dilemma. *"The high seas"*, she writes, *"while appearing borderless and free, are, in fact, some of the most tightly regulated places on Earth"*.
 
 <img src="The-Truman-Show.jpg" alt="The-Truman-Show" style="zoom:50%;" />
 
 fig. 3.1: Not as endless and free as we thought. Still from the 1998 movie *The Truman Show*.
 
-[^3A]: de Saint-Exuper, author of *The Little Prince*, never really said this. Instead, this quote is paraphrased from his 1948 book *Citadelle*. However, this adaptation is much more widely known, and fits the context of this chapter better than the original.
+[^3A]: De Saint-Exuper, author of *The Little Prince*, never really said this. Instead, this quote is paraphrased from his 1948 book *Citadelle*. However, this adaptation is much more widely known, and fits the context of this chapter better than the original.
 [^301]:At the time of writing, Thiel has founded a total of sixcompanies that are named after places and objects in J. R. R. Tolkien's *Lord of the Rings*, see: https://www.bbc.com/news/technology-38315682
 [^302]:Elwartowski openly shares his views on these matters on reddit: https://www.reddit.com/r/AskReddit/comments/o5jepd/what_do_you_wish_was_illegal/h2pagzw/
 [^303]:Similarly: https://www.reddit.com/r/AskReddit/comments/oanhr8/what_invention_has_done_more_harm_than_good/h3kfxdh/
@@ -133,7 +133,7 @@ fig. 3.1: Not as endless and free as we thought. Still from the 1998 movie *The 
 [^3F]: In a 2022 article, Marlinspike outlines his experience with web3. While expressing excitement from his position as a developer, he claims that web3 doesn't actually deliver on many of its promises of decentralization, a nautical example of which is the monopoly of the platform opensea.io. See: https://moxie.org/2022/01/07/web3-first-impressions.html
 [^308]:Elmhirst outlines how, the day the ocean builders officially gained ownership of the ship, its certificates of seaworthiness had expired. They had to sail it from Greece to Gibraltar to have it dry-docked and inspected, before finally starting the voyage across the Atlantic to Panama. There they had hoped to be able to de-register the ship, for it to legally become a floating residency in order escape strict maritime law, but the government of Panama insisted that, while they were allowed to anchor, the MS Satoshi had to officially remain a ship. This came with a lot of issues regarding the disposal of waste water and especially insurance: The team was unable to find anybody that would agree to insure their stationary crypto-ship, and facing the enormous costs of running it, including having a crew on board at all times, and the fact that they were not able to sell enough cabins, they had to cancel their plans and sell the ship, before ever making it to Panama, see: https://www.theguardian.com/news/2021/sep/07/disastrous-voyage-satoshi-cryptocurrency-cruise-ship-seassteading
 [^309]: In a resigned last blogpost, Elwartowski blamed the corona pandemic conspiracy by the global elites, see: https://vivavivas.com/2020/12/19/ms-satoshis-journey-coming-to-an-end/
-[^310]: Need a reference to Flavia here
+[^310]: This was taken from a personal conversation.
 
 
 
@@ -153,9 +153,9 @@ If Cyberspace was the indefinite space between the nodes, that magical place tha
 
 fig 4.1: A group of people negotiating physical space. The occupation of Hotel Mokum, photo by Sammy Iason, 2021.
 
-[^401]:https://www.eff.org/cyberspace-independence
-[^402]:Tubes book
-[^403]:The wikipedia reference (Graham, Mark (2013-03-01). "Geography/internet: ethereal alternate dimensions of cyberspace or grounded augmented realities?)
+[^401]:Perry Barlow, John. “A Declaration of the Independence of Cyberspace.”  Electronic Frontier Foundation, February 8, 1996.  https://www.eff.org/cyberspace-independence.
+[^402]:Blum, Andrew. *Tubes : A Journey to the Center of the Internet*. New York: Ecco, 2012.
+[^403]:Graham, Mark. “Geography/Internet: Ethereal Alternate Dimensions of Cyberspace or Grounded Augmented Realities?” *The Geographical Journal* 179, no. 2 (2013): 177–82. http://www.jstor.org/stable/43868547.
 [^404]:the transmediale woman
 [^405]:evan roth
 [^406]:energy usage of the internet
