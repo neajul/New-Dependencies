@@ -39,8 +39,12 @@
 # Things that need to change
 
 - should i mention adobe? being trapped etc? design harder
-- footnotes in general
-  - refusal list
+- the text about material internet
+  - file:///Users/lukasengelhardt/Downloads/SSRN-id2166874.pdf
+- metahaven quote:
+  - “The idea of cyberspace posed a line of separation between the internet and the real world. **Cyberspace would be a separate universe.** Created by people, enabled by technology, and **occupied by information.** **Geopolitically, it would be like the sea once was.** An unregulated and fluid space where ordinary rules need not apply.” (Metahaven, Black transparency, page XV)
+- image from paul
+  - ![th?id=oip.6cydewk3mzw_7nnkxg6j8whaev-pid=api-f=1](original_bb1d2080c02e12b8359dbbc9dedf090a.jpg)
 - images
   - squatting sign probably
   - how to show a network diagram with cloud?

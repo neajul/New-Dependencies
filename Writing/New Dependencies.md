@@ -156,11 +156,11 @@ fig 4.1: A group of people negotiating physical space. The occupation of Hotel M
 [^401]:Perry Barlow, John. “A Declaration of the Independence of Cyberspace.”  Electronic Frontier Foundation, February 8, 1996.  https://www.eff.org/cyberspace-independence.
 [^402]:Blum, Andrew. *Tubes : A Journey to the Center of the Internet*. New York: Ecco, 2012.
 [^403]:Graham, Mark. “Geography/Internet: Ethereal Alternate Dimensions of Cyberspace or Grounded Augmented Realities?” *The Geographical Journal* 179, no. 2 (2013): 177–82. http://www.jstor.org/stable/43868547.
-[^404]:the transmediale woman
-[^405]:evan roth
-[^406]:energy usage of the internet
-[^407]:Infrastructure that can be disrupted: https://www.theguardian.com/world/2011/apr/06/georgian-woman-cuts-web-access
-[^408]:https://www.are.na/blog/reimagining-the-internet
+[^404]:Parks, Lisa. “Mediating Animal-Infrastructure Relations.” Being Material, 2019.
+[^405]:Roth, Evan. *Landscapes*. 2016.
+[^406]:Jones, Nicola. “How to Stop Data Centres from Gobbling up the World’s Electricity.” *Nature* 561, no. 7722 (September 2018): 163–66. https://doi.org/10.1038/d41586-018-06610-y.
+[^407]:Parfitt, Tom. “Georgian Woman Cuts off Web Access to Whole of Armenia.”  the Guardian, April 6, 2011.  https://www.theguardian.com/world/2011/apr/06/georgian-woman-cuts-web-access.
+[^408]:Kahle, Brewster. “Imagining the Internet: Explaining Our Digital  Transition.” www.are.na, July 26, 2018.  https://www.are.na/blog/reimagining-the-internet
 [^409]:The artist and design theorist Silvio Lorusso argues something similar in his text *The User Condition: Computer Agency and Behavior*, where he quotes art critic and essayist Joanne McNeil: *"As smartphones blurred organizational boundaries of online and offline worlds, spatial metaphors lost favor. How could we talk about the internet as a place when we’re checking it on the go, with mobile hardware offering turn-by-turn directions from a car cup holder or stuffed in a jacket pocket?"*, see: https://theusercondition.computer/
 [^410]:We can not, for example, just log into our social media account, and delete some of the data they have collected from us (or in many cases even delete our account)—they didn't make the buttons for that.
 [^411]: To an extent, of course. The immateriality of data (not infrastructure) affords the virtual the capacity for redundancy. To use the famous *piracy* example, I can copy a movie and the original file remains untouched, which is as of the time of writing, still not possible with a car.
@@ -216,13 +216,13 @@ graph TD;
 
 fig. 5.1 Alarmlijst Artis expressed in a mermaid.js script
 
-[^501]:https://unhabitat.org/sites/default/files/download-manager-files/The%20Challenge%20of%20Slums%20-%20Global%20Report%20on%20Human%20Settlements%202003.pdf
-[^502]:https://architecture-appropriation.hetnieuweinstituut.nl/en/publication
+[^501]:United Nations Human Settlements Programme. *The Challenge of Slums : Global Report on Human Settlements, 2003*. London ; Sterling, Va: Earthscan Publications, 2003.
+[^502]:René Boer, Marina Otero Verzier, Katía Truijen, and Johannes Schwartz. *Architecture of Appropriation : On Squatting as Spatial Practice* (Rotterdam: Het Nieuwe Instituut, 2019), 11.
 [^5a]:Between 2010 and 2020, the average rent price per square meter in Amsterdam increased by around 50%: https://www.statista.com/statistics/612227/average-rent-in-four-largest-cities-in-the-netherlands-by-city/
-[^503]:https://web.archive.org/web/20190830180133/https://www.rd.nl/amsterdam-ontruimt-330-panden-sinds-kraakwet-1.259316
-[^504]:Architectures of Appropriation list alternative housing projects, (sub)cultural venues, food distribution centers, peoples' kitchens, legal support, media outlets and medical services as nodes in this network.
+[^503]:“Amsterdam Ontruimt 330 Panden Sinds Kraakwet.” RD.nl, June 15, 2012.  https://www.rd.nl/artikel/450870-amsterdam-ontruimt-330-panden-sinds-kraakwet.
+[^504]:Architectures of Appropriation list alternative housing projects, (sub)cultural venues, food distribution centers, peoples' kitchens, legal support, media outlets and medical services as nodes in this network. René Boer et al., *Architecture of Appropriation*, 18.
 [^505]: Examples in Amsterdam include OT301 (located at Overtoom 301) and W139 (Warmoesstraat 139).
-[^506]:In a time before cell phones, this flowchart, composed on a typewriter and distributed through copying machines, mapped out how, in case of an emergency such as violent groups attacking one of the squats, the different nodes in the immediate network of Plantage Dok should be contacted for support, in which order, by who, and by what means (by *fiets*, meaning by bike, or by *bellen*, meaning by phone). Sourced from the book *Architectures of Appropriation*.
+[^506]:In a time before cell phones, this flowchart, composed on a typewriter and distributed through copying machines, mapped out how, in case of an emergency such as violent groups attacking one of the squats, the different nodes in the immediate network of Plantage Dok should be contacted for support, in which order, by who, and by what means (by *fiets*, meaning by bike, or by *bellen*, meaning by phone). Boer et al., 55.
 
 
 
@@ -337,16 +337,16 @@ graph TD;
 fig. 7.1 In the words of singer Nelly Furtado, All good things come to an end. Thank you to Ada Reinthal for the initial diagram.
 
 [^701]:DDS even preceded even Geocities by a few months.
-[^702]:What is a freenet, you ask? I still need to write this footnote.
+[^702]:A proto-www network of computers that gave users free access to information, and in some cases like here the internet.
 [^703]:Already back in 2019, the (potentially biased) Dutch Data Center Association called the Netherlands the leader in data centers in Europe, see: https://www.dutchdatacenters.nl/en/nieuws/dutchdatacenters2019-2/
 [^704]:It's hard to find exact numbers on this. However, there are some things I can say about this, but I have to still write this footnote.
-[^705]:http://staging.berlinartprize.com/essay-william-kherbek/
-[^706]:Sheldon Wolin, need proper quote
-[^707]:Explain the tragedy of the commons
-[^708]:Silvio Lorusso, the User Condition
+[^705]:Kherbek, William. “Techno-Feudalism and the Tragedy of the Commons.” *Doggerland*, no. 1 (2016).
+[^706]:Wolin, Sheldon S. *Democracy Incorporated : Managed Democracy and the Specter of Inverted Totalitarianism*. Princeton ; Oxford: Princeton University Press, 2017.
+[^707]:An economics problem in which everyone has equal access to a resource. The idea is that, if everyone were to act according to what they consider to be their immediate best interests, it would lead to over consumption, and the depletion of the resource.
+[^708]:Lorusso, Silvio. “The User Condition.” theusercondition.computer, 2020. https://theusercondition.computer.
 [^709]:The only one more powerful than the coder might be *non-user*, the one who doesn't use computers to begin with. Lorusso evokes the images of big-tech-CEOs that don't let their kids use social media, alluding to the privilege required for this sort of refusal, which is also expressed in Kherbek's example of airbnb.
 [^710]:One can't help but think of the quote attributed to Edward Tufte, that the only industries that call their customers *users* are software companies and drug dealers, which is another way to think of dependencies.
-[^711]:Or, he adds, without our toilet trying to kill us. James Bridle, New Dark Age, 2018
+[^711]:Or, he adds, without our toilet trying to kill us. Bridle, James. *New Dark Age : Technology and the End of the Future.* Orca Book Services, 2019.
 [^712]:shit
 [^714]: For example *domain squatting*, the practice of buying up domain names of companies and well known individuals before they do, mostly with the goal of selling them for a higher price afterwards.
 
@@ -354,31 +354,31 @@ fig. 7.1 In the words of singer Nelly Furtado, All good things come to an end. T
 
 ## Appendix: Incomplete and Unordered List of Reasons to Refuse *the Cloud*
 
-- Workers in the Global South are being exploited and our devices are assembled by modern day slaves. Probably the only ethical hardware is second hand.[^AP01]
-- Rare earths such as Lithium are extracted from indigenous lands without their consent and with no accountability for the environment.[^AP02]
+- Workers in the Global South are being exploited and our devices are assembled by modern day slaves.[^AP01]
+- Rare metals like cobalt, essential for lithium batteries, are extracted under horrible conditions and among others by children.[^APA][^APB]
+
+- Other metals, like lithium are extracted from indigenous lands without consent or regard for the environment.[^AP02]
+
 - E-Waste is polluting the planet and is being dumped in landfills without regulations in the global south, poisoning both the lands and the people.[^AP03]
-- Tech companies and governments by extension are constantly spying on us. The right to privacy is being eroded and the surveillance state is being facilitated.[^AP04]
-- For almost a decade we have had reliable evidence that tech companies are forwarding information gathered about their users to governments, yet nothing has changed.[^AP05]
-- Social media companies profit from radicalization and a divided political landscape, disconnected filter bubbles and rabbit holes are not a by-product but part of the product.[^AP06]
-- The massive proliferation of fake news actively costs lives (see: anti-vaxxers) and is being facilitated by the big platforms.[^AP07]
-- The internet, and most devices we carry in our pockets like smart phones, are developed from US military technology. Possibilities for surveillance for example are no accident.[^AP09]
+- Tech companies are constantly spying on us through our devices. The right to privacy is being eroded.[^AP04]
+- This information is passed on to government agencies and the surveillance state is being facilitated.[^AP05]
+- Social media companies profit from radicalization and a divided political landscape, fake news, disconnected filter bubbles and rabbit holes are not a by-product but part of the product.[^AP06]
+- The internet, and most devices we carry in our pockets like smart phones, are developed from US military technology.[^AP09]
 - *Tech* is a race to the brain stem. Some of the most-educated people in the world spend all their energy in selling us ads. Thinking we could resist the machinery is like thinking we could win against a super computer in chess.[^AP10]
-- It's addictive on purpose. At places like the Stanford Persuasive Technology Lab people have been trained to specifically find ways of persuading users to keep using their products, and metrics like engagement are still the main factors their design.[^AP11]
+- It's addictive on purpose. At places like the Stanford Persuasive Technology Lab people have been trained to specifically find ways of persuading users to change their behavior through digital stimuli like rewards.[^AP11]
 - Big companies that have incrompehensible terms and conditions instead of constitutions can censor users without any form of accountability or oversight.[^AP12]
-- Even though participation is always voluntary, social (and financial!) pressure to participate often outweighs any serious form of alternative.[^AP13]
 
 fig. AP.1: The terms cloud is a bit of a stand-in for everything wrong with the internet, in this case
 
-[^AP01]:(need to still back this up with a footnote)
-[^AP02]:(need to still back this up with a footnote)
-[^AP03]:(need to still back this up with a footnote)
-[^AP04]:(need to still back this up with a footnote)
-[^AP05]:(need to still back this up with a footnote)
-[^AP06]:(need to still back this up with a footnote)
-[^AP07]:(need to still back this up with a footnote)
-[^AP08]:(need to still back this up with a footnote)
-[^AP09]:(need to still back this up with a footnote)
-[^AP10]:(need to still back this up with a footnote)
-[^AP11]:(need to still back this up with a footnote)
-[^AP12]:(need to still back this up with a footnote)
-[^AP13]:(need to still back this up with a footnote)
+[^AP01]:Kastrenakes, Jacob. “Apple Suppliers Linked to Uyghur Forced Labor in  New Report.” The Verge, May 10, 2021.  https://www.theverge.com/2021/5/10/22428899/apple-suppliers-china-uyghur-forced-labor-report.
+[^APA]: Axbom, Per. “The Slavery Supported by That Device in Your Pocket.”  ethical.net, July 6, 2020.  https://ethical.net/technology/the-slavery-supported-the-device-in-your-pocket/.
+[^APB]: Amnesty Internation. “This Is What We Die For,” 2016.  https://www.amnesty.org/en/wp-content/uploads/2021/05/AFR6231832016ENGLISH.pdf.
+[^AP02]:Greenblatt, James. “Lithium Mining & Indigenous Populations.”  Psychiatry Redefined, December 14, 2020.  https://www.psychiatryredefined.org/lithium-mining-indigenous-populations/.
+[^AP03]:Gribkoff, Elizabeth. “Consumers Will Throw Away 63.3 Million Tons of  Electronic Waste This Year. Where Will It Go?” Children’s Health  Defense, October 18, 2021.  https://childrenshealthdefense.org/defender/electronic-waste-digital-dumps-global-south/.
+[^AP04]: Leith, Douglas J. “Obile Handset Privacy: Measuring the Data IOS and Android Send to Apple and Google.” In *Security and Privacy in Communication Networks. SecureComm 2021. Lecture Notes  of the Institute for Computer Sciences, Social Informatics and  Telecommunications Engineering, Vol 399*, edited by Joaquin Garcia-Alfaro, Shujun Li, Radha Poovendran, Hervé Debar, and Moti Yung. S.L.: Springer, 2021.
+[^AP05]:MacAskill, Ewen, Gabriel Dance, Feilding Cage, Greg Chen, and Nadja  Popovich. “NSA Files Decoded: Edward Snowden’s Surveillance Revelations  Explained.” The Guardian. The Guardian, March 23, 2014.  https://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded.
+[^AP06]:Paul, Kari, and Dani Anguiano. “Facebook Crisis Grows as New  Whistleblower and Leaked Documents Emerge.” the Guardian, October 23,  2021.  https://www.theguardian.com/technology/2021/oct/22/facebook-whistleblower-hate-speech-illegal-report.
+[^AP09]:Clark, James. “How the US Military Invented the IPhone.” Task &  Purpose, September 8, 2016.  https://taskandpurpose.com/gear-tech/us-military-invented-iphone/.
+[^AP10]:Center For Humane Technology. “Technology Is Downgrading Humanity: Let’s Reverse That Trend Now.” Medium, August 3, 2019.  https://medium.com/@HumaneTech_/technology-is-downgrading-humanity-lets-reverse-that-trend-now-893fb9f6e580.
+[^AP11]:Stanford University. “Persuasion through Mobile Devices and Operant  Conditioning via Interactive Technology.” mediaX at Stanford University. Accessed January 14, 2022.  https://mediax.stanford.edu/research-projects/scs-fogg/.
+[^AP12]:ToS;DR Team. “Terms of Service; Didn’t Read.” Tosdr.org. Terms of Service; Didn’t Read, 2019. https://tosdr.org/.
