@@ -25,7 +25,7 @@
 * [ ] read daniel loick
 * [ ] contact jeffrey from jeffrey's cinema!
 * [ ] ask feedback from
-  * [ ] jeffrey?
+  * [ ] jeffrey
   * [ ] rene
   * [ ] silvio
   * [ ] flavia
