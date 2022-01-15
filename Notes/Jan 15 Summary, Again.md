@@ -32,13 +32,4 @@
 7. **Trespassing, an Afterword**
    1. we need the hacky diy aproaches, learn from the squatting scene, to build a good digital practice
 8. **Appendix: Unordered List of Reasons to Refuse the Cloud**
-   1. 
-
-
-
-## Questions for Will
-
-- Chicago seems stupid with most of my references
-- Shortening 4-500 words
-- diagrams?
-- clear enough?
+   1. everything is terrible
