@@ -23,7 +23,6 @@
 4. **Back to the Land**
    1. The internet is no longer a separate space, it's running on physical infrastructure.
    2. So we have to deal with it through infrastructure, let's apply tactics from IRL
-   3. ==a lot of the things i wanted to put in still fit here==
 5. **Occupying the Land**
    1. political squatting is creating forms of independence, by embedding yourself in small local networks
    2. it's about solidarity

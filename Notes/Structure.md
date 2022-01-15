@@ -38,13 +38,6 @@
 
 # Things that need to change
 
-- should i mention adobe? being trapped etc? design harder
-- the text about material internet
-  - file:///Users/lukasengelhardt/Downloads/SSRN-id2166874.pdf
-- metahaven quote:
-  - “The idea of cyberspace posed a line of separation between the internet and the real world. **Cyberspace would be a separate universe.** Created by people, enabled by technology, and **occupied by information.** **Geopolitically, it would be like the sea once was.** An unregulated and fluid space where ordinary rules need not apply.” (Metahaven, Black transparency, page XV)
-- image from paul
-  - ![th?id=oip.6cydewk3mzw_7nnkxg6j8whaev-pid=api-f=1](original_bb1d2080c02e12b8359dbbc9dedf090a.jpg)
 - images
   - squatting sign probably
   - how to show a network diagram with cloud?
@@ -54,17 +47,11 @@
 # Things that are Missing
 
 - where do squatting and tech actually mix
-  - where are we using (big) tech to squat?
-    - google maps
-    - twitter
-    - instagram for promotion
-    - but also self hosting, wifi dish, encrypted server
-    - potentially mesh networks
-  - ==airbnb is the mix of tech, or the cloud, and housing==
   - but it goes the other way around, too: tech is penetrating our houses, the two issues are no longer separate
     - smart homes, but also just internet cables, devices
-- Smart Cities, like the line
-  - could be a cool image
+  - Smart Cities, like the line
+    - could be a cool image
+  - smart homes, smart cities
 - Why is everything a space?
   - Why is crypto a space?
   - Why are chats chatRooms?
@@ -72,52 +59,3 @@
 - Refusal
   - Jenny Odell, the third space!
   - ==Silvio says becoming a non-user can be more powerful than a hacker==
-- Urgency
-  - This is really a key point, also architectures of appropriation wise. The aesthetics is defined by urgency
-    - when you stop squatting, it stops being so urgent
-  - Nomadism
-    - Flusser says we are all nomads now, because of the way information penetrates our lives, there is no differenciation between public and private
-      - this alone already relates to squatting
-    - squatting is always precarious, always ad-hoc, at the same time dependent on location and independent from it. always nomadic
-    - every squat ends!
-    - everyone is talking about digital nomads, but flusser argues we already are nomads, have always been, and everything is digital
-  - clarify: it's not about being separate from the city, necessarily, but being so much at home in it that your house is all over
-- Reusing what is there
-  - **the server than ada built compared to a linux cyberdeck**
-  - **reusing what is there**
-  - relating this to architectures of apropriation
-  - the computer you buy matters more than what you make on it
-- Different ideas of freedom
-  - autonomy is not (only) about separating yourself
-  - the discussion about who to let in
-    - gatekeeping, stackoverflow
-    - open source/door policies
-    - licensing (varia, check link form mike)
-    - principles of squatting applied to tech
-    - seasteading is also open source. Flavia: who is going to clean?
-  - Libertarian Leisure culture
-    - steve jobs homeless
-  - seasteading vs. pirate radio
-  - the slick mesh network tool
-  - cyberdecks
-    - cyberprepping
-  - VPNs, mainstream, commodification, arrested development (something with privacy i guess? fake block)
-  - libertarian leisure culture
-- privilege/survival?
-  - steve jobs was homeless
-  - women of surinam movie?
-  - **we have apartments, why didwe need hotel mokum?**
-    - ==housing crisis, price increase amsterdam, from 2010 150%==
-      - [link](https://www.statista.com/statistics/612227/average-rent-in-four-largest-cities-in-the-netherlands-by-city/)
-    - 2010 really is where it all went wrong lol
-  - maybe i could include where i wrote this thesis, both on a mac, and in sweden, both in company of my closest childhood friend and with an open source aproach.
-    - abstract?
-  - **i don't think this needs to be a point but read the essay one time with this in mind. What is the precarity of living in Amsterdam?**
-- when did the internet become a cloud?
-  - the moment it transitioned from arpanet, internet archive guy's text
-  - techno feudalism
-  - 2010, year of the squatting ban!
-  - a few owning what belongs to the many
-- influence of counter culture on computers and the internet
-  - hippies, but also hacker culture!
-  - **CCC?**
