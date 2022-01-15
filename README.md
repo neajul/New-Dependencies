@@ -1,2 +1,6 @@
 # New-Dependencies
-Master Thesis Lukas Engelhardt. Can we learn from the squatting movement when trying to build a more sustainable digital practice?
+Dear Reader,
+
+This is my Master Thesis *New Dependencies*. In it I ask whether we can learn from the political squatting movement when trying to build a more sustainable digital practice.
+
+I would appreciate any form of feedback :-)
