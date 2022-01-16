@@ -29,14 +29,16 @@
   * [ ] rene
   * [ ] silvio
   * [ ] flavia
-  * [ ] paul
-  * [ ] esther
-  * [ ] carmen
+  * [x] paul
+  * [x] esther
+  * [x] carmen
   * [ ] william kherbek
   * [ ] seb from ot
   * [ ] inc/geert lovink
   * [ ] augustina
   * [ ] miquel
+  * [ ] daniel
+  * [ ] Kevin
 * [x] formulate Research Question™️
 * [x] Rewrite the surf part after reading the text of the wayback guy
 * [x] Put everything into one file!
