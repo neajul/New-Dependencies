@@ -26,19 +26,19 @@
 * [ ] contact jeffrey from jeffrey's cinema!
 * [ ] ask feedback from
   * [ ] jeffrey
-  * [ ] rene
-  * [ ] silvio
-  * [ ] flavia
+  * [x] rene
+  * [x] silvio
+  * [x] flavia
   * [x] paul
   * [x] esther
   * [x] carmen
   * [ ] william kherbek
-  * [ ] seb from ot
-  * [ ] inc/geert lovink
-  * [ ] augustina
-  * [ ] miquel
-  * [ ] daniel
-  * [ ] Kevin
+  * [x] seb from ot
+  * [x] inc/geert lovink
+  * [x] augustina
+  * [x] miquel
+  * [x] daniel
+  * [x] Kevin
 * [x] formulate Research Question™️
 * [x] Rewrite the surf part after reading the text of the wayback guy
 * [x] Put everything into one file!
