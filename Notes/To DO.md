@@ -24,15 +24,15 @@
   * [ ] the one from her and daniel
 * [ ] read daniel loick
 * [ ] contact jeffrey from jeffrey's cinema!
-* [ ] ask feedback from
-  * [ ] jeffrey
+* [x] ask feedback from
+  * [x] jeffrey
   * [x] rene
   * [x] silvio
   * [x] flavia
   * [x] paul
   * [x] esther
   * [x] carmen
-  * [ ] william kherbek
+  * [x] william kherbek
   * [x] seb from ot
   * [x] inc/geert lovink
   * [x] augustina
