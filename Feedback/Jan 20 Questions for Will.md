@@ -1,4 +1,0 @@
-- Chicago seems stupid with most of my references
-- Shortening 4-500 words
-- diagrams?
-- clear enough?
