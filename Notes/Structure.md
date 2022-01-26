@@ -43,19 +43,33 @@
   - how to show a network diagram with cloud?
   - i don't like the way the thundercloud logo is used atm, it's not an image like the others somehow
     - maybe squat adobe cloud?
+- **more specifics in the ending**
+  - stealing wifi, self hosting with paul, archive, signal groups/matrix servers
+  - non-normative behavior, are there similar dynamics/psychologies in the digital?
+    - specificall rene says: how can non-normative spatial behavior translate to non-normative digital behavior?
+    - game you can't win
 
-# Things that are Missing
+# Feedback
 
-- where do squatting and tech actually mix
-  - but it goes the other way around, too: tech is penetrating our houses, the two issues are no longer separate
-    - smart homes, but also just internet cables, devices
-  - Smart Cities, like the line
-    - could be a cool image
-  - smart homes, smart cities
-- Why is everything a space?
-  - Why is crypto a space?
-  - Why are chats chatRooms?
-  - Why are discord servers spaces? Because they are behind a paywall? Is a paid new york times article also a space?
-- Refusal
-  - Jenny Odell, the third space!
-  - ==Silvio says becoming a non-user can be more powerful than a hacker==
+## Will
+
+- Change footnote format
+  - now bibliography, needs to be footnotes
+
+## Miquel
+
+- more diagrams?
+  - how *does* a toilet work?
+  - everythign pipes, tubes and plumbing
+    - **maybe nice title? plumbing?**
+- more specifics in the end
+  - **more diagrams?**
+- design: can there be touches of markdown semantic tags?
+- more links!
+
+## Paul
+
+- what does all of this mean as a graphic designer?
+  - refuse adobe?
+  - could also be diagrams?
+  - but also solidarity networks, work with friends

@@ -22,12 +22,12 @@
 - 1 cloud gazing
   - mythical or mystical?
     - mist-ical?
-  - roland barthes, myth
-    - we all buy into it, but it doesn't exist
+    - roland barthes, myth
+      - we all buy into it, but it doesn't exist
   - also frederic jameson essay on neuromancer
 - 4 Back to the land
   - cyberspace as the magic space, maybe could be a footnote to neuromancer?
-  - with anonymity the oiptimism had left. Causailt or correlation?
+  - with anonymity the optimism had left. Causailt or correlation?
     - it infringed upon out lives as it became augmented or whatever
 - Kraakspreekuren
   - **only one u**
