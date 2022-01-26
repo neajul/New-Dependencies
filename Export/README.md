@@ -7,6 +7,7 @@ You can download the latest version here in different formats, at the moment:
 
 - markdown. Written in [Typora](https://typora.io/), so some features might not work in all markdown editors
 - apple pages if that's your jam
+- rtf(d) which seems pretty universal, but probably not perfectly converted
 - pdf for everything else
 
 I would appreciate any form of feedback :-)
