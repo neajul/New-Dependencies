@@ -375,7 +375,7 @@ If there is anything to learn from the world of squatting when building a digita
 [^71]: shit
 [^72]: Boer et al., 10
 [^73]: For example *domain squatting*, the practice of buying up domain names of companies and well known individuals before they do, mostly with the goal of selling them for a higher price afterwards.
-[^74]: After our inevitable eviction, for example, Hotel Mokum is, at the time of writing, being turned back into a hotel and travel agency. 
+[^74]: After our inevitable eviction, for example, Hotel Mokum is, at the time of writing, being turned back into a hotel. 
 [^75]: Lorusso points out that in UNIX based operating systems, users have /home folders, which is not true for iOS and Android users, rendering them effectively homeless. Lorusso, “The User Condition”.
 
 
