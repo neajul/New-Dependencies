@@ -5,11 +5,10 @@ This is my Master Thesis *New Dependencies*. In it I ask whether we can learn fr
 
 You can download the latest version here in different formats, at the moment:
 
-- markdown. Written in [Typora](https://typora.io/), so some features might not work in all markdown editors
 - apple pages if that's your jam
-- rtf(d) which seems pretty universal, but probably not perfectly converted
 - pdf for everything else
+- While the text is initially written in markdown, I still need to do a bit of formatting before releasing the original file here.
 
-I would appreciate any form of feedback :-)
+Lmk what u think
 
 <img src="../Writing/image-20211129212407097.png" alt="image-20211129212407097" style="zoom:50%;" />
